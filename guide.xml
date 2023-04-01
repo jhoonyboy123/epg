@@ -3,6 +3,8 @@
 <channel id="AandE.br"><display-name>A&amp;E BR</display-name><icon src="https://static.epg.best/br/AandE.br.png"/></channel>
 
 <channel id="ESPN.br"><display-name>ESPN BR</display-name><icon src="https://static.epg.best/br/ESPN.br.png"/></channel>
+
+<channel id="FX.br"><display-name>FX BR</display-name><icon src="https://static.epg.best/br/FX.br.png"/></channel>
 <iepg>135492</iepg>
 <programme start="20230331020900 +0200" stop="20230331030600 +0200" channel="AandE.br">
     <title lang="es">Bosch</title>
@@ -541,7 +543,7 @@
     <category lang="es">Filme</category>
     <icon src="https://cdn.mitvstatic.com/programs/br_antes-de-dormir-2014-1_l_m.jpg"/>
   </programme>
-<programme start="20230402073600 +0200" stop="20230402090900 +0200" channel="AandE.br">
+<programme start="20230402073600 +0200" stop="20230402073600 +0200" channel="AandE.br">
     <title lang="es">Acumuladores Compulsivos</title>
     <sub-title lang="es">Sherry</sub-title>
     <desc lang="es">Sherry não pagou sua hipoteca durante dois anos e acumulou uma parede de lixo de quase dois metros de altura que a protege do mundo exterior. Agora, seus filhos querem ajudá-la a limpar sua casa e recuperar sua vida</desc>
@@ -549,7 +551,7 @@
     <icon src="https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos-s11e02-sherry_l_m.jpg"/>
     <episode-num system="xmltv_ns">10.1.</episode-num>
   </programme>
-<programme start="20230402073600 +0200" stop="20230402073600 +0200" channel="AandE.br">
+<programme start="20230402073600 +0200" stop="20230402090900 +0200" channel="AandE.br">
     <title lang="es">Acumuladores Compulsivos</title>
     <sub-title lang="es">Sherry</sub-title>
     <desc lang="es">Sherry não pagou sua hipoteca durante dois anos e acumulou uma parede de lixo de quase dois metros de altura que a protege do mundo exterior. Agora, seus filhos querem ajudá-la a limpar sua casa e recuperar sua vida</desc>
@@ -1713,13 +1715,13 @@
     <desc lang="es">Fique por dentro dos principais fatos e imagens que marcaram o dia do noticiário esportivo, com temas fundamentais e polêmicos, informações apuradas e opiniões transparentes, sem abrir mão do bom humor</desc>
     <icon src="https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter_l_m.jpg"/>
   </programme>
-<programme start="20230402064500 +0200" stop="20230402091500 +0200" channel="ESPN.br">
+<programme start="20230402064500 +0200" stop="20230402064500 +0200" channel="ESPN.br">
     <title lang="es">Vegas Vipers x San Antonio Brahmas</title>
     <desc lang="es">Acompanhe as emoções da XFL, liga secundária de futebol americano profissional dos EUA</desc>
     <category lang="es">XFL</category>
     <icon src="https://cdn.mitvstatic.com/programs/br_football-vegas-vipers-x-san-antonio-brahmas_l_m.jpg"/>
   </programme>
-<programme start="20230402064500 +0200" stop="20230402064500 +0200" channel="ESPN.br">
+<programme start="20230402064500 +0200" stop="20230402091500 +0200" channel="ESPN.br">
     <title lang="es">Vegas Vipers x San Antonio Brahmas</title>
     <desc lang="es">Acompanhe as emoções da XFL, liga secundária de futebol americano profissional dos EUA</desc>
     <category lang="es">XFL</category>
@@ -2081,5 +2083,1315 @@
     <desc lang="es">Acompanhe as emoções da principal liga de basquete do mundo, composta por equipes norte-americanas. [(135492)]</desc>
     <category lang="es">NBA</category>
     <icon src="https://cdn.mitvstatic.com/programs/br_basketball-milwaukee-bucks-x-chicago-bulls_l_m.jpg"/>
+  </programme>
+<programme start="20230331030000 +0200" stop="20230331045000 +0200" channel="FX.br">
+    <title lang="es">O Predador</title>
+    <desc lang="es">Uma perseguição entre naves alienígenas traz à Terra um novo predador, que acaba sendo capturado por humanos. Antes disso, ele tem seu capacete e bracelete roubados por Quinn McKenna, um atirador de elite que estava em missão no local onde a nave caiu. A bióloga Casey Brackett é chamada para examinar o ser recém-descoberto, mas ele logo consegue escapar do laboratório em que é mantido em cativeiro</desc>
+    <credits>
+      <actor>Boyd Holbrook</actor>
+      <actor>Trevante Rhodes</actor>
+      <actor>Jacob Tremblay</actor>
+      <actor>Keegan-Michael Key</actor>
+      <actor>Olivia Munn</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Science fiction</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_o-predador-2018_l_m.jpg"/>
+  </programme>
+<programme start="20230331064500 +0200" stop="20230331081900 +0200" channel="FX.br">
+    <title lang="es">O Grito</title>
+    <desc lang="es">Uma enfermeira americana que mora e trabalha em Tóquio é exposta a uma maldição misteriosa em que um espírito se apodera da pessoa, desencadeando um violento surto de raiva, antes de clamar sua vida e passar à próxima vítima.</desc>
+    <credits>
+      <actor>Sarah Gellar</actor>
+      <actor>Jason Behr</actor>
+      <actor>William Mapother</actor>
+      <actor>Clea DuVall</actor>
+      <actor>KaDee Strickland</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Horror</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_o-grito-2004_l_m.jpg"/>
+    <star-rating system="ES">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+<programme start="20230331081900 +0200" stop="20230331100700 +0200" channel="FX.br">
+    <title lang="es">O Grito 2</title>
+    <desc lang="es">Aubrey vai em busca de sua irmã Karen, que está em um hospital no Japão. Ao chegar lá, é avisada de que Karen está presa a uma maldição, a qual recai sobre ela depois da morte de sua irmã. Livres da casa que os prendia, os espíritos querem vingança.</desc>
+    <credits>
+      <actor>Amber Tamblyn</actor>
+      <actor>Sarah Gellar</actor>
+      <actor>Jennifer Beals</actor>
+      <actor>Arielle Kebbel</actor>
+      <actor>Teresa Palmer</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Horror</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_o-grito-2-2006-1_l_m.jpg"/>
+  </programme>
+<programme start="20230331100700 +0200" stop="20230331114700 +0200" channel="FX.br">
+    <title lang="es">O Grito 3</title>
+    <desc lang="es">A vida de uma família de Chicago, amaldiçoada pelo espírito diabólico de Kayako, depende de uma jovem japonesa que tem o segredo para deter o fantasma que tomou conta do prédio onde eles moram.</desc>
+    <credits>
+      <actor>Matthew Knight</actor>
+      <actor>Shawnee Smith</actor>
+      <actor>Mike Straub</actor>
+      <actor>Aiko Horiuchi</actor>
+      <actor>Shimba Tsuchiya</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Horror</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_o-grito-3-2009-1_l_m.jpg"/>
+  </programme>
+<programme start="20230331114700 +0200" stop="20230331115400 +0200" channel="FX.br">
+    <title lang="es">Zoom In</title>
+    <desc lang="es">Faça uma emocionante viagem pela produção dos melhores filmes. Fique por dentro de tudo o que aconteceu por trás dos bastidores, orçamento, equipe e elenco de cada obra em apenas sete minutos.</desc>
+    <category lang="es">Entertainment</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_zoom-in_l_m.jpg"/>
+  </programme>
+<programme start="20230331115400 +0200" stop="20230331120000 +0200" channel="FX.br">
+    <title lang="es">Zoom In</title>
+    <desc lang="es">Faça uma emocionante viagem pela produção dos melhores filmes. Fique por dentro de tudo o que aconteceu por trás dos bastidores, orçamento, equipe e elenco de cada obra em apenas sete minutos.</desc>
+    <category lang="es">Entertainment</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_zoom-in_l_m.jpg"/>
+  </programme>
+<programme start="20230331120000 +0200" stop="20230331130000 +0200" channel="FX.br">
+    <title lang="es">The Amazing Race</title>
+    <sub-title lang="es">Eu Deveria Ter Sido um Escoteiro</sub-title>
+    <desc lang="es">Onze novas equipes de estrelas das redes sociais partem para a Cidade do México</desc>
+    <category lang="es">Séries</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_the-amazing-race-s28e01-eu-deveria-ter-sido-um-escoteiro_l_m.jpg"/>
+    <episode-num system="xmltv_ns">27.0.</episode-num>
+  </programme>
+<programme start="20230331130000 +0200" stop="20230331140000 +0200" channel="FX.br">
+    <title lang="es">Arquivo X</title>
+    <sub-title lang="es">Sob a Superfície</sub-title>
+    <desc lang="es">Um antigo caso de Doggett é reaberto após uma série de assassinatos brutais e inexplicáveis, possivelmente cometidos por um assassino que consegue passar despercebido</desc>
+    <category lang="es">Séries</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_arquivo-x-s09e12-sob-a-superficie_l_m.jpg"/>
+    <episode-num system="xmltv_ns">8.11.</episode-num>
+  </programme>
+<programme start="20230331140000 +0200" stop="20230331162000 +0200" channel="FX.br">
+    <title lang="es">Guardiões do Dia</title>
+    <desc lang="es">Anton, um guardião sobrenatural, descobre que seu filho é culpado por uma série de mortes. O Lado Negro tenta tirar Anton do caminho e, ao mesmo tempo, um pedaço de giz mágico com poder de mudar o destino é a chave para a batalha entre o bem e o mal</desc>
+    <credits>
+      <actor>Konstantin Khabensky</actor>
+      <actor>Mariya Poroshina</actor>
+      <actor>Vladimir Menshov</actor>
+      <actor>Viktor Verzhbitsky</actor>
+      <actor>Galina Tyunina</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Horror</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_guardi-es-do-dia-2006_l_m.jpg"/>
+    <star-rating>
+      <value>6.6</value>
+    </star-rating>
+  </programme>
+<programme start="20230331162000 +0200" stop="20230331183500 +0200" channel="FX.br">
+    <title lang="es">Tango One, o Mais Procurado</title>
+    <desc lang="es">Em seu primeiro dia de treinamento com a Polícia Metropolitana de Londres, três recrutas são designados a uma equipe de detetives encobertos. Sua missão é derrubar um dos traficantes mais famosos do mundo, conhecido como 'Tango One'</desc>
+    <credits>
+      <actor>Vincent Regan</actor>
+      <actor>Sophie Colquhoun</actor>
+      <actor>Lauren Coe</actor>
+      <actor>Joseph Millson</actor>
+      <actor>Nicky Henson</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Crime drama</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_tango-one-o-mais-procurado-2018_l_m.jpg"/>
+  </programme>
+<programme start="20230331183500 +0200" stop="20230331202000 +0200" channel="FX.br">
+    <title lang="es">Rajada de Fogo</title>
+    <desc lang="es">O universitário Jake Lo é perseguido por traficantes, mafiosos e agentes federais corruptos após ter testemunhado o assassinato de um pivô da máfia. Quando o programa de proteção à testemunha falha, ele tem que se proteger com suas próprias armas: suas mãos. Determinado a sobreviver, ele deixa sem saída os senhores do tráfico de drogas de Chicago, com a ajuda de um policial renegado e sua bela parceira</desc>
+    <credits>
+      <actor>Brandon Lee</actor>
+      <actor>Powers Boothe</actor>
+      <actor>Nick Mancuso</actor>
+      <actor>Raymond Barry</actor>
+      <actor>Kate Hodge</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_rajada-de-fogo-1992_l_m.jpg"/>
+  </programme>
+<programme start="20230331202000 +0200" stop="20230331222500 +0200" channel="FX.br">
+    <title lang="es">3 Dias para Matar</title>
+    <desc lang="es">Um veterano agente secreto, que está à beira da morte, quer construir uma relação mais próxima com a ex-mulher e a filha, de quem manteve sempre uma certa distância como forma de a proteger. Temendo não ter tempo hábil para salvar seus relacionamentos com as duas, este homem descobre a existência de uma potente droga que pode salvá-lo, contanto que ele aceite um último trabalho: apanhar o terrorista mais cruel do mundo</desc>
+    <credits>
+      <actor>Kevin Costner</actor>
+      <actor>Amber Heard</actor>
+      <actor>Hailee Steinfeld</actor>
+      <actor>Connie Nielsen</actor>
+      <actor>Tómas Lemarquis</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_3-dias-para-matar-2014-1_l_m.jpg"/>
+  </programme>
+<programme start="20230331222500 +0200" stop="20230401010000 +0200" channel="FX.br">
+    <title lang="es">Missão Impossível - Efeito Fallout</title>
+    <desc lang="es">Em uma perigosa tarefa para recuperar plutônio roubado, Ethan Hunt opta por salvar sua equipe em vez de completar a missão. Com isso, armas nucleares caem nas mãos de agentes altamente qualificados e que pertencem a uma rede mortal que deseja destruir a civilização. Agora, com o mundo em risco, Ethan e sua equipe da IMF são forçados a aliar-se a um obstinado agente da CIA</desc>
+    <credits>
+      <actor>Tom Cruise</actor>
+      <actor>Henry Cavill</actor>
+      <actor>Ving Rhames</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Rebecca Ferguson</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_miss-o-impossivel-efeito-fallout-2018_l_m.jpg"/>
+  </programme>
+<programme start="20230401010000 +0200" stop="20230401030000 +0200" channel="FX.br">
+    <title lang="es">Quatro Irmãos</title>
+    <desc lang="es">Uma mãe adotiva de quatro meninos carentes de Detroit é morta durante um assalto mal feito. Os filhos, que hoje são adultos, vão para o enterro e acabam descobrindo que ela pode ter sido assassinada. Eles decidem se unir para investigar e planejam se vingar de quem cometeu o crime</desc>
+    <credits>
+      <actor>Mark Wahlberg</actor>
+      <actor>Tyrese Gibson</actor>
+      <actor>André Benjamin</actor>
+      <actor>Garrett Hedlund</actor>
+      <actor>Terrence Howard</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Crime drama</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_quatro-irm-os-2005_l_m.jpg"/>
+    <star-rating>
+      <value>6.9</value>
+    </star-rating>
+  </programme>
+<programme start="20230401030000 +0200" stop="20230401045000 +0200" channel="FX.br">
+    <title lang="es">Cidade dos Homens</title>
+    <desc lang="es">Amigos de infância, Acerola e Laranjinha estão se aproximando dos 18 anos. Acerola cria seu filho sozinho, já que a mãe vai trabalhar em São Paulo. Laranjinha tenta encontrar seu pai, sumido há muito tempo. Eventualmente, Laranjinha o encontra e fica sabendo que ele acabou de cumprir uma pena de 15 anos na cadeia. À medida que verdades do passado surgem, os dois amigos têm sua amizade testada</desc>
+    <credits>
+      <actor>Douglas Silva</actor>
+      <actor>Darlan Cunha</actor>
+      <actor>Jonathan Haagensen</actor>
+      <actor>Rodrigo dos Santos</actor>
+      <actor>Eduardo BR</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_cidade-dos-homens-2007-1_l_m.jpg"/>
+  </programme>
+<programme start="20230401045000 +0200" stop="20230401070000 +0200" channel="FX.br">
+    <title lang="es">Cidade Implacável</title>
+    <desc lang="es">Quatro amigos voltam ao Nono Distrito após o Furacão Katrina e encontram suas casas devastadas. Depois de recorrer a um membro de uma gangue local para trabalhar, eles são contratados para cometer um arriscado assalto a um cassino</desc>
+    <credits>
+      <actor>Shameik Moore</actor>
+      <actor>Demetrius Shipp Jr.</actor>
+      <actor>Denzel Whitaker</actor>
+      <actor>Keean Johnson</actor>
+      <actor>Ethan Hawke</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Crime drama</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_cidade-implacavel-2020_l_m.jpg"/>
+  </programme>
+<programme start="20230401070000 +0200" stop="20230401070000 +0200" channel="FX.br">
+    <title lang="es">Vingança a Sangue-Frio</title>
+    <desc lang="es">Nels é um tranquilo homem de família que trabalha como motorista de um removedor de neve e vê seu mundo virado de cabeça para baixo quando seu filho é morto por um poderoso traficante de drogas. Impulsionado pelo desejo de vingança e sem nada para perder, ele faz tudo o que por preciso para destruir o cartel</desc>
+    <credits>
+      <actor>Liam Neeson</actor>
+      <actor>Tom Bateman</actor>
+      <actor>Tom Jackson</actor>
+      <actor>Emmy Rossum</actor>
+      <actor>Domenick Lombardozzi</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_vinganca-a-sangue-frio-2019-1_l_m.jpg"/>
+  </programme>
+<programme start="20230401070100 +0200" stop="20230401085700 +0200" channel="FX.br">
+    <title lang="es">Vingança a Sangue-Frio</title>
+    <desc lang="es">Nels é um tranquilo homem de família que trabalha como motorista de um removedor de neve e vê seu mundo virado de cabeça para baixo quando seu filho é morto por um poderoso traficante de drogas. Impulsionado pelo desejo de vingança e sem nada para perder, ele faz tudo o que por preciso para destruir o cartel.</desc>
+    <credits>
+      <actor>Liam Neeson</actor>
+      <actor>Tom Bateman</actor>
+      <actor>Tom Jackson</actor>
+      <actor>Emmy Rossum</actor>
+      <actor>Domenick Lombardozzi</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_vinganca-a-sangue-frio-2019-1_l_m.jpg"/>
+  </programme>
+<programme start="20230401085700 +0200" stop="20230401105900 +0200" channel="FX.br">
+    <title lang="es">A Guerra dos Roses</title>
+    <desc lang="es">Depois de 18 anos juntos, um casal decide se separar. No entanto, o divórcio se torna uma grande disputa pela luxuosa mansão. Nenhum dos dois quer ceder e acabam se envolvendo em um emaranhado de sentimentos de ódio e vingança.</desc>
+    <credits>
+      <actor>Michael Douglas</actor>
+      <actor>Kathleen Turner</actor>
+      <actor>Danny DeVito</actor>
+      <actor>Marianne Sagebrecht</actor>
+      <actor>Sean Astin</actor>
+    </credits>
+    <date>1989</date>
+    <category lang="es">Dark comedy</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_a-guerra-dos-roses-1989_l_m.jpg"/>
+  </programme>
+<programme start="20230401105900 +0200" stop="20230401114700 +0200" channel="FX.br">
+    <title lang="es">The Amazing Race</title>
+    <sub-title lang="es">Eu Deveria Ter Sido um Escoteiro</sub-title>
+    <desc lang="es">Onze novas equipes de estrelas das redes sociais partem para a Cidade do México.</desc>
+    <category lang="es">Séries</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_the-amazing-race-s28e01-eu-deveria-ter-sido-um-escoteiro_l_m.jpg"/>
+    <episode-num system="xmltv_ns">27.0.</episode-num>
+  </programme>
+<programme start="20230401114700 +0200" stop="20230401115400 +0200" channel="FX.br">
+    <title lang="es">Zoom In</title>
+    <desc lang="es">Faça uma emocionante viagem pela produção dos melhores filmes. Fique por dentro de tudo o que aconteceu por trás dos bastidores, orçamento, equipe e elenco de cada obra em apenas sete minutos.</desc>
+    <category lang="es">Entertainment</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_zoom-in_l_m.jpg"/>
+  </programme>
+<programme start="20230401115400 +0200" stop="20230401120000 +0200" channel="FX.br">
+    <title lang="es">Zoom In</title>
+    <desc lang="es">Faça uma emocionante viagem pela produção dos melhores filmes. Fique por dentro de tudo o que aconteceu por trás dos bastidores, orçamento, equipe e elenco de cada obra em apenas sete minutos.</desc>
+    <category lang="es">Entertainment</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_zoom-in_l_m.jpg"/>
+  </programme>
+<programme start="20230401120000 +0200" stop="20230401133300 +0200" channel="FX.br">
+    <title lang="es">O Grito</title>
+    <desc lang="es">Uma enfermeira americana que mora e trabalha em Tóquio é exposta a uma maldição misteriosa em que um espírito se apodera da pessoa, desencadeando um violento surto de raiva, antes de clamar sua vida e passar à próxima vítima.</desc>
+    <credits>
+      <actor>Sarah Gellar</actor>
+      <actor>Jason Behr</actor>
+      <actor>William Mapother</actor>
+      <actor>Clea DuVall</actor>
+      <actor>KaDee Strickland</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Horror</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_o-grito-2004_l_m.jpg"/>
+    <star-rating system="ES">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+<programme start="20230401133300 +0200" stop="20230401151700 +0200" channel="FX.br">
+    <title lang="es">O Grito 2</title>
+    <desc lang="es">Aubrey vai em busca de sua irmã Karen, que está em um hospital no Japão. Ao chegar lá, é avisada de que Karen está presa a uma maldição, a qual recai sobre ela depois da morte de sua irmã. Livres da casa que os prendia, os espíritos querem vingança.</desc>
+    <credits>
+      <actor>Amber Tamblyn</actor>
+      <actor>Sarah Gellar</actor>
+      <actor>Jennifer Beals</actor>
+      <actor>Arielle Kebbel</actor>
+      <actor>Teresa Palmer</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Horror</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_o-grito-2-2006-1_l_m.jpg"/>
+  </programme>
+<programme start="20230401151700 +0200" stop="20230401165300 +0200" channel="FX.br">
+    <title lang="es">O Grito 3</title>
+    <desc lang="es">A vida de uma família de Chicago, amaldiçoada pelo espírito diabólico de Kayako, depende de uma jovem japonesa que tem o segredo para deter o fantasma que tomou conta do prédio onde eles moram.</desc>
+    <credits>
+      <actor>Matthew Knight</actor>
+      <actor>Shawnee Smith</actor>
+      <actor>Mike Straub</actor>
+      <actor>Aiko Horiuchi</actor>
+      <actor>Shimba Tsuchiya</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Horror</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_o-grito-3-2009-1_l_m.jpg"/>
+  </programme>
+<programme start="20230401165300 +0200" stop="20230401185100 +0200" channel="FX.br">
+    <title lang="es">Predador 2</title>
+    <desc lang="es">Um alienígena predador, invisível e equipado com armas poderosas, desembarca em Los Angeles, devastada pelo conflito de gangues de traficantes rivais, para iniciar seu festival de matança, deixando um rastro de corpos mutilados em seu caminho.</desc>
+    <credits>
+      <actor>Danny Glover</actor>
+      <actor>Gary Busey</actor>
+      <actor>Ruben Blades</actor>
+      <actor>Maria Alonso</actor>
+      <actor>Bill Paxton</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="es">Science fiction</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_predador-2-1990_l_m.jpg"/>
+    <star-rating system="ES">
+      <value>6.2</value>
+    </star-rating>
+  </programme>
+<programme start="20230401185100 +0200" stop="20230401202900 +0200" channel="FX.br">
+    <title lang="es">Alien vs. Predador</title>
+    <desc lang="es">Os satélites do bilionário Charles Bishop Weyland detectam uma pirâmide enterrada sob o gelo antártico e ele monta uma equipe de cientistas, arqueólogos e engenheiros para explorá-la. A equipe descobre que a pirâmide abriga duas espécies de alienígenas. Uma delas considera os humanos incubadores para seus jovens. A outra espécie é de atletas intergalácticos que caçam seus opostos por diversão. A equipe de Weyland fica no meio do fogo cruzado.</desc>
+    <credits>
+      <actor>Sanaa Lathan</actor>
+      <actor>Raoul Bova</actor>
+      <actor>Lance Henriksen</actor>
+      <actor>Ewen Bremner</actor>
+      <actor>Colin Salmon</actor>
+    </credits>
+    <date>2004</date>
+    <category lang="es">Science fiction</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_alien-vs-predador-2004_l_m.jpg"/>
+    <star-rating system="ES">
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+<programme start="20230401202900 +0200" stop="20230401224300 +0200" channel="FX.br">
+    <title lang="es">Alien: Covenant</title>
+    <desc lang="es">A tripulação do navio-colônia Covenant, ligada a um remoto planeta no lado distante da galáxia, descobre o que eles acreditam ser um paraíso inexplorado, mas na verdade é um mundo escuro e perigoso.</desc>
+    <credits>
+      <actor>Michael Fassbender</actor>
+      <actor>Katherine Waterston</actor>
+      <actor>Billy Crudup</actor>
+      <actor>Danny McBride</actor>
+      <actor>Demián Bichir</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Science fiction</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_alien-covenant-2017_l_m.jpg"/>
+  </programme>
+<programme start="20230401224300 +0200" stop="20230402004000 +0200" channel="FX.br">
+    <title lang="es">O Predador</title>
+    <desc lang="es">Uma perseguição entre naves alienígenas traz à Terra um novo predador, que acaba sendo capturado por humanos. Antes disso, ele tem seu capacete e bracelete roubados por Quinn McKenna, um atirador de elite que estava em missão no local onde a nave caiu. A bióloga Casey Brackett é chamada para examinar o ser recém-descoberto, mas ele logo consegue escapar do laboratório em que é mantido em cativeiro.</desc>
+    <credits>
+      <actor>Boyd Holbrook</actor>
+      <actor>Trevante Rhodes</actor>
+      <actor>Jacob Tremblay</actor>
+      <actor>Keegan-Michael Key</actor>
+      <actor>Olivia Munn</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Science fiction</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_o-predador-2018_l_m.jpg"/>
+  </programme>
+<programme start="20230402004000 +0200" stop="20230402030500 +0200" channel="FX.br">
+    <title lang="es">Missão Impossível - Efeito Fallout</title>
+    <desc lang="es">Em uma perigosa tarefa para recuperar plutônio roubado, Ethan Hunt opta por salvar sua equipe em vez de completar a missão. Com isso, armas nucleares caem nas mãos de agentes altamente qualificados e que pertencem a uma rede mortal que deseja destruir a civilização. Agora, com o mundo em risco, Ethan e sua equipe da IMF são forçados a aliar-se a um obstinado agente da CIA.</desc>
+    <credits>
+      <actor>Tom Cruise</actor>
+      <actor>Henry Cavill</actor>
+      <actor>Ving Rhames</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Rebecca Ferguson</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_miss-o-impossivel-efeito-fallout-2018_l_m.jpg"/>
+  </programme>
+<programme start="20230402030500 +0200" stop="20230402054600 +0200" channel="FX.br">
+    <title lang="es">Gladiador</title>
+    <desc lang="es">Maximus é um poderoso general romano, amado pelo povo e pelo imperador Marcus Aurelius. Antes de sua morte, o Imperador desperta a ira de seu filho Commodus ao tornar pública a sua predileção em deixar o trono para Maximus. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego, e passa a se esconder como um escravo e gladiador enquanto vai atrás de vingança.</desc>
+    <credits>
+      <actor>Russell Crowe</actor>
+      <actor>Joaquin Phoenix</actor>
+      <actor>Connie Nielsen</actor>
+      <actor>Oliver Reed</actor>
+      <actor>Derek Jacobi</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Historical drama</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_gladiador-2000_l_m.jpg"/>
+    <star-rating system="ES">
+      <value>8.5</value>
+    </star-rating>
+  </programme>
+<programme start="20230402054600 +0200" stop="20230402073900 +0200" channel="FX.br">
+    <title lang="es">Quatro Irmãos</title>
+    <desc lang="es">Uma mãe adotiva de quatro meninos carentes de Detroit é morta durante um assalto mal feito. Os filhos, que hoje são adultos, vão para o enterro e acabam descobrindo que ela pode ter sido assassinada. Eles decidem se unir para investigar e planejam se vingar de quem cometeu o crime.</desc>
+    <credits>
+      <actor>Mark Wahlberg</actor>
+      <actor>Tyrese Gibson</actor>
+      <actor>André Benjamin</actor>
+      <actor>Garrett Hedlund</actor>
+      <actor>Terrence Howard</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Crime drama</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_quatro-irm-os-2005_l_m.jpg"/>
+    <star-rating system="ES">
+      <value>6.9</value>
+    </star-rating>
+  </programme>
+<programme start="20230402073900 +0200" stop="20230402073900 +0200" channel="FX.br">
+    <title lang="es">Ma</title>
+    <desc lang="es">Uma mulher solteira de meia-idade faz amizade com alguns adolescentes e decide deixá-los festejar em sua casa. Mas começam a acontecer coisas que fazem os garotos questionar a intenção da anfitriã.</desc>
+    <credits>
+      <actor>Octavia Spencer</actor>
+      <actor>Diana Silvers</actor>
+      <actor>Juliette Lewis</actor>
+      <actor>McKaley Miller</actor>
+      <actor>Corey Fogelmanis</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Thriller</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_ma-2019_l_m.jpg"/>
+    <star-rating system="ES">
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+<programme start="20230402073900 +0200" stop="20230402091200 +0200" channel="FX.br">
+    <title lang="es">Ma</title>
+    <desc lang="es">Uma mulher solteira de meia-idade faz amizade com alguns adolescentes e decide deixá-los festejar em sua casa. Mas começam a acontecer coisas que fazem os garotos questionar a intenção da anfitriã.</desc>
+    <credits>
+      <actor>Octavia Spencer</actor>
+      <actor>Diana Silvers</actor>
+      <actor>Juliette Lewis</actor>
+      <actor>McKaley Miller</actor>
+      <actor>Corey Fogelmanis</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Thriller</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_ma-2019_l_m.jpg"/>
+    <star-rating system="ES">
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+<programme start="20230402091200 +0200" stop="20230402113600 +0200" channel="FX.br">
+    <title lang="es">Clube da Luta</title>
+    <desc lang="es">Um homem deprimido que sofre de insônia conhece um estranho vendedor chamado Tyler Durden e se vê morando em uma casa suja depois que seu perfeito apartamento é destruído. A dupla forma um clube com regras rígidas onde homens lutam. A parceria perfeita é comprometida quando uma mulher, Marla, atrai a atenção de Tyler.</desc>
+    <credits>
+      <actor>Brad Pitt</actor>
+      <actor>Edward Norton</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Meat Loaf</actor>
+      <actor>Jared Leto</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Thriller</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_clube-da-luta-1999-2_l_m.jpg"/>
+  </programme>
+<programme start="20230402113600 +0200" stop="20230402120000 +0200" channel="FX.br">
+    <title lang="es">Prata da Casa</title>
+    <sub-title lang="es">O Amor É um Paraíso...Fiscal</sub-title>
+    <desc lang="es">Dico parte para o Japão, onde pretende encontrar seus ancestrais, deixando Sérgio Henrique emotivo e com a responsabilidade de resolver os problemas financeiros da academia.</desc>
+    <category lang="es">Séries</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_prata-da-casa-s01e13-o-amor-e-um-paraiso-fiscal_l_m.jpg"/>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+  </programme>
+<programme start="20230402120000 +0200" stop="20230402143000 +0200" channel="FX.br">
+    <title lang="es">O Segredo do Abismo</title>
+    <desc lang="es">A equipe de uma plataforma de exploração de petróleo deve resgatar um submarino nuclear que afundou misteriosamente. Assim, começa a operação rumo ao fundo do oceano, onde existe algo inimaginável</desc>
+    <credits>
+      <actor>Ed Harris</actor>
+      <actor>Mary Elizabeth Mastrantonio</actor>
+      <actor>Michael Biehn</actor>
+      <actor>Leo Burmester</actor>
+      <actor>Todd Graff</actor>
+    </credits>
+    <date>1989</date>
+    <category lang="es">Science fiction</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_o-segredo-do-abismo-1989_l_m.jpg"/>
+  </programme>
+<programme start="20230402143000 +0200" stop="20230402165000 +0200" channel="FX.br">
+    <title lang="es">Oblivion</title>
+    <desc lang="es">Em 2077, Jack Harper é o responsável pela manutenção de equipamentos de segurança em um planeta Terra irreconhecível, que foi destruído por uma raça alienígena. O que restou da humanidade vive hoje em uma colônia lunar, para onde Jack irá assim que terminar seu trabalho na Terra. Porém um dia, ele encontra a espaçonave de uma mulher e, ao conhecê-la, tudo o que Jack sabe até então é posto em dúvida, iniciando-se uma jornada em que ele precisará descobrir o que realmente aconteceu no passado</desc>
+    <credits>
+      <actor>Tom Cruise</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Olga Kurylenko</actor>
+      <actor>Andrea Riseborough</actor>
+      <actor>Nikolaj Coster-Waldau</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Science fiction</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_oblivion-2013_l_m.jpg"/>
+    <star-rating>
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+<programme start="20230402165000 +0200" stop="20230402183500 +0200" channel="FX.br">
+    <title lang="es">MIB3 - Homens de Preto 3</title>
+    <desc lang="es">Um extraterrestre planeja voltar no tempo para assassinar o Agente K, mudando o curso da História e colocando a humanidade em risco. Para salvar não apenas a vida do parceiro, mas também o mundo, o Agente J também viaja ao passado para impedir o crime</desc>
+    <credits>
+      <actor>Will Smith</actor>
+      <actor>Tommy Jones</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Jemaine Clement</actor>
+      <actor>Michael Stuhlbarg</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_mib3-homens-de-preto-3-2012_l_m.jpg"/>
+  </programme>
+<programme start="20230402183500 +0200" stop="20230402211000 +0200" channel="FX.br">
+    <title lang="es">Bad Boys II</title>
+    <desc lang="es">Os detetives Marcus Burnett e Mike Lowrey são escolhidos para investigar a proliferação de ecstasy na cidade de Miami. As investigações levam a um alvo maior, Johnny Tapia, um traficante cuja ambição de tomar conta do tráfico na cidade inicia uma verdadeira guerra sangrenta contra criminosos russos e haitianos. Em meio a esta situação, Lowrey passa a se interessar por Syd, irmã de Burnett, o que põe a amizade dos detetives à prova</desc>
+    <credits>
+      <actor>Martin Lawrence</actor>
+      <actor>Will Smith</actor>
+      <actor>Jordi Mollà</actor>
+      <actor>Gabrielle Union</actor>
+      <actor>Peter Stormare</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_bad-boys-ii-2003_l_m.jpg"/>
+    <star-rating>
+      <value>6.5</value>
+    </star-rating>
+  </programme>
+<programme start="20230402211000 +0200" stop="20230402230500 +0200" channel="FX.br">
+    <title lang="es">Quatro Irmãos</title>
+    <desc lang="es">Uma mãe adotiva de quatro meninos carentes de Detroit é morta durante um assalto mal feito. Os filhos, que hoje são adultos, vão para o enterro e acabam descobrindo que ela pode ter sido assassinada. Eles decidem se unir para investigar e planejam se vingar de quem cometeu o crime</desc>
+    <credits>
+      <actor>Mark Wahlberg</actor>
+      <actor>Tyrese Gibson</actor>
+      <actor>André Benjamin</actor>
+      <actor>Garrett Hedlund</actor>
+      <actor>Terrence Howard</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="es">Crime drama</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_quatro-irm-os-2005_l_m.jpg"/>
+    <star-rating>
+      <value>6.9</value>
+    </star-rating>
+  </programme>
+<programme start="20230402230500 +0200" stop="20230403005500 +0200" channel="FX.br">
+    <title lang="es">Eu Sou o Número Quatro</title>
+    <desc lang="es">John Smith parece ser um adolescente comum, mas é, na verdade, um alienígena do planeta Lorien entre nove que estão vivendo como humanos na Terra. Seu objetivo é se esconder dos Mogadorians, inimigos que precisam eliminar todos eles na sequência correta. Para isso, ele troca de identidade e cidade constantemente com a ajuda de seu guardião, Henri. Com os números Um, Dois e Três assassinados, John é o próximo a ser perseguido, mas encontra uma razão para parar de fugir</desc>
+    <credits>
+      <actor>Alex Pettyfer</actor>
+      <actor>Timothy Olyphant</actor>
+      <actor>Dianna Agron</actor>
+      <actor>Teresa Palmer</actor>
+      <actor>Callan McAuliffe</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_eu-sou-o-numero-quatro-2011-1_l_m.jpg"/>
+  </programme>
+<programme start="20230403005500 +0200" stop="20230403030000 +0200" channel="FX.br">
+    <title lang="es">Warcraft - O Primeiro Encontro de Dois Mundos</title>
+    <desc lang="es">Em busca de uma nova terra para viver, os guerreiros Orc atravessam um portal e chegam até Azeroth, uma região pacífica que vira um campo de batalha pela sobrevivência de dois povos</desc>
+    <credits>
+      <actor>Travis Fimmel</actor>
+      <actor>Paula Patton</actor>
+      <actor>Ben Foster</actor>
+      <actor>Dominic Cooper</actor>
+      <actor>Toby Kebbell</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Fantasy</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_warcraft-o-primeiro-encontro-de-dois-mundos-2016_l_m.jpg"/>
+  </programme>
+<programme start="20230403030000 +0200" stop="20230403043500 +0200" channel="FX.br">
+    <title lang="es">As Tartarugas Ninja</title>
+    <desc lang="es">Um grupo de tartarugas é afetado por uma substância radioativa, ganha força, conhecimento e cresce. Vivendo no esgoto, quatro jovens tartarugas descobrem um novo destino como Tartarugas Ninja. Elas unirão forças com a corajosa repórter April O' Neil para salvar Nova York do domínio do diabólico Shredder, o Destruidor, e seu grupo maligno.</desc>
+    <credits>
+      <actor>Megan Fox</actor>
+      <actor>Will Arnett</actor>
+      <actor>William Fichtner</actor>
+      <actor>Danny Woodburn</actor>
+      <actor>Abby Elliott</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_as-tartarugas-ninja-2014_l_m.jpg"/>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+<programme start="20230403043500 +0200" stop="20230403071000 +0200" channel="FX.br">
+    <title lang="es">Missão Impossível - Efeito Fallout</title>
+    <desc lang="es">Em uma perigosa tarefa para recuperar plutônio roubado, Ethan Hunt opta por salvar sua equipe em vez de completar a missão. Com isso, armas nucleares caem nas mãos de agentes altamente qualificados e que pertencem a uma rede mortal que deseja destruir a civilização. Agora, com o mundo em risco, Ethan e sua equipe da IMF são forçados a aliar-se a um obstinado agente da CIA.</desc>
+    <credits>
+      <actor>Tom Cruise</actor>
+      <actor>Henry Cavill</actor>
+      <actor>Ving Rhames</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Rebecca Ferguson</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_miss-o-impossivel-efeito-fallout-2018_l_m.jpg"/>
+  </programme>
+<programme start="20230403071000 +0200" stop="20230403071000 +0200" channel="FX.br">
+    <title lang="es">Tiras, Só que Não</title>
+    <desc lang="es">Os amigos Ryan e Justin decidem ir a uma festa fantasiados de policiais. Só que, em pouco tempo, toda a vizinhança acredita que eles realmente são tiras, e os dois viram a sensação do bairro. Porém, quando encontram policiais de verdade, os dois são obrigados a enfrentar o crime, mafiosos e detetives corruptos.</desc>
+    <credits>
+      <actor>Jake Johnson</actor>
+      <actor>Damon Wayans Jr.</actor>
+      <actor>Rob Riggle</actor>
+      <actor>Nina Dobrev</actor>
+      <actor>James D'Arcy</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Comedy</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_tiras-so-que-n-o-2014-1_l_m.jpg"/>
+  </programme>
+<programme start="20230403071000 +0200" stop="20230403090000 +0200" channel="FX.br">
+    <title lang="es">Tiras, Só que Não</title>
+    <desc lang="es">Os amigos Ryan e Justin decidem ir a uma festa fantasiados de policiais. Só que, em pouco tempo, toda a vizinhança acredita que eles realmente são tiras, e os dois viram a sensação do bairro. Porém, quando encontram policiais de verdade, os dois são obrigados a enfrentar o crime, mafiosos e detetives corruptos.</desc>
+    <credits>
+      <actor>Jake Johnson</actor>
+      <actor>Damon Wayans Jr.</actor>
+      <actor>Rob Riggle</actor>
+      <actor>Nina Dobrev</actor>
+      <actor>James D'Arcy</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Comedy</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_tiras-so-que-n-o-2014-1_l_m.jpg"/>
+  </programme>
+<programme start="20230403090000 +0200" stop="20230403102500 +0200" channel="FX.br">
+    <title lang="es">Os Vampiros que se Mordam</title>
+    <desc lang="es">Becca, uma adolescente angustiada, está dividida entre duas possibilidades: o vampiro Edward e o lobisomem Jacob. Mas ela precisa encontrar uma maneira de se livrar do pai controlador, que a trata como uma criança indefesa. Enquanto isso, suas amigas têm seus próprios problemas românticos que virão à tona no baile de formatura.</desc>
+    <credits>
+      <actor>Matt Lanter</actor>
+      <actor>Jenn Proske</actor>
+      <actor>Chris Riggi</actor>
+      <actor>Ken Jeong</actor>
+      <actor>Diedrich Bader</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Comedy</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_os-vampiros-que-se-mordam-2010-1_l_m.jpg"/>
+  </programme>
+<programme start="20230403102500 +0200" stop="20230403120000 +0200" channel="FX.br">
+    <title lang="es">Borat</title>
+    <desc lang="es">Um famoso repórter do Cazaquistão viaja aos Estados Unidos para fazer um documentário sobre os hábitos dos cidadãos norte-americanos, provocando situações absurdas por onde passa.</desc>
+    <credits>
+      <actor>Sacha Baron Cohen</actor>
+      <actor>Ken Davitian</actor>
+      <actor>Luenell</actor>
+      <actor>Mitchell Falk</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Comedy</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_borat-2006_l_m.jpg"/>
+  </programme>
+<programme start="20230403120000 +0200" stop="20230403124500 +0200" channel="FX.br">
+    <title lang="es">The Amazing Race</title>
+    <sub-title lang="es">Você Está Parecendo um Gollum</sub-title>
+    <desc lang="es">As equipes viajam para a Colômbia, onde nadam em um vulcão de lama e tentam assar peixes.</desc>
+    <category lang="es">Séries</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_the-amazing-race-s28e02-voce-esta-parecendo-um-gollum_l_m.jpg"/>
+    <episode-num system="xmltv_ns">27.1.</episode-num>
+  </programme>
+<programme start="20230403124500 +0200" stop="20230403133000 +0200" channel="FX.br">
+    <title lang="es">Impeachment: American Crime Story</title>
+    <sub-title lang="es">Exiliadas</sub-title>
+    <desc lang="es">Após a morte de seu chefe, a funcionária da Casa Branca Linda Tripp é transferida para o Pentágono, onde conhece Monica Lewinsky. Paula Jones decide processar o presidente por assédio sexual.</desc>
+    <category lang="es">Séries</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_impeachment-american-crime-story-s03e01-exiliadas_l_m.jpg"/>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+  </programme>
+<programme start="20230403133000 +0200" stop="20230403141500 +0200" channel="FX.br">
+    <title lang="es">Arquivo X</title>
+    <sub-title lang="es">Improvável</sub-title>
+    <desc lang="es">Apostando em suas crenças espirituais e na numerologia, Reyes liga mortes inexplicadas a um assassino em série.</desc>
+    <category lang="es">Séries</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_arquivo-x-s09e13-improvavel_l_m.jpg"/>
+    <episode-num system="xmltv_ns">8.12.</episode-num>
+  </programme>
+<programme start="20230403141500 +0200" stop="20230403163000 +0200" channel="FX.br">
+    <title lang="es">Confronto no Pavilhão 99</title>
+    <desc lang="es">Bradley Thomas é um ex-boxeador que perde o emprego como mecânico e resolve trabalhar como entregador de drogas. Depois de uma entrega de rotina sair terrivelmente errado, Bradley é preso e mergulha em um inferno de extrema violência.</desc>
+    <credits>
+      <actor>Vince Vaughn</actor>
+      <actor>Jennifer Carpenter</actor>
+      <actor>Don Johnson</actor>
+      <actor>Marc Blucas</actor>
+      <actor>Tom Guiry</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_confronto-no-pavilh-o-99-2017_l_m.jpg"/>
+  </programme>
+<programme start="20230403163000 +0200" stop="20230403180000 +0200" channel="FX.br">
+    <title lang="es">Assalto ao Carro Blindado</title>
+    <desc lang="es">Depois de retornar do Iraque, Ty Hackett vai trabalhar para a mesma transportadora de valores que seu pai trabalhou. Seu padrinho e mentor, Mike Cochrane, revela o plano de roubar os caminhões blindados da empresa. Ty, que teve de entregar seu irmão para adoção após perder a casa, concorda em participar do assalto. Contando com um plano aparentemente infalível, os homens do carro-forte vão tentar roubar milhões sem machucar ninguém.</desc>
+    <credits>
+      <actor>Matt Dillon</actor>
+      <actor>Jean Reno</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>Amaury Nolasco</actor>
+      <actor>Fred Ward</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Thriller</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_assalto-ao-carro-blindado-2009-1_l_m.jpg"/>
+  </programme>
+<programme start="20230403180000 +0200" stop="20230403193000 +0200" channel="FX.br">
+    <title lang="es">Bad Ass - Acima da Lei</title>
+    <desc lang="es">Um veterano condecorado da Guerra do Vietnã fica famoso através de internet por bater em bandidos em um ônibus para defender um senhor negro, mas sua sorte pode mudar ao fazer justiça com as próprias mãos quando seu melhor amigo é assassinado.</desc>
+    <credits>
+      <actor>Danny Trejo</actor>
+      <actor>Charles Dutton</actor>
+      <actor>Ron Perlman</actor>
+      <actor>Joyful Drake</actor>
+      <actor>Patrick Fabian</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_bad-ass-acima-da-lei-2012-1_l_m.jpg"/>
+  </programme>
+<programme start="20230403193000 +0200" stop="20230403213500 +0200" channel="FX.br">
+    <title lang="es">Cidade Implacável</title>
+    <desc lang="es">Quatro amigos voltam ao Nono Distrito após o Furacão Katrina e encontram suas casas devastadas. Depois de recorrer a um membro de uma gangue local para trabalhar, eles são contratados para cometer um arriscado assalto a um cassino.</desc>
+    <credits>
+      <actor>Shameik Moore</actor>
+      <actor>Demetrius Shipp Jr.</actor>
+      <actor>Denzel Whitaker</actor>
+      <actor>Keean Johnson</actor>
+      <actor>Ethan Hawke</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Crime drama</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_cidade-implacavel-2020_l_m.jpg"/>
+  </programme>
+<programme start="20230403213500 +0200" stop="20230403232000 +0200" channel="FX.br">
+    <title lang="es">Quebrando Regras 3 - Não se Rendam</title>
+    <desc lang="es">O ex-campeão de MMA Case Walker tem se mantido longe dos holofotes há muito tempo. Ele agora luta em pequenos torneios locais e ensina os oponentes a aprimorar suas habilidades. Case aceita treinar o velho amigo Brody James, e viaja para a Tailândia, onde logo entra em conflito com o outro treinador de Brody. Para piorar a situação, ele é ridicularizado por trabalhar com Cobra, um lutador arrogante, mas estas complicações só o deixam mais determinado a reconquistar sua glória.</desc>
+    <credits>
+      <actor>Michael White</actor>
+      <actor>Josh Barnett</actor>
+      <actor>Gillian White</actor>
+      <actor>JeeJa Yanin</actor>
+      <actor>Esai Morales</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_quebrando-regras-3-n-o-se-rendam-2016-1_l_m.jpg"/>
+  </programme>
+<programme start="20230403232000 +0200" stop="20230404011000 +0200" channel="FX.br">
+    <title lang="es">Eu Sou o Número Quatro</title>
+    <desc lang="es">John Smith parece ser um adolescente comum, mas é, na verdade, um alienígena do planeta Lorien entre nove que estão vivendo como humanos na Terra. Seu objetivo é se esconder dos Mogadorians, inimigos que precisam eliminar todos eles na sequência correta. Para isso, ele troca de identidade e cidade constantemente com a ajuda de seu guardião, Henri. Com os números Um, Dois e Três assassinados, John é o próximo a ser perseguido, mas encontra uma razão para parar de fugir.</desc>
+    <credits>
+      <actor>Alex Pettyfer</actor>
+      <actor>Timothy Olyphant</actor>
+      <actor>Dianna Agron</actor>
+      <actor>Teresa Palmer</actor>
+      <actor>Callan McAuliffe</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_eu-sou-o-numero-quatro-2011-1_l_m.jpg"/>
+  </programme>
+<programme start="20230404011000 +0200" stop="20230404030000 +0200" channel="FX.br">
+    <title lang="es">Cidade dos Homens</title>
+    <desc lang="es">Amigos de infância, Acerola e Laranjinha estão se aproximando dos 18 anos. Acerola cria seu filho sozinho, já que a mãe vai trabalhar em São Paulo. Laranjinha tenta encontrar seu pai, sumido há muito tempo. Eventualmente, Laranjinha o encontra e fica sabendo que ele acabou de cumprir uma pena de 15 anos na cadeia. À medida que verdades do passado surgem, os dois amigos têm sua amizade testada.</desc>
+    <credits>
+      <actor>Douglas Silva</actor>
+      <actor>Darlan Cunha</actor>
+      <actor>Jonathan Haagensen</actor>
+      <actor>Rodrigo dos Santos</actor>
+      <actor>Eduardo BR</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Drama</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_cidade-dos-homens-2007-1_l_m.jpg"/>
+  </programme>
+<programme start="20230404030000 +0200" stop="20230404053500 +0200" channel="FX.br">
+    <title lang="es">Bad Boys II</title>
+    <desc lang="es">Os detetives Marcus Burnett e Mike Lowrey são escolhidos para investigar a proliferação de ecstasy na cidade de Miami. As investigações levam a um alvo maior, Johnny Tapia, um traficante cuja ambição de tomar conta do tráfico na cidade inicia uma verdadeira guerra sangrenta contra criminosos russos e haitianos. Em meio a esta situação, Lowrey passa a se interessar por Syd, irmã de Burnett, o que põe a amizade dos detetives à prova.</desc>
+    <credits>
+      <actor>Martin Lawrence</actor>
+      <actor>Will Smith</actor>
+      <actor>Jordi Mollà</actor>
+      <actor>Gabrielle Union</actor>
+      <actor>Peter Stormare</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_bad-boys-ii-2003_l_m.jpg"/>
+    <star-rating system="ES">
+      <value>6.5</value>
+    </star-rating>
+  </programme>
+<programme start="20230404053500 +0200" stop="20230404072000 +0200" channel="FX.br">
+    <title lang="es">As Tartarugas Ninja</title>
+    <desc lang="es">Um grupo de tartarugas é afetado por uma substância radioativa, ganha força, conhecimento e cresce. Vivendo no esgoto, quatro jovens tartarugas descobrem um novo destino como Tartarugas Ninja. Elas unirão forças com a corajosa repórter April O' Neil para salvar Nova York do domínio do diabólico Shredder, o Destruidor, e seu grupo maligno.</desc>
+    <credits>
+      <actor>Megan Fox</actor>
+      <actor>Will Arnett</actor>
+      <actor>William Fichtner</actor>
+      <actor>Danny Woodburn</actor>
+      <actor>Abby Elliott</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_as-tartarugas-ninja-2014_l_m.jpg"/>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+<programme start="20230404072000 +0200" stop="20230404072000 +0200" channel="FX.br">
+    <title lang="es">A Chegada</title>
+    <desc lang="es">Naves alienígenas chegaram às principais cidades do mundo. Com a intenção de se comunicar com os visitantes, uma linguista e um militar são chamados para decifrar as estranhas mensagens dos visitantes.</desc>
+    <credits>
+      <actor>Amy Adams</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Michael Stuhlbarg</actor>
+      <actor>Mark O'Brien</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Science fiction</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_a-chegada-2016_l_m.jpg"/>
+  </programme>
+<programme start="20230404072000 +0200" stop="20230404092000 +0200" channel="FX.br">
+    <title lang="es">A Chegada</title>
+    <desc lang="es">Naves alienígenas chegaram às principais cidades do mundo. Com a intenção de se comunicar com os visitantes, uma linguista e um militar são chamados para decifrar as estranhas mensagens dos visitantes.</desc>
+    <credits>
+      <actor>Amy Adams</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Michael Stuhlbarg</actor>
+      <actor>Mark O'Brien</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Science fiction</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_a-chegada-2016_l_m.jpg"/>
+  </programme>
+<programme start="20230404092000 +0200" stop="20230404111000 +0200" channel="FX.br">
+    <title lang="es">País da Violência</title>
+    <desc lang="es">A pequena cidade de Salem se torna caótica quando um hacker anônimo começa a revelar as mensagens pessoais e os segredos de milhares de pessoas.</desc>
+    <credits>
+      <actor>Odessa Young</actor>
+      <actor>Suki Waterhouse</actor>
+      <actor>Hari Nef</actor>
+      <actor>Abra</actor>
+      <actor>Bill Skarsgård</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_pais-da-violencia-2018_l_m.jpg"/>
+  </programme>
+<programme start="20230404111000 +0200" stop="20230404120000 +0200" channel="FX.br">
+    <title lang="es">The Amazing Race</title>
+    <sub-title lang="es">Você Está Parecendo um Gollum</sub-title>
+    <desc lang="es">As equipes viajam para a Colômbia, onde nadam em um vulcão de lama e tentam assar peixes.</desc>
+    <category lang="es">Séries</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_the-amazing-race-s28e02-voce-esta-parecendo-um-gollum_l_m.jpg"/>
+    <episode-num system="xmltv_ns">27.1.</episode-num>
+  </programme>
+<programme start="20230404120000 +0200" stop="20230404125000 +0200" channel="FX.br">
+    <title lang="es">The Amazing Race</title>
+    <sub-title lang="es">Amigos Marombas</sub-title>
+    <desc lang="es">As equipes percorrem a cidade velha de Cartagena, na Colômbia. Lá, eles exploram as antigas catacumbas, jogam Tejo, pegam os ônibus públicos e tentam rastrear mochilas em um mercado movimentado.</desc>
+    <category lang="es">Séries</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_the-amazing-race-s28e03-amigos-marombas_l_m.jpg"/>
+    <episode-num system="xmltv_ns">27.2.</episode-num>
+  </programme>
+<programme start="20230404125000 +0200" stop="20230404134000 +0200" channel="FX.br">
+    <title lang="es">Impeachment: American Crime Story</title>
+    <sub-title lang="es">O Presidente me Beijou</sub-title>
+    <desc lang="es">Monica revela a Linda que tem um caso com o homem mais poderoso do mundo.</desc>
+    <category lang="es">Séries</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_impeachment-american-crime-story-s03e02-o-presidente-me-beijou_l_m.jpg"/>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+  </programme>
+<programme start="20230404134000 +0200" stop="20230404143000 +0200" channel="FX.br">
+    <title lang="es">Arquivo X</title>
+    <sub-title lang="es">Monstros Assustadores</sub-title>
+    <desc lang="es">Monstros assustadores escondidos embaixo da cama de um garotinho podem ser algo mais do que produto da sua imaginação quando os agentes Harrison, Doggett e Reyes investigam um misterioso caso.</desc>
+    <category lang="es">Séries</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_arquivo-x-s09e14-monstros-assustadores_l_m.jpg"/>
+    <episode-num system="xmltv_ns">8.13.</episode-num>
+  </programme>
+<programme start="20230404143000 +0200" stop="20230404170000 +0200" channel="FX.br">
+    <title lang="es">Clube da Luta</title>
+    <desc lang="es">Um homem deprimido que sofre de insônia conhece um estranho vendedor chamado Tyler Durden e se vê morando em uma casa suja depois que seu perfeito apartamento é destruído. A dupla forma um clube com regras rígidas onde homens lutam. A parceria perfeita é comprometida quando uma mulher, Marla, atrai a atenção de Tyler.</desc>
+    <credits>
+      <actor>Brad Pitt</actor>
+      <actor>Edward Norton</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Meat Loaf</actor>
+      <actor>Jared Leto</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Thriller</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_clube-da-luta-1999-2_l_m.jpg"/>
+  </programme>
+<programme start="20230404170000 +0200" stop="20230404184500 +0200" channel="FX.br">
+    <title lang="es">Não Vai Dar</title>
+    <desc lang="es">Com o baile de formatura quase chegando, três jovens garotas fazem o pacto de perderem a virgindade na noite da festa. Os pais das três descobrem o plano delas e saem para tentar impedir que elas façam sexo, antes que seja tarde demais.</desc>
+    <credits>
+      <actor>Leslie Mann</actor>
+      <actor>Ike Barinholtz</actor>
+      <actor>John Cena</actor>
+      <actor>Kathryn Newton</actor>
+      <actor>Geraldine Viswanathan</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Comedy</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_n-o-vai-dar-2018_l_m.jpg"/>
+  </programme>
+<programme start="20230404184500 +0200" stop="20230404202500 +0200" channel="FX.br">
+    <title lang="es">Borat</title>
+    <desc lang="es">Um famoso repórter do Cazaquistão viaja aos Estados Unidos para fazer um documentário sobre os hábitos dos cidadãos norte-americanos, provocando situações absurdas por onde passa.</desc>
+    <credits>
+      <actor>Sacha Baron Cohen</actor>
+      <actor>Ken Davitian</actor>
+      <actor>Luenell</actor>
+      <actor>Mitchell Falk</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="es">Comedy</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_borat-2006_l_m.jpg"/>
+  </programme>
+<programme start="20230404202500 +0200" stop="20230404220000 +0200" channel="FX.br">
+    <title lang="es">Vizinhos 2</title>
+    <desc lang="es">Mac e Kelly decidem vender a casa e se mudar para o subúrbio, mas uma fraternidade nova e barulhenta chega à vizinhança. Para trazer a paz de volta, eles convocam sua arma secreta: Teddy.</desc>
+    <credits>
+      <actor>Seth Rogen</actor>
+      <actor>Zac Efron</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Chloë Moretz</actor>
+      <actor>Ike Barinholtz</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Comedy</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_vizinhos-2-2016_l_m.jpg"/>
+  </programme>
+<programme start="20230404220000 +0200" stop="20230404234000 +0200" channel="FX.br">
+    <title lang="es">Veneza</title>
+    <desc lang="es">Reencontrar o único homem que amou é o sonho de Gringa, dona de um bordel no interior do Brasil. Mesmo cega e muito doente, ela insiste em realizar seu último desejo: ir até Veneza para pedir perdão ao amante que abandonou décadas atrás. Para levá-la à cidade italiana, Tonho, Rita e as outras moças que trabalham para Gringa idealizam um fantástico plano com a ajuda de uma trupe circense.</desc>
+    <credits>
+      <actor>Carmen Maura</actor>
+      <actor>André Mattos</actor>
+      <actor>Dira Paes</actor>
+      <actor>Eduardo Moscovis</actor>
+      <actor>Danielle Winits</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Comedy drama</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_veneza-2019_l_m.jpg"/>
+  </programme>
+<programme start="20230404234000 +0200" stop="20230405012000 +0200" channel="FX.br">
+    <title lang="es">Ninguém Entra, Ninguém Sai</title>
+    <desc lang="es">Suellen é uma moça romântica, estudiosa e que tem um sonho: se casar com o namorado Edu para construir sua nova família. Quando ela é selecionada para um projeto bizarro, acredita que pode ser a chance para que o casamento aconteça mais rápido. Entretanto, ela descobre que vai ficar trancafiada em um motel barato com alguns outros casais, o que vai fazer ela repensar nos seus planos para o futuro.</desc>
+    <credits>
+      <actor>Letícia Lima</actor>
+      <actor>Emiliano D'Avila</actor>
+      <actor>Rafael Infante</actor>
+      <actor>Danielle Winits</actor>
+      <actor>Tatsu Carvalho</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Comedy</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_ninguem-entra-ninguem-sai-2017_l_m.jpg"/>
+    <star-rating system="ES">
+      <value>5.1</value>
+    </star-rating>
+  </programme>
+<programme start="20230405012000 +0200" stop="20230405030000 +0200" channel="FX.br">
+    <title lang="es">Professora sem Classe</title>
+    <desc lang="es">Para a maioria, o ensino é uma profissão honrosa, exceto para Elizabeth. A desbocada e embriagada professora mal pode esperar para se casar com um homem rico e largar o emprego, mas assim que seu namorado a deixa, ela precisa repensar sobre seus planos. Quando Scott Delacorte, um professor substituto bonito e rico chega à escola, Elizabeth encontra nele uma saída para sua situação, mas terá de enfrentar a forte concorrência de Amy, uma colega popular e alegre.</desc>
+    <credits>
+      <actor>Cameron Diaz</actor>
+      <actor>Justin Timberlake</actor>
+      <actor>Jason Segel</actor>
+      <actor>Lucy Punch</actor>
+      <actor>John Higgins</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Comedy</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_professora-sem-classe-2011-1_l_m.jpg"/>
+  </programme>
+<programme start="20230405030000 +0200" stop="20230405043000 +0200" channel="FX.br">
+    <title lang="es">Um Lugar Silencioso</title>
+    <desc lang="es">Em uma fazenda nos Estados Unidos, uma família do Meio-Oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som.</desc>
+    <credits>
+      <actor>Emily Blunt</actor>
+      <actor>John Krasinski</actor>
+      <actor>Millicent Simmonds</actor>
+      <actor>Noah Jupe</actor>
+      <actor>Cade Woodward</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Horror</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_um-lugar-silencioso-2018_l_m.jpg"/>
+  </programme>
+<programme start="20230405043000 +0200" stop="20230405062000 +0200" channel="FX.br">
+    <title lang="es">Predador 2</title>
+    <desc lang="es">Um alienígena predador, invisível e equipado com armas poderosas, desembarca em Los Angeles, devastada pelo conflito de gangues de traficantes rivais, para iniciar seu festival de matança, deixando um rastro de corpos mutilados em seu caminho.</desc>
+    <credits>
+      <actor>Danny Glover</actor>
+      <actor>Gary Busey</actor>
+      <actor>Ruben Blades</actor>
+      <actor>Maria Alonso</actor>
+      <actor>Bill Paxton</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="es">Science fiction</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_predador-2-1990_l_m.jpg"/>
+    <star-rating system="ES">
+      <value>6.2</value>
+    </star-rating>
+  </programme>
+<programme start="20230405062000 +0200" stop="20230405062000 +0200" channel="FX.br">
+    <title lang="es">Nós</title>
+    <desc lang="es">Adelaide e Gabe levam a família para passar um fim de semana na praia e descansar. Eles começam a aproveitar o ensolarado local, mas a chegada de um grupo misterioso muda tudo e a família se torna refém de seres com aparências iguais às suas.</desc>
+    <credits>
+      <actor>Lupita Nyong'o</actor>
+      <actor>Winston Duke</actor>
+      <actor>Elisabeth Moss</actor>
+      <actor>Tim Heidecker</actor>
+      <actor>Yahya Abdul-Mateen II</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Horror</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_nos-2019_l_m.jpg"/>
+  </programme>
+<programme start="20230405062000 +0200" stop="20230405082000 +0200" channel="FX.br">
+    <title lang="es">Nós</title>
+    <desc lang="es">Adelaide e Gabe levam a família para passar um fim de semana na praia e descansar. Eles começam a aproveitar o ensolarado local, mas a chegada de um grupo misterioso muda tudo e a família se torna refém de seres com aparências iguais às suas.</desc>
+    <credits>
+      <actor>Lupita Nyong'o</actor>
+      <actor>Winston Duke</actor>
+      <actor>Elisabeth Moss</actor>
+      <actor>Tim Heidecker</actor>
+      <actor>Yahya Abdul-Mateen II</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Horror</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_nos-2019_l_m.jpg"/>
+  </programme>
+<programme start="20230405082000 +0200" stop="20230405100000 +0200" channel="FX.br">
+    <title lang="es">Ma</title>
+    <desc lang="es">Uma mulher solteira de meia-idade faz amizade com alguns adolescentes e decide deixá-los festejar em sua casa. Mas começam a acontecer coisas que fazem os garotos questionar a intenção da anfitriã.</desc>
+    <credits>
+      <actor>Octavia Spencer</actor>
+      <actor>Diana Silvers</actor>
+      <actor>Juliette Lewis</actor>
+      <actor>McKaley Miller</actor>
+      <actor>Corey Fogelmanis</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Thriller</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_ma-2019_l_m.jpg"/>
+    <star-rating system="ES">
+      <value>5.6</value>
+    </star-rating>
+  </programme>
+<programme start="20230405100000 +0200" stop="20230405113000 +0200" channel="FX.br">
+    <title lang="es">Assalto ao Carro Blindado</title>
+    <desc lang="es">Depois de retornar do Iraque, Ty Hackett vai trabalhar para a mesma transportadora de valores que seu pai trabalhou. Seu padrinho e mentor, Mike Cochrane, revela o plano de roubar os caminhões blindados da empresa. Ty, que teve de entregar seu irmão para adoção após perder a casa, concorda em participar do assalto. Contando com um plano aparentemente infalível, os homens do carro-forte vão tentar roubar milhões sem machucar ninguém.</desc>
+    <credits>
+      <actor>Matt Dillon</actor>
+      <actor>Jean Reno</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>Amaury Nolasco</actor>
+      <actor>Fred Ward</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Thriller</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_assalto-ao-carro-blindado-2009-1_l_m.jpg"/>
+  </programme>
+<programme start="20230405113000 +0200" stop="20230405120000 +0200" channel="FX.br">
+    <title lang="es">Prata da Casa</title>
+    <desc lang="es">Um comercial está sendo gravado na academia estrelado pela famosa atriz Marina Sampaio. Na cena, ela se exercita sob as orientações de Dico. Mas, a celebridade demostra interesse por Sérgio Henrique e os dois começam a sair.</desc>
+    <category lang="es">Sitcom</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_prata-da-casa_l_m.jpg"/>
+  </programme>
+<programme start="20230405120000 +0200" stop="20230405125000 +0200" channel="FX.br">
+    <title lang="es">The Amazing Race</title>
+    <sub-title lang="es">Lançando Tendência</sub-title>
+    <desc lang="es">Em Genebra, as equipes devem escolher entre fazer uma faca Victorinox ou contar quantos leitores de jornal cabem no banco mais longo do mundo, e vão ao prédio das Nações Unidas para identificar dez bandeiras de dez países.</desc>
+    <category lang="es">Séries</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_the-amazing-race-s28e04-lancando-tendencia_l_m.jpg"/>
+    <episode-num system="xmltv_ns">27.3.</episode-num>
+  </programme>
+<programme start="20230405125000 +0200" stop="20230405134000 +0200" channel="FX.br">
+    <title lang="es">Impeachment: American Crime Story</title>
+    <sub-title lang="es">Não se Deve Acreditar</sub-title>
+    <desc lang="es">As tensões aumentam entre Monica e o presidente; Paula recebe um acordo; Linda começa a sentir que tem um alvo nas costas.</desc>
+    <category lang="es">Séries</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_impeachment-american-crime-story-s03e03-n-o-se-deve-acreditar_l_m.jpg"/>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+  </programme>
+<programme start="20230405134000 +0200" stop="20230405142500 +0200" channel="FX.br">
+    <title lang="es">Arquivo X</title>
+    <sub-title lang="es">Eles Nunca Morrem</sub-title>
+    <desc lang="es">Quando Morris Fletcher dá informações aos agentes Reyes e Doggett sobre os supersoldados, eles pedem ajuda aos Pistoleiros Solitários.</desc>
+    <category lang="es">Séries</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_arquivo-x-s09e15-eles-nunca-morrem_l_m.jpg"/>
+    <episode-num system="xmltv_ns">8.14.</episode-num>
+  </programme>
+<programme start="20230405142500 +0200" stop="20230405154500 +0200" channel="FX.br">
+    <title lang="es">Os Vampiros que se Mordam</title>
+    <desc lang="es">Becca, uma adolescente angustiada, está dividida entre duas possibilidades: o vampiro Edward e o lobisomem Jacob. Mas ela precisa encontrar uma maneira de se livrar do pai controlador, que a trata como uma criança indefesa. Enquanto isso, suas amigas têm seus próprios problemas românticos que virão à tona no baile de formatura.</desc>
+    <credits>
+      <actor>Matt Lanter</actor>
+      <actor>Jenn Proske</actor>
+      <actor>Chris Riggi</actor>
+      <actor>Ken Jeong</actor>
+      <actor>Diedrich Bader</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Comedy</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_os-vampiros-que-se-mordam-2010-1_l_m.jpg"/>
+  </programme>
+<programme start="20230405154500 +0200" stop="20230405173000 +0200" channel="FX.br">
+    <title lang="es">Cópias - De Volta à Vida</title>
+    <desc lang="es">Depois de um grave acidente de trânsito que matou toda a sua família, um neurocientista sente que perdeu o sentido da vida. Utilizando seu meio de trabalho, ele se torna obcecado em trazê-los de volta, mesmo que isso signifique desafiar boa parte do governo e, principalmente, as leis da física.</desc>
+    <credits>
+      <actor>Keanu Reeves</actor>
+      <actor>Thomas Middleditch</actor>
+      <actor>Alice Eve</actor>
+      <actor>John Ortiz</actor>
+      <actor>Emjay Anthony</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Science fiction</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_copias-de-volta-a-vida-2018_l_m.jpg"/>
+  </programme>
+<programme start="20230405173000 +0200" stop="20230405193000 +0200" channel="FX.br">
+    <title lang="es">A Chegada</title>
+    <desc lang="es">Naves alienígenas chegaram às principais cidades do mundo. Com a intenção de se comunicar com os visitantes, uma linguista e um militar são chamados para decifrar as estranhas mensagens dos visitantes.</desc>
+    <credits>
+      <actor>Amy Adams</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Forest Whitaker</actor>
+      <actor>Michael Stuhlbarg</actor>
+      <actor>Mark O'Brien</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Science fiction</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_a-chegada-2016_l_m.jpg"/>
+  </programme>
+<programme start="20230405193000 +0200" stop="20230405210500 +0200" channel="FX.br">
+    <title lang="es">Um Lugar Silencioso</title>
+    <desc lang="es">Em uma fazenda nos Estados Unidos, uma família do Meio-Oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som.</desc>
+    <credits>
+      <actor>Emily Blunt</actor>
+      <actor>John Krasinski</actor>
+      <actor>Millicent Simmonds</actor>
+      <actor>Noah Jupe</actor>
+      <actor>Cade Woodward</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Horror</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_um-lugar-silencioso-2018_l_m.jpg"/>
+  </programme>
+<programme start="20230405210500 +0200" stop="20230405231000 +0200" channel="FX.br">
+    <title lang="es">Alien: Covenant</title>
+    <desc lang="es">A tripulação do navio-colônia Covenant, ligada a um remoto planeta no lado distante da galáxia, descobre o que eles acreditam ser um paraíso inexplorado, mas na verdade é um mundo escuro e perigoso.</desc>
+    <credits>
+      <actor>Michael Fassbender</actor>
+      <actor>Katherine Waterston</actor>
+      <actor>Billy Crudup</actor>
+      <actor>Danny McBride</actor>
+      <actor>Demián Bichir</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Science fiction</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_alien-covenant-2017_l_m.jpg"/>
+  </programme>
+<programme start="20230405231000 +0200" stop="20230406005500 +0200" channel="FX.br">
+    <title lang="es">As Tartarugas Ninja</title>
+    <desc lang="es">Um grupo de tartarugas é afetado por uma substância radioativa, ganha força, conhecimento e cresce. Vivendo no esgoto, quatro jovens tartarugas descobrem um novo destino como Tartarugas Ninja. Elas unirão forças com a corajosa repórter April O' Neil para salvar Nova York do domínio do diabólico Shredder, o Destruidor, e seu grupo maligno.</desc>
+    <credits>
+      <actor>Megan Fox</actor>
+      <actor>Will Arnett</actor>
+      <actor>William Fichtner</actor>
+      <actor>Danny Woodburn</actor>
+      <actor>Abby Elliott</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_as-tartarugas-ninja-2014_l_m.jpg"/>
+    <star-rating system="ES">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+<programme start="20230406005500 +0200" stop="20230406024500 +0200" channel="FX.br">
+    <title lang="es">MIB3 - Homens de Preto 3</title>
+    <desc lang="es">Um extraterrestre planeja voltar no tempo para assassinar o Agente K, mudando o curso da História e colocando a humanidade em risco. Para salvar não apenas a vida do parceiro, mas também o mundo, o Agente J também viaja ao passado para impedir o crime.</desc>
+    <credits>
+      <actor>Will Smith</actor>
+      <actor>Tommy Jones</actor>
+      <actor>Josh Brolin</actor>
+      <actor>Jemaine Clement</actor>
+      <actor>Michael Stuhlbarg</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_mib3-homens-de-preto-3-2012_l_m.jpg"/>
+  </programme>
+<programme start="20230406024500 +0200" stop="20230406043000 +0200" channel="FX.br">
+    <title lang="es">Quebrando Regras 3 - Não se Rendam</title>
+    <desc lang="es">O ex-campeão de MMA Case Walker tem se mantido longe dos holofotes há muito tempo. Ele agora luta em pequenos torneios locais e ensina os oponentes a aprimorar suas habilidades. Case aceita treinar o velho amigo Brody James, e viaja para a Tailândia, onde logo entra em conflito com o outro treinador de Brody. Para piorar a situação, ele é ridicularizado por trabalhar com Cobra, um lutador arrogante, mas estas complicações só o deixam mais determinado a reconquistar sua glória. [(135492)]</desc>
+    <credits>
+      <actor>Michael White</actor>
+      <actor>Josh Barnett</actor>
+      <actor>Gillian White</actor>
+      <actor>JeeJa Yanin</actor>
+      <actor>Esai Morales</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Action</category>
+    <category lang="es">Filme</category>
+    <icon src="https://cdn.mitvstatic.com/programs/br_quebrando-regras-3-n-o-se-rendam-2016-1_l_m.jpg"/>
   </programme>
 </tv>
