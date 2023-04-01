@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="telecine.cult.br">
+    <display-name lang="pt">TELECINE CULT HD</display-name>
+	<icon src="https://logo.koditvepg.com/BR/telecine.cult.br.png"/>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  </tv>
