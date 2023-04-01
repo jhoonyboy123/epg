@@ -1,7 +1,8 @@
-<tv generator-info-name="Xtream Codes" generator-info-url="https://tv.minhalista.me">
-  <channel id="telecine.cult.br">
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Telecine Cult">
     <display-name lang="pt">TELECINE CULT HD</display-name>
-	<icon src="https://logo.koditvepg.com/BR/telecine.cult.br.png"/>
     <url>http://www.netcombo.com.br</url>
-  </channel>
-  </tv>
+	<icon src="https://logo.koditvepg.com/BR/telecine.cult.br.png"/>
+	</channel>
+</tv>
