@@ -2,7 +2,6 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Telecine Cult">
     <display-name lang="pt">TELECINE CULT HD</display-name>
-    <url>http://www.netcombo.com.br</url>
-	<icon src="https://logo.koditvepg.com/BR/telecine.cult.br.png"/>
-	</channel>
+    <url>http://www.meuguia.tv</url>
+  </channel>
 </tv>
