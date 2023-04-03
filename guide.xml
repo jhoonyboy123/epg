@@ -1,33 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="100% Vida">
-    <display-name lang="pt">100% Vida</display-name>
-    <icon src="https://www.lineup.tv.br/canais/1623869340.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="3ª Via TV">
-    <display-name lang="pt">3ª Via TV</display-name>
-    <icon src="https://www.lineup.tv.br/canais/tvinconfidentes.gif|https://www.lineup.tv.br/canais/cultura.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
   <channel id="A&E">
     <display-name lang="pt">A&E</display-name>
     <icon src="https://www.lineup.tv.br/canais/sbs-international.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Agro Canal">
-    <display-name lang="pt">Agro Canal</display-name>
-    <icon src="https://www.lineup.tv.br/canais/1672253400.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="AgroBrasil TV">
-    <display-name lang="pt">AgroBrasil TV</display-name>
-    <icon src="https://www.lineup.tv.br/canais/1583019489.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="AmazonSat">
-    <display-name lang="pt">AmazonSat</display-name>
-    <icon src="https://www.lineup.tv.br/canais/1619437088.gif|https://www.lineup.tv.br/canais/1642441714.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="AMC">
@@ -35,69 +10,4 @@
     <icon src="https://www.lineup.tv.br/canais/1672252566.gif|https://www.lineup.tv.br/canais/1642443632.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
-  <channel id="Animal Planet">
-    <display-name lang="pt">Animal Planet</display-name>
-    <icon src="https://www.lineup.tv.br/canais/multiplay-canallocal.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Art Latino">
-    <display-name lang="pt">Art Latino</display-name>
-    <icon src="https://www.lineup.tv.br/canais/1635246889.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Arte 1">
-    <display-name lang="pt">Arte 1</display-name>
-    <icon src="https://www.lineup.tv.br/canais/traceurban.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="AXN">
-    <display-name lang="pt">AXN</display-name>
-    <icon src="https://www.lineup.tv.br/canais/tnt.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="BabyTV">
-    <display-name lang="pt">BabyTV</display-name>
-    <icon src="https://www.lineup.tv.br/canais/1592294027.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Band">
-    <display-name lang="pt">Band</display-name>
-    <icon src="https://www.lineup.tv.br/canais/1614344719.gif|https://www.lineup.tv.br/canais/1642169335.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Band Amazonas">
-    <display-name lang="pt">Band Amazonas</display-name>
-    <icon src="https://www.lineup.tv.br/canais/canalsiete-salta.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Band Brasília">
-    <display-name lang="pt">Band Brasília</display-name>
-    <icon src="https://www.lineup.tv.br/canais/tbnsalsa.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Band Campinas">
-    <display-name lang="pt">Band Campinas</display-name>
-    <icon src="https://www.lineup.tv.br/radios/boanoticia.gif|https://www.lineup.tv.br/canais/redevida.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Band Curitiba">
-    <display-name lang="pt">Band Curitiba</display-name>
-    <icon src="https://www.lineup.tv.br/canais/tbn.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Band Minas">
-    <display-name lang="pt">Band Minas</display-name>
-    <icon src="https://www.lineup.tv.br/canais/1614254053.gif|https://www.lineup.tv.br/canais/1642170353.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Band Natal">
-    <display-name lang="pt">Band Natal</display-name>
-    <icon src="https://www.lineup.tv.br/canais/1669894806.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Band Rio">
-    <display-name lang="pt">Band Rio</display-name>
-    <icon src="https://www.lineup.tv.br/canais/tvborborema.gif|https://www.lineup.tv.br/canais/1617141781.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-</tv>
+  </tv>
