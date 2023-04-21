@@ -2,6 +2,7 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
+    <icon src="https://www.net.com.br/imagens/logo/a&amp;e_hd-1197_95x39.png" />
     <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="A&amp;E FHD">
@@ -10,6 +11,2865 @@
   </channel>
   <channel id="A&amp;E H265">
     <display-name lang="en">A&amp;E H265</display-name>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/s77795_h3_ba.png" />
     <url>http://www.oi.com.br</url>
   </channel>
+  <programme start="20230421004400 +0200" stop="20230421025600 +0200" channel="A&amp;E">
+    <title lang="pt">O Grande Herói</title>
+    <desc lang="pt">Marcus Luttrell, um Navy Seal, e sua equipe embarcaram em uma missão para capturar ou matar o notório líder do Taleban Ahmad Shah no final de junho de 2005.(n)</desc>
+    <credits>
+      <director>Tobias A. Schliessler</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Taylor Kitsch</actor>
+      <actor>Emile Hirsch</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20230421025600 +0200" stop="20230421035000 +0200" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Série sobre acumuladores usando exemplo de pessoas reais.(n)</desc>
+    <credits>
+      <director>Jerome K. Mitchell</director>
+      <actor>Dorothy Breininger</actor>
+      <actor>David Tolin</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230421035000 +0200" stop="20230421043100 +0200" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Série sobre acumuladores usando exemplo de pessoas reais.(n)</desc>
+    <credits>
+      <director>Jerome K. Mitchell</director>
+      <actor>Dorothy Breininger</actor>
+      <actor>David Tolin</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230421043100 +0200" stop="20230421045200 +0200" channel="A&amp;E">
+    <title lang="pt">Apertem Os Cintos!</title>
+    <desc lang="pt">Um passageiro faz um discurso explosivo e por conta disso um avião inteiro precisa ser evacuado. Depois, um homem destrói um pequeno aeroporto.(n)</desc>
+    <credits>
+      <director>Robert Hays</director>
+      <actor>Robert Hays</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230421045200 +0200" stop="20230421051300 +0200" channel="A&amp;E">
+    <title lang="pt">Apertem Os Cintos!</title>
+    <desc lang="pt">Funcionários do aeroporto correm para resgatar um menino curioso que está brincando na esteira de bagagens. Um piloto despreocupado tenta introduzir uma garrafa de vodca em seu voo.(n)</desc>
+    <credits>
+      <director>Robert Hays</director>
+      <actor>Robert Hays</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230421051300 +0200" stop="20230421060000 +0200" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <desc lang="pt">Os detetives do departamento de homicídios de Tulsa encontram o corpo nu de uma mulher de rua que foi estuprada e estrangulada em um lixão.(n)</desc>
+    <credits>
+      <director>Mira Chang</director>
+      <actor>Dion Graham</actor>
+    </credits>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>5</value>
+    </star-rating>
+  </programme>
+  <programme start="20230421060000 +0200" stop="20230421065200 +0200" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Série sobre acumuladores usando exemplo de pessoas reais.(n)</desc>
+    <credits>
+      <director>Jerome K. Mitchell</director>
+      <actor>Dorothy Breininger</actor>
+      <actor>David Tolin</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230421065200 +0200" stop="20230421073700 +0200" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Série sobre acumuladores usando exemplo de pessoas reais.(n)</desc>
+    <credits>
+      <director>Jerome K. Mitchell</director>
+      <actor>Dorothy Breininger</actor>
+      <actor>David Tolin</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230421073700 +0200" stop="20230421082600 +0200" channel="A&amp;E">
+    <title lang="pt">Mente Criminosa</title>
+    <desc lang="pt">Em Dallas, um policial branco de folga mata um homem negro desarmado na sua própria casa, gerando tensões raciais e exigências de justiça.(n)</desc>
+    <credits>
+      <director>Dennis Haysbert</director>
+      <actor>Michelle Carter</actor>
+      <actor>Dennis Haysbert</actor>
+    </credits>
+    <category lang="pt">Investigação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230421082600 +0200" stop="20230421091500 +0200" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <desc lang="pt">À medida que os novos participantes do programa entram na Penitenciária do Condado de Henry, eles vão descobrindo que as condições nas cápsulas de quarentena são muito mais severas do que em suas experiências anteriores.(n)</desc>
+    <credits>
+      <director>Gregory Henry</director>
+      <actor>Zachary Holland</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20230421091500 +0200" stop="20230421104900 +0200" channel="A&amp;E">
+    <title lang="pt">Ninguém Entra Ninguém Sai</title>
+    <desc lang="pt">Suellen (Letícia Lima), uma moça romântica e estudiosa, tem um sonho: pretende casar-se com seu namorado, Edu (Emiliano D'Ávila), e construir sua nova família.(n)</desc>
+    <credits>
+      <director>Hsu Chien Hsin</director>
+      <actor>Catarina Abdalla</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230421104900 +0200" stop="20230421125400 +0200" channel="A&amp;E">
+    <title lang="pt">Monster</title>
+    <sub-title lang="pt">Desejo Assassino</sub-title>
+    <desc lang="pt">Aileen se prostitui para sustentar a namorada, até que um de seus clientes se torna mais violento e ela é obrigada a cometer o primeiro crime de uma série de outros que a levarão à própria destruição.(n)</desc>
+    <credits>
+      <director>Patty Jenkins</director>
+      <actor>Charlize Theron</actor>
+      <actor>Christina Ricci</actor>
+      <actor>Bruce Dern</actor>
+      <actor>Scott Wilson</actor>
+      <actor>Pruitt Taylor Vince</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20230421125400 +0200" stop="20230421145400 +0200" channel="A&amp;E">
+    <title lang="pt">Mente Criminosa</title>
+    <desc lang="pt">Bill Pope (Ryan Reynolds) é um agente da CIA em uma missão em Londres rastreando um hacker sombrio apelidado de.(n)</desc>
+    <credits>
+      <director>Ariel Vromen</director>
+      <actor>Kevin Costner</actor>
+      <actor>Ryan Reynolds</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230421145400 +0200" stop="20230421164400 +0200" channel="A&amp;E">
+    <title lang="pt">A Última Casa Da Rua</title>
+    <desc lang="pt">Mãe e filha  se mudam para uma nova cidade, e vão morar ao lado de uma casa com um passado terrível. Anos atrás, em um incidente conhecido, uma garota psicótica assassinou seus pais.(n)</desc>
+    <credits>
+      <director>Mark Tonderai</director>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Elisabeth Shue</actor>
+      <actor>Max Thieriot</actor>
+    </credits>
+    <category lang="pt">Terror</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230421164400 +0200" stop="20230421184900 +0200" channel="A&amp;E">
+    <title lang="pt">Monster</title>
+    <sub-title lang="pt">Desejo Assassino</sub-title>
+    <desc lang="pt">Aileen se prostitui para sustentar a namorada, até que um de seus clientes se torna mais violento e ela é obrigada a cometer o primeiro crime de uma série de outros que a levarão à própria destruição.(n)</desc>
+    <credits>
+      <director>Patty Jenkins</director>
+      <actor>Charlize Theron</actor>
+      <actor>Christina Ricci</actor>
+      <actor>Bruce Dern</actor>
+      <actor>Scott Wilson</actor>
+      <actor>Pruitt Taylor Vince</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20230421184900 +0200" stop="20230421185400 +0200" channel="A&amp;E">
+    <title lang="pt">Listas</title>
+    <desc lang="pt">O programa “Listas” recomenda filmes e/ou séries e programas com um tema em comum, podendo variar desde temas abrangentes como “5 Comédias dos Anos 80”, até assuntos inusitados.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230421185400 +0200" stop="20230421212300 +0200" channel="A&amp;E">
+    <title lang="pt">Jogos Vorazes</title>
+    <desc lang="pt">Em um futuro distópico, a nação totalitária de Panem é dividida em 12 distritos e o Capitólio. A cada ano, dois jovens representantes de cada distrito são selecionados por sorteio para participar dos Jogos Vorazes.(n)</desc>
+    <credits>
+      <director>Gary Ross</director>
+      <actor>Stanley Tucci</actor>
+      <actor>Wes Bentley</actor>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Willow Shields</actor>
+      <actor>Liam Hemsworth</actor>
+      <actor>Elizabeth Banks</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230421212300 +0200" stop="20230421234700 +0200" channel="A&amp;E">
+    <title lang="pt">Corações De Ferro</title>
+    <desc lang="pt">Abril de 1945. Wardaddy, um experiente sargento do exército, comanda um tanque Sherman junto à tripulação de cinco homens, incluindo um novato.(n)</desc>
+    <credits>
+      <director>David Ayer</director>
+      <actor>Brad Pitt</actor>
+      <actor>Shia LaBeouf</actor>
+      <actor>Logan Lerman</actor>
+    </credits>
+    <category lang="pt">Guerra</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20230421234700 +0200" stop="20230422012200 +0200" channel="A&amp;E">
+    <title lang="pt">Locke</title>
+    <desc lang="pt">Homem de família dedicado e supervisor de construção de sucesso, Ivan Locke recebe uma ligação na noite anterior ao maior desafio de sua carreira que desencadeia uma série de eventos que ameaçam sua própria existência.(n)</desc>
+    <credits>
+      <director>Steven Knight</director>
+      <actor>Tom Hardy</actor>
+      <actor>Olivia Colman</actor>
+      <actor>Ruth Wilson</actor>
+      <actor>Andrew Scott</actor>
+      <actor>Ben Daniels</actor>
+      <actor>Tom Holland</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230422012200 +0200" stop="20230422030400 +0200" channel="A&amp;E">
+    <title lang="pt">Assassino A Preço Fixo</title>
+    <desc lang="pt">Arthur Bishop é.(n)</desc>
+    <credits>
+      <director>Simon West</director>
+      <actor>Jason Statham</actor>
+      <actor>Ben Foster</actor>
+      <actor>Tony Goldwyn</actor>
+      <actor>Donald Sutherland</actor>
+      <actor>Jeff Chase</actor>
+      <actor>James Logan</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230422030400 +0200" stop="20230422035600 +0200" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Série sobre acumuladores usando exemplo de pessoas reais.(n)</desc>
+    <credits>
+      <director>Jerome K. Mitchell</director>
+      <actor>Dorothy Breininger</actor>
+      <actor>David Tolin</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422035600 +0200" stop="20230422040100 +0200" channel="A&amp;E">
+    <title lang="pt">Listas</title>
+    <desc lang="pt">O programa “Listas” recomenda filmes e/ou séries e programas com um tema em comum, podendo variar desde temas abrangentes como “5 Comédias dos Anos 80”, até assuntos inusitados.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230422040100 +0200" stop="20230422044600 +0200" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Série sobre acumuladores usando exemplo de pessoas reais.(n)</desc>
+    <credits>
+      <director>Jerome K. Mitchell</director>
+      <actor>Dorothy Breininger</actor>
+      <actor>David Tolin</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422044600 +0200" stop="20230422050800 +0200" channel="A&amp;E">
+    <title lang="pt">Apertem Os Cintos!</title>
+    <desc lang="pt">Um tornado aterrissa em St. Louis e arrasa o seu pequeno aeroporto. Depois, um grupo de passageiros rebeldes tenta abrir as portas das cabines de diferentes aviões.(n)</desc>
+    <credits>
+      <director>Robert Hays</director>
+      <actor>Robert Hays</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422050800 +0200" stop="20230422051300 +0200" channel="A&amp;E">
+    <title lang="pt">Listas</title>
+    <desc lang="pt">O programa “Listas” recomenda filmes e/ou séries e programas com um tema em comum, podendo variar desde temas abrangentes como “5 Comédias dos Anos 80”, até assuntos inusitados.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230422051300 +0200" stop="20230422060000 +0200" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <desc lang="pt">Dois irmãos são mortos a tiros enquanto vigiavam a equipe de limpeza do turno noturno. Para poder descobrir a identidade do assassino, os detetives de Tulsa terão que mover céus e terras para encontrar o motivo do crime.(n)</desc>
+    <credits>
+      <director>Mira Chang</director>
+      <actor>Dion Graham</actor>
+    </credits>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>5</value>
+    </star-rating>
+  </programme>
+  <programme start="20230422060000 +0200" stop="20230422065200 +0200" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Depois da perda do seu marido e do seu emprego, Carmen desenvolveu um transtorno de acumulação e ficou viciada em compras online.(n)</desc>
+    <credits>
+      <director>Jerome K. Mitchell</director>
+      <actor>Robin Zasio</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422065200 +0200" stop="20230422074000 +0200" channel="A&amp;E">
+    <title lang="pt">Casos Arquivados</title>
+    <desc lang="pt">No final de 1983, os corpos de cinco pessoas sequestradas de um restaurante local de fast food são encontrados brutalmente assassinados em um campo de petróleo.(n)</desc>
+    <credits>
+      <director>Danny Glover</director>
+      <actor>James Coulter</actor>
+      <actor>Jessica Dishon</actor>
+      <actor>Michael Dishon</actor>
+    </credits>
+    <category lang="pt">Investigação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20230422074000 +0200" stop="20230422082700 +0200" channel="A&amp;E">
+    <title lang="pt">Casos Arquivados</title>
+    <desc lang="pt">No início de 1984, Vanessa Bennett, de três anos, torna-se a única sobrevivente do brutal assassinato de sua família. Investigadores iniciais suspeitam que um serial killer esteja à solta.(n)</desc>
+    <credits>
+      <director>Ari Mark</director>
+      <actor>Danny Glover</actor>
+    </credits>
+    <category lang="pt">Investigação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20230422082700 +0200" stop="20230422083200 +0200" channel="A&amp;E">
+    <title lang="pt">Listas</title>
+    <desc lang="pt">O programa “Listas” recomenda filmes e/ou séries e programas com um tema em comum, podendo variar desde temas abrangentes como “5 Comédias dos Anos 80”, até assuntos inusitados.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230422083200 +0200" stop="20230422100100 +0200" channel="A&amp;E">
+    <title lang="pt">Gosto Se Discute</title>
+    <desc lang="pt">Augusto é chef de um restaurante consagrado que já viveu dias melhores. A gerente Cristina então chega para colocar ordem na casa, mas tudo fica comprometido já que o cozinheiro descobre estar sem paladar.(n)</desc>
+    <credits>
+      <director>André Pellenz</director>
+      <actor>Cássio Gabus Mendes</actor>
+      <actor>André Bankoff</actor>
+      <actor>Gabriel Godoy</actor>
+      <actor>Kéfera Buchmann</actor>
+      <actor>Zéu Britto</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230422100100 +0200" stop="20230422114700 +0200" channel="A&amp;E">
+    <title lang="pt">Entre Idas E Vindas</title>
+    <desc lang="pt">Amanda, Sandra, Cillie e Krisse, quatro amigas que trabalham no departamento de telemarketing de uma empresa, embarcam em um motorhome para fazer uma viagem de férias pelo litoral sul de São Paulo.(n)</desc>
+    <credits>
+      <director>José Eduardo Belmonte</director>
+      <actor>Alice Braga</actor>
+      <actor>Ingrid Guimarães</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230422114700 +0200" stop="20230422132400 +0200" channel="A&amp;E">
+    <title lang="pt">Locke</title>
+    <desc lang="pt">Homem de família dedicado e supervisor de construção de sucesso, Ivan Locke recebe uma ligação na noite anterior ao maior desafio de sua carreira que desencadeia uma série de eventos que ameaçam sua própria existência.(n)</desc>
+    <credits>
+      <director>Steven Knight</director>
+      <actor>Tom Hardy</actor>
+      <actor>Olivia Colman</actor>
+      <actor>Ruth Wilson</actor>
+      <actor>Andrew Scott</actor>
+      <actor>Ben Daniels</actor>
+      <actor>Tom Holland</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230422132400 +0200" stop="20230422151400 +0200" channel="A&amp;E">
+    <title lang="pt">A Última Casa Da Rua</title>
+    <desc lang="pt">Mãe e filha  se mudam para uma nova cidade, e vão morar ao lado de uma casa com um passado terrível. Anos atrás, em um incidente conhecido, uma garota psicótica assassinou seus pais.(n)</desc>
+    <credits>
+      <director>Mark Tonderai</director>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Elisabeth Shue</actor>
+      <actor>Max Thieriot</actor>
+    </credits>
+    <category lang="pt">Terror</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422151400 +0200" stop="20230422165600 +0200" channel="A&amp;E">
+    <title lang="pt">Assassino A Preço Fixo</title>
+    <desc lang="pt">Arthur Bishop é.(n)</desc>
+    <credits>
+      <director>Simon West</director>
+      <actor>Jason Statham</actor>
+      <actor>Ben Foster</actor>
+      <actor>Tony Goldwyn</actor>
+      <actor>Donald Sutherland</actor>
+      <actor>Jeff Chase</actor>
+      <actor>James Logan</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230422165600 +0200" stop="20230422192500 +0200" channel="A&amp;E">
+    <title lang="pt">Jogos Vorazes</title>
+    <desc lang="pt">Em um futuro distópico, a nação totalitária de Panem é dividida em 12 distritos e o Capitólio. A cada ano, dois jovens representantes de cada distrito são selecionados por sorteio para participar dos Jogos Vorazes.(n)</desc>
+    <credits>
+      <director>Gary Ross</director>
+      <actor>Stanley Tucci</actor>
+      <actor>Wes Bentley</actor>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Willow Shields</actor>
+      <actor>Liam Hemsworth</actor>
+      <actor>Elizabeth Banks</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230422192500 +0200" stop="20230422193000 +0200" channel="A&amp;E">
+    <title lang="pt">Listas</title>
+    <desc lang="pt">O programa “Listas” recomenda filmes e/ou séries e programas com um tema em comum, podendo variar desde temas abrangentes como “5 Comédias dos Anos 80”, até assuntos inusitados.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230422193000 +0200" stop="20230422213000 +0200" channel="A&amp;E">
+    <title lang="pt">A Informante</title>
+    <desc lang="pt">As experiências de Kathryn Bolkovac, uma oficial de polícia de Nebraska, que trabalhou nas forças de paz na Bósnia no período pós-guerra, e que foi marginalizada pelas Nações Unidas para encobrir um escândalo sexual.(n)</desc>
+    <credits>
+      <director>Larysa Kondracki</director>
+      <actor>Monica Bwellucci</actor>
+      <actor>Rachel Weisz</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230422213000 +0200" stop="20230422233900 +0200" channel="A&amp;E">
+    <title lang="pt">O Peso do Passado</title>
+    <desc lang="pt">A vencedora do Oscar Nicole Kidman interpreta Erin Bell, uma detective de L.A. com um passado traumático em procura de vingança e redenção.(n)</desc>
+    <credits>
+      <director>Karyn Kusama</director>
+      <actor>Nicole Kidman</actor>
+      <actor>Toby Kebbell</actor>
+      <actor>Tatiana Maslany</actor>
+      <actor>Bradley Whitford</actor>
+      <actor>Jade Pettyjohn</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230422233900 +0200" stop="20230423014400 +0200" channel="A&amp;E">
+    <title lang="pt">Monster</title>
+    <sub-title lang="pt">Desejo Assassino</sub-title>
+    <desc lang="pt">Aileen se prostitui para sustentar a namorada, até que um de seus clientes se torna mais violento e ela é obrigada a cometer o primeiro crime de uma série de outros que a levarão à própria destruição.(n)</desc>
+    <credits>
+      <director>Patty Jenkins</director>
+      <actor>Charlize Theron</actor>
+      <actor>Christina Ricci</actor>
+      <actor>Bruce Dern</actor>
+      <actor>Scott Wilson</actor>
+      <actor>Pruitt Taylor Vince</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20230423014400 +0200" stop="20230423032800 +0200" channel="A&amp;E">
+    <title lang="pt">Soldados Da Fortuna</title>
+    <desc lang="pt">O governo americano cria um programa em que milionários com sede de adrenalina pagam uma pequena fortuna para fazerem parte de uma verdadeira operação militar. No entanto, o plano não sai como esperado.(n)</desc>
+    <credits>
+      <director>Maxim Korostyshevsky</director>
+      <actor>Christian Slater</actor>
+      <actor>Colm Meaney</actor>
+      <actor>Dominic Monaghan</actor>
+      <actor>James Cromwell</actor>
+      <actor>Sean Bean</actor>
+      <actor>Ving Rhames</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230423032800 +0200" stop="20230423042200 +0200" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Terri quer se casar, mas o seu distúrbio de acumulação está atrapalhando o seu relacionamento. A doença a tem levado inclusive a acumular coisas na casa onde trabalha cuidando de um homem idoso.(n)</desc>
+    <credits>
+      <director>Jerome K. Mitchell</director>
+      <actor>Robin Zasio</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423042200 +0200" stop="20230423051100 +0200" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Terri quer se casar, mas o seu distúrbio de acumulação está atrapalhando o seu relacionamento. A doença a tem levado inclusive a acumular coisas na casa onde trabalha cuidando de um homem idoso.(n)</desc>
+    <credits>
+      <director>Jerome K. Mitchell</director>
+      <actor>Robin Zasio</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423051100 +0200" stop="20230423060000 +0200" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <desc lang="pt">Os detetives de Tulsa investigam o assassinato de um pai de família que foi morto a tiros por um criminoso que se escondeu em um estacionamento ao atacá-lo.(n)</desc>
+    <credits>
+      <director>Mira Chang</director>
+      <actor>Dion Graham</actor>
+    </credits>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating system="BR">
+      <value>5</value>
+    </star-rating>
+  </programme>
+  <programme start="20230423060000 +0200" stop="20230423065100 +0200" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <desc lang="pt">Quando trabalhava como corretora de imóveis, Kate costumava colecionar itens de seus clientes para decorar as casas que vendia.(n)</desc>
+    <credits>
+      <director>Jerome K. Mitchell</director>
+      <actor>Robin Zasio</actor>
+    </credits>
+    <category lang="pt">Reality Show</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423065100 +0200" stop="20230423074000 +0200" channel="A&amp;E">
+    <title lang="pt">Serial Killer: O Começo De Tudo</title>
+    <desc lang="pt">Mulheres afro-americanas no bairro Mt. Pleasant de Cleveland estavam desaparecendo. Suas famílias estavam desesperadas por ajuda, mas ninguém parecia saber o que estava acontecendo com eles, ninguém, exceto Anthony Sowell.(n)</desc>
+    <credits>
+      <director>David Bispham</director>
+      <actor>Gary Brucato</actor>
+    </credits>
+    <category lang="pt">Investigação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423074000 +0200" stop="20230423082900 +0200" channel="A&amp;E">
+    <title lang="pt">Serial Killer: O Começo De Tudo</title>
+    <desc lang="pt">Richard Ramirez, um dos mais notórios assassinos em série, aterrorizou o sul da Califórnia em meados da década de 1980, onde qualquer um poderia ser alvo do assassino sádico.(n)</desc>
+    <credits>
+      <director>David Bispham</director>
+      <actor>Gary Brucato</actor>
+    </credits>
+    <category lang="pt">Investigação</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423082900 +0200" stop="20230423085500 +0200" channel="A&amp;E">
+    <title lang="pt">Metrópole Bogotá</title>
+    <desc lang="pt">Uma denúncia de venda de drogas desencadeia uma perseguição em uma rede de esgoto. A detenção de um homem acaba no hospital, quando ele tenta tirar a própria vida.(n)</desc>
+    <credits>
+      <director>Julian Becker</director>
+      <actor>Guido Sánchez</actor>
+    </credits>
+    <category lang="pt">Policial</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423085500 +0200" stop="20230423103600 +0200" channel="A&amp;E">
+    <title lang="pt">Os Caras de Pau</title>
+    <desc lang="pt">Pedrão e Jorginho (Marcius Melhem e Leandro Hassum) são seguranças contratados de um importante museu e acabam envolvidos em uma grande confusão após serem acusados do roubo do anel mais valioso do mundo.(n)</desc>
+    <credits>
+      <director>Felipe Joffily</director>
+      <actor>Leandro Hassum</actor>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20230423103600 +0200" stop="20230423121300 +0200" channel="A&amp;E">
+    <title lang="pt">Sai de Baixo</title>
+    <desc lang="pt">Caco Antibes sai da prisão e planeja mais um golpe ao lado de Vavá, Cassandra, Ribamar e Magda, a família mais famosa do Largo do Arouche.(n)</desc>
+    <credits>
+      <director>Daniel Filho</director>
+      <director>Dennis Carvalho</director>
+      <actor>Miguel Falabella</actor>
+      <actor>Marisa Orth</actor>
+      <actor>Tom Cavalcanti</actor>
+      <actor>Luís Gustavo</actor>
+      <actor>Aracy Balabanian</actor>
+    </credits>
+    <category lang="pt">Humor</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230423121300 +0200" stop="20230423135700 +0200" channel="A&amp;E">
+    <title lang="pt">Soldados Da Fortuna</title>
+    <desc lang="pt">O governo americano cria um programa em que milionários com sede de adrenalina pagam uma pequena fortuna para fazerem parte de uma verdadeira operação militar. No entanto, o plano não sai como esperado.(n)</desc>
+    <credits>
+      <director>Maxim Korostyshevsky</director>
+      <actor>Christian Slater</actor>
+      <actor>Colm Meaney</actor>
+      <actor>Dominic Monaghan</actor>
+      <actor>James Cromwell</actor>
+      <actor>Sean Bean</actor>
+      <actor>Ving Rhames</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230423135700 +0200" stop="20230423153500 +0200" channel="A&amp;E">
+    <title lang="pt">Amityville: O Despertar</title>
+    <desc lang="pt">Uma mãe solteira desesperada decide se mudar junto com os seus três filhos à infame casa mal-assombrada de Amitville. Planeja usar os poderes obscuros do lugar para despertar uma das crianças de um coma.(n)</desc>
+    <credits>
+      <director>Franck Khalfoun</director>
+      <actor>Jennifer Jason Leigh</actor>
+      <actor>Bella Thorne</actor>
+      <actor>Mckenna Grace</actor>
+      <actor>Jordyn Utz</actor>
+      <actor>Brian Breiter</actor>
+    </credits>
+    <category lang="pt">Terror</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20230423153500 +0200" stop="20230423174300 +0200" channel="A&amp;E">
+    <title lang="pt">A Informante</title>
+    <desc lang="pt">As experiências de Kathryn Bolkovac, uma oficial de polícia de Nebraska, que trabalhou nas forças de paz na Bósnia no período pós-guerra, e que foi marginalizada pelas Nações Unidas para encobrir um escândalo sexual.(n)</desc>
+    <credits>
+      <director>Larysa Kondracki</director>
+      <actor>Monica Bwellucci</actor>
+      <actor>Rachel Weisz</actor>
+    </credits>
+    <category lang="pt">Drama</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230423174300 +0200" stop="20230423191400 +0200" channel="A&amp;E">
+    <title lang="pt">Corra, Lola, Corra</title>
+    <desc lang="pt">Um arrepiante suspense pós MTV, um passeio de montanha-russa, CORRA LOLA, CORRA é a elogiada sensação internacional sobre dois amantes pouco convencionais que têm apenas alguns minutos para mudar o curso de suas vidas.(n)</desc>
+    <credits>
+      <director>Tom Tykwer</director>
+      <actor>Franka Potente</actor>
+      <actor>Moritz Bleibtreu</actor>
+      <actor>Herbert Knaup</actor>
+      <actor>Armin Rohde</actor>
+      <actor>Nina Petri</actor>
+      <actor>Joacim Król</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>4</value>
+    </star-rating>
+  </programme>
+  <programme start="20230423191400 +0200" stop="20230423212300 +0200" channel="A&amp;E">
+    <title lang="pt">O Peso do Passado</title>
+    <desc lang="pt">A vencedora do Oscar Nicole Kidman interpreta Erin Bell, uma detective de L.A. com um passado traumático em procura de vingança e redenção.(n)</desc>
+    <credits>
+      <director>Karyn Kusama</director>
+      <actor>Nicole Kidman</actor>
+      <actor>Toby Kebbell</actor>
+      <actor>Tatiana Maslany</actor>
+      <actor>Bradley Whitford</actor>
+      <actor>Jade Pettyjohn</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating system="BR">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20230423212300 +0200" stop="20230423233500 +0200" channel="A&amp;E">
+    <title lang="pt">O Grande Herói</title>
+    <desc lang="pt">Marcus Luttrell, um Navy Seal, e sua equipe embarcaram em uma missão para capturar ou matar o notório líder do Taleban Ahmad Shah no final de junho de 2005.(n)</desc>
+    <credits>
+      <director>Tobias A. Schliessler</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Taylor Kitsch</actor>
+      <actor>Emile Hirsch</actor>
+    </credits>
+    <category lang="pt">Suspense</category>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20230423233500 +0200" stop="20230423234000 +0200" channel="A&amp;E">
+    <title lang="pt">Listas</title>
+    <desc lang="pt">O programa “Listas” recomenda filmes e/ou séries e programas com um tema em comum, podendo variar desde temas abrangentes como “5 Comédias dos Anos 80”, até assuntos inusitados.(n)</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20230423234000 +0200" stop="20230424014000 +0200" channel="A&amp;E">
+    <title lang="pt">Mente Criminosa</title>
+    <desc lang="pt">Bill Pope (Ryan Reynolds) é um agente da CIA em uma missão em Londres rastreando um hacker sombrio apelidado de.(n)</desc>
+    <credits>
+      <director>Ariel Vromen</director>
+      <actor>Kevin Costner</actor>
+      <actor>Ryan Reynolds</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230421121500 +0000" stop="20230421134900 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Ninguém Entra, Ninguém Sai</title>
+    <desc lang="pt">Suellen é uma moça romântica, estudiosa e que tem um sonho: se casar com o namorado Edu para construir sua nova família. Mas, ela acaba trancafiada em um motel barato com alguns outros casais, fazendo-a repensar seus planos para o futuro.(n)</desc>
+    <credits>
+      <director>Hsu Chien</director>
+      <director>Maria Villar Leite</director>
+      <actor>Anselmo Vasconcelos</actor>
+      <actor>Antônio Pedro</actor>
+      <actor>Guta Stresser</actor>
+      <actor>Letícia Lima</actor>
+      <actor>Paulo Halm</actor>
+      <actor>Gabriel Totoro</actor>
+      <actor>Monique Alfradique</actor>
+      <actor>Sérgio Mallandro</actor>
+      <actor>Rafael Infante</actor>
+      <actor>João Côrtes</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Comédia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/72/14725974_5F38041A4ACD9AD7.jpg" />
+    <country lang="pt">BRA</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20230421134900 +0000" stop="20230421155400 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Monster - Desejo Assassino</title>
+    <desc lang="pt">A infância de Aileen Wuornos foi marcada pelo abuso sexual. Na adolescência, ela passou a se prostituir para sobreviver. Ao ser agredida por um cliente, ela acaba matando o indivíduo, e se transforma na primeira assassina em série dos Estados Unidos.(n)</desc>
+    <credits>
+      <director>Patty Jenkins</director>
+      <director>Steven Bernstein</director>
+      <actor>Annie Corley</actor>
+      <actor>Marco St. John</actor>
+      <actor>Pruitt Taylor Vince</actor>
+      <actor>BT</actor>
+      <actor>Scott Wilson</actor>
+      <actor>Charlize Theron</actor>
+      <actor>Christina Ricci</actor>
+      <actor>Lee Tergesen</actor>
+      <actor>Bruce Dern</actor>
+      <actor>Arthur Coburn</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Policial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12812064_F727FAC559E0C2BC.jpg" />
+    <country lang="pt">USA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230421155400 +0000" stop="20230421175400 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Mente Criminosa</title>
+    <desc lang="pt">Um agente da CIA morre durante uma operação secreta. Para descobrir seu paradeiro, a agência busca uma cirurgia experimental que transfere memórias. A cobaia é um condenado à morte, que precisa acabar com uma conspiração internacional.(n)</desc>
+    <credits>
+      <director>Ariel Vromen</director>
+      <director>David Hindle</director>
+      <director>Hannah Santeugini</director>
+      <actor>Alice Eve</actor>
+      <actor>Brian Tyler</actor>
+      <actor>Jordi Mollà</actor>
+      <actor>Amaury Nolasco</actor>
+      <actor>Gal Gadot</actor>
+      <actor>Dana Gonzales</actor>
+      <actor>David Weisberg</actor>
+      <actor>Douglas Cook</actor>
+      <actor>Ryan Reynolds</actor>
+      <actor>Kevin Costner</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Suspense</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/78/11780823_6221C8FE4318E9B8.jpg" />
+    <country lang="pt">GBR</country>
+    <country lang="pt">USA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230421175400 +0000" stop="20230421194400 +0000" channel="A&amp;E FHD">
+    <title lang="pt">A Última Casa da Rua</title>
+    <desc lang="pt">Para recomeçar a vida depois do divórcio, Sarah e a filha Elissa se mudam para uma pequena cidade. Logo, descobrem o terrível segredo do local: anos antes, uma jovem matou os pais e desapareceu, deixando o irmão, Ryan, com quem Elissa se envolve.(n)</desc>
+    <credits>
+      <director>Mark Tonderai</director>
+      <director>Shane Boucher</director>
+      <actor>Eva Link</actor>
+      <actor>Jon McLaren</actor>
+      <actor>Max Thieriot</actor>
+      <actor>Will Bowes</actor>
+      <actor>Craig Eldridge</actor>
+      <actor>Miroslaw Baszak</actor>
+      <actor>David Loucka</actor>
+      <actor>Krista Bridges</actor>
+      <actor>Allie Macdonald</actor>
+      <actor>Nolan Gerard Funk</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Terror</category>
+    <category lang="pt">Suspense</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/90/11906961_C35DAC60B3821A6C.jpg" />
+    <country lang="pt">USA</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230421194400 +0000" stop="20230421214900 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Monster - Desejo Assassino</title>
+    <desc lang="pt">A infância de Aileen Wuornos foi marcada pelo abuso sexual. Na adolescência, ela passou a se prostituir para sobreviver. Ao ser agredida por um cliente, ela acaba matando o indivíduo, e se transforma na primeira assassina em série dos Estados Unidos.(n)</desc>
+    <credits>
+      <director>Patty Jenkins</director>
+      <director>Steven Bernstein</director>
+      <actor>Annie Corley</actor>
+      <actor>Marco St. John</actor>
+      <actor>Pruitt Taylor Vince</actor>
+      <actor>BT</actor>
+      <actor>Scott Wilson</actor>
+      <actor>Charlize Theron</actor>
+      <actor>Christina Ricci</actor>
+      <actor>Lee Tergesen</actor>
+      <actor>Bruce Dern</actor>
+      <actor>Arthur Coburn</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Policial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12812064_F727FAC559E0C2BC.jpg" />
+    <country lang="pt">USA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230421214900 +0000" stop="20230421215400 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Listas : T1 EP27 - Bruce Lee</title>
+    <sub-title lang="pt">T1 EP27 - Bruce Lee</sub-title>
+    <desc lang="pt">Veja recomendações de filmes, séries e programas com um tema em comum, sejam eles abrangentes, específicos ou até inusitados.(n)</desc>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/83/11838139_BE1E85103300A7A6.jpg" />
+    <episode-num system="onscreen">S1 E27</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230421215400 +0000" stop="20230422002300 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Jogos Vorazes</title>
+    <desc lang="pt">Em um futuro distante, a população da América do Norte se divide em 12 distritos. Todos os anos, cada distrito é forçado a enviar um garoto e uma garota para competir em um jogo mortal e lutar até restar apenas um sobrevivente.(n)</desc>
+    <credits>
+      <director>Gary Ross</director>
+      <actor>Isabelle Fuhrman</actor>
+      <actor>Billy Ray</actor>
+      <actor>James Newton Howard</actor>
+      <actor>Nelson Ascencio</actor>
+      <actor>Paula Malcomson</actor>
+      <actor>Tom Stern</actor>
+      <actor>Willow Shields</actor>
+      <actor>Leven Rambin</actor>
+      <actor>Amandla Stenberg</actor>
+      <actor>Dayo Okeniyi</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Aventura</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/06/12063275_C7FEC797236CED2B.jpg" />
+    <country lang="pt">USA</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422002300 +0000" stop="20230422024700 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Corações de Ferro</title>
+    <desc lang="pt">O sargento Wardaddy lidera um grupo de apenas cinco soldados norte-americanos. Apesar da desvantagem numérica, falta de armas e um soldado inexperiente, ele e seus homens se movimentam em um ataque espetacular no coração da Alemanha nazista.(n)</desc>
+    <credits>
+      <director>David Ayer</director>
+      <director>Mark Scruton</director>
+      <director>Philip Harvey</director>
+      <actor>Brad William Henke</actor>
+      <actor>Xavier Samuel</actor>
+      <actor>Alicia von Rittberg</actor>
+      <actor>Owen Thornton</actor>
+      <actor>Kevin Vance</actor>
+      <actor>Shia LaBeouf</actor>
+      <actor>Brad Pitt</actor>
+      <actor>Jason Isaacs</actor>
+      <actor>Michael Peña</actor>
+      <actor>Scott Eastwood</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Histórico</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/24/15246548_5B75720A1DCDA815.jpg" />
+    <country lang="pt">USA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230422024700 +0000" stop="20230422042200 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Locke</title>
+    <desc lang="pt">A vida do brilhante Ivan Locke muda completamente quando recebe um telefonema ameaçando a segurança de sua família e sua carreira. Ele embarca em uma corrida contra o tempo, em que só tem 90 minutos.(n)</desc>
+    <credits>
+      <director>Steven Knight</director>
+      <actor>Andrew Scott</actor>
+      <actor>Ben Daniels</actor>
+      <actor>Bill Milner</actor>
+      <actor>Haris Zambarloukos</actor>
+      <actor>Dickon Hinchliffe</actor>
+      <actor>Alice Lowe</actor>
+      <actor>Tom Hardy</actor>
+      <actor>Olivia Colman</actor>
+      <actor>Ruth Wilson</actor>
+      <actor>Steven Knight</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/13/13135133_2D8507ECA531BB9D.jpg" />
+    <country lang="pt">USA</country>
+    <country lang="pt">GBR</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422042200 +0000" stop="20230422060400 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Assassino a Preço Fixo</title>
+    <desc lang="pt">Arthur Bishop, um talentoso assassino de elite recebe a missão de matar seu melhor amigo, Harry McKenna. Após cumpri-la, Arthur reencontra Steve, o filho de Harry. Desejando vingança, Steve recebe a ajuda de Arthur para se tornar um assassino.(n)</desc>
+    <credits>
+      <director>Simon West</director>
+      <director>Jason Hamilton</director>
+      <actor>Mark Isham</actor>
+      <actor>Jeff Chase</actor>
+      <actor>Mini Anden</actor>
+      <actor>Richard Wenk</actor>
+      <actor>Lewis John Carlino</actor>
+      <actor>Donald Sutherland</actor>
+      <actor>Jason Statham</actor>
+      <actor>Ben Foster</actor>
+      <actor>Tony Goldwyn</actor>
+      <actor>T.G. Herrington</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Suspense</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/90/11906750_174D6B65B3FB347C.jpg" />
+    <country lang="pt">USA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230422060400 +0000" stop="20230422065600 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Acumuladores Compulsivos : T12 - Debbie</title>
+    <sub-title lang="pt">T12 - Debbie</sub-title>
+    <desc lang="pt">Debbie trabalhou duro como mãe solteira e enfrentou a solidão quando seu único filho cresceu e se mudou de casa. A perda repentina da mãe de Debbie e os cuidados com seu pai deprimido fizeram com que Debbie tentasse escapar do estresse constante.(n)</desc>
+    <credits>
+      <actor>Matt Paxton</actor>
+      <actor>Dorothy Breininger</actor>
+      <actor>Robin Zasio</actor>
+      <actor>Cory Chalmers</actor>
+      <actor>Suzanne Chabaud</actor>
+      <actor>Melva Green</actor>
+      <actor>Geralin Thomas</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Reality Show</category>
+    <category lang="pt">Saúde</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/27/13273769_6496E74DBC7099F7.jpg" />
+    <episode-num system="onscreen">S12</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422065600 +0000" stop="20230422070100 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Listas : T1 EP19 - Três Filmes de Tubarão</title>
+    <sub-title lang="pt">T1 EP19 - Três Filmes de Tubarão</sub-title>
+    <desc lang="pt">Veja recomendações de filmes, séries e programas com um tema em comum, sejam eles abrangentes, específicos ou até inusitados.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/83/11838320_433D693EF30F7B8A.jpg" />
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230422070100 +0000" stop="20230422074600 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Acumuladores Compulsivos : T12 - Debbie</title>
+    <sub-title lang="pt">T12 - Debbie</sub-title>
+    <desc lang="pt">Debbie trabalhou duro como mãe solteira e enfrentou a solidão quando seu único filho cresceu e se mudou de casa. A perda repentina da mãe de Debbie e os cuidados com seu pai deprimido fizeram com que Debbie tentasse escapar do estresse constante.(n)</desc>
+    <credits>
+      <actor>Matt Paxton</actor>
+      <actor>Dorothy Breininger</actor>
+      <actor>Robin Zasio</actor>
+      <actor>Cory Chalmers</actor>
+      <actor>Suzanne Chabaud</actor>
+      <actor>Melva Green</actor>
+      <actor>Geralin Thomas</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="pt">Reality Show</category>
+    <category lang="pt">Saúde</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/78/14789623_18D5DF550D8FDF28.jpg" />
+    <episode-num system="onscreen">S12</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422074600 +0000" stop="20230422080800 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Apertem os Cintos!</title>
+    <desc lang="pt">Um tornado aterrissa em St. Louis e arrasa o seu pequeno aeroporto; um grupo de passageiros rebeldes tenta abrir as portas das cabines de diferentes aviões; um saco que solta uma fumaça suspeita é deixado no aeroporto.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/79/11795907_4FDB1C47E63575AE.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422080800 +0000" stop="20230422081300 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Listas : T1 EP9 - Três Vezes Christian Bale</title>
+    <sub-title lang="pt">T1 EP9 - Três Vezes Christian Bale</sub-title>
+    <desc lang="pt">Veja recomendações de filmes, séries e programas com um tema em comum, sejam eles abrangentes, específicos ou até inusitados.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/83/11838139_BE1E85103300A7A6.jpg" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230422081300 +0000" stop="20230422090000 +0000" channel="A&amp;E FHD">
+    <title lang="pt">As Primeiras 48 Horas : T21 EP13 - Irmãos ao Chão</title>
+    <sub-title lang="pt">T21 EP13 - Irmãos ao Chão</sub-title>
+    <desc lang="pt">Dois irmãos são mortos a tiros enquanto vigiavam a equipe de limpeza do turno noturno. Para poder descobrir a identidade do assassino, os detetives de Tulsa têm que mover céus e terras para encontrar o motivo do crime.(n)</desc>
+    <credits>
+      <director>Peter Tarshis</director>
+      <actor>Dion Graham</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Policial</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11984448_2BAA1396BA1D85EE.jpg" />
+    <episode-num system="onscreen">S21 E13</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422090000 +0000" stop="20230422095200 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Acumuladores Compulsivos : Carmen</title>
+    <sub-title lang="pt">Carmen</sub-title>
+    <desc lang="pt">Depois da perda do seu marido e do seu emprego, Carmen desenvolveu um transtorno de acumulação e ficou viciada em compras. Melissa, a sua filha, teme que a sua vida esteja ficando fora de controle visto que ela parou de se comunicar com sua família.(n)</desc>
+    <category lang="pt">Reality Show</category>
+    <category lang="pt">Saúde</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/80/14806413_2381DF171FFCB93E.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422095200 +0000" stop="20230422104000 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Casos Arquivados : T2 EP15 - Fantasmas de Sexta-Feira à Noite</title>
+    <sub-title lang="pt">T2 EP15 - Fantasmas de Sexta-Feira à Noite</sub-title>
+    <desc lang="pt">Os corpos de cinco pessoas sequestradas de um restaurante em 1983 são encontrados em um campo de petróleo. As pessoas acreditavam que o principal suspeito era um homem local bem relacionado, até que evidências revelam os verdadeiros assassinos.(n)</desc>
+    <credits>
+      <actor>Bill Kurtis</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="pt">Policial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/76/12762109_5C7CC49AF0BE0C16.jpg" />
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422104000 +0000" stop="20230422112700 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Casos Arquivados : T2 EP27 - Sobrevivente</title>
+    <sub-title lang="pt">T2 EP27 - Sobrevivente</sub-title>
+    <desc lang="pt">No início de 1984, Vanessa Bennett, de três anos, torna-se a única sobrevivente do brutal assassinato de sua família. Os Investigadores suspeitam de um serial killer, mas décadas se passam e um exame de DNA aponta para um homem.(n)</desc>
+    <credits>
+      <actor>Bill Kurtis</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="pt">Policial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/67/15673883_8D1691D5173CE7D5.jpg" />
+    <episode-num system="onscreen">S2 E27</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422112700 +0000" stop="20230422113200 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Listas : T1 EP16 - Estrelado e Dirigido por Clint Eastwood</title>
+    <sub-title lang="pt">T1 EP16 - Estrelado e Dirigido por Clint Eastwood</sub-title>
+    <desc lang="pt">Veja recomendações de filmes, séries e programas com um tema em comum, sejam eles abrangentes, específicos ou até inusitados.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/83/11838139_BE1E85103300A7A6.jpg" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230422113200 +0000" stop="20230422130100 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Gosto se Discute</title>
+    <desc lang="pt">Um chef perde o paladar quando precisa fazer um novo cardápio para conquistar a jovem e bela gerente de seu restaurante.(n)</desc>
+    <credits>
+      <director>André Pellenz</director>
+      <actor>Paulo Miklos</actor>
+      <actor>Cássio Gabus Mendes</actor>
+      <actor>Sílvia Lourenço</actor>
+      <actor>Gabriel Godoy</actor>
+      <actor>André Pellenz</actor>
+      <actor>Zéu Britto</actor>
+      <actor>Kéfera Buchmann</actor>
+      <actor>Paulo Gustavo</actor>
+      <actor>Robson Nunes</actor>
+      <actor>Mariana Ximenes</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Comédia</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11823710_C1A770708CC845F0.jpg" />
+    <country lang="pt">BRA</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20230422130100 +0000" stop="20230422144700 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Entre Idas e Vindas</title>
+    <desc lang="pt">Quatro operadoras de telemarketing fazem uma viagem e encontram pai e filho pedindo carona na estrada. O que seria uma simples carona acaba se transformando em uma viagem cheia de aventuras e transformações pessoais.(n)</desc>
+    <credits>
+      <director>José Eduardo Belmonte</director>
+      <actor>Caroline Abras</actor>
+      <actor>Eucir de Souza</actor>
+      <actor>Grazi Massafera</actor>
+      <actor>Marisol Ribeiro</actor>
+      <actor>Otávio Muller</actor>
+      <actor>Carlos Capeletti</actor>
+      <actor>Letícia Lima</actor>
+      <actor>Rosanne Mulholland</actor>
+      <actor>Camila Márdila</actor>
+      <actor>Ingrid Guimarães</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="pt">Comédia</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/72/14720872_23869C4ADA26BDC5.jpg" />
+    <country lang="pt">BRA</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20230422144700 +0000" stop="20230422162400 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Locke</title>
+    <desc lang="pt">A vida do brilhante Ivan Locke muda completamente quando recebe um telefonema ameaçando a segurança de sua família e sua carreira. Ele embarca em uma corrida contra o tempo, em que só tem 90 minutos.(n)</desc>
+    <credits>
+      <director>Steven Knight</director>
+      <actor>Andrew Scott</actor>
+      <actor>Ben Daniels</actor>
+      <actor>Bill Milner</actor>
+      <actor>Haris Zambarloukos</actor>
+      <actor>Dickon Hinchliffe</actor>
+      <actor>Alice Lowe</actor>
+      <actor>Tom Hardy</actor>
+      <actor>Olivia Colman</actor>
+      <actor>Ruth Wilson</actor>
+      <actor>Steven Knight</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/13/13135133_2D8507ECA531BB9D.jpg" />
+    <country lang="pt">USA</country>
+    <country lang="pt">GBR</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422162400 +0000" stop="20230422181400 +0000" channel="A&amp;E FHD">
+    <title lang="pt">A Última Casa da Rua</title>
+    <desc lang="pt">Para recomeçar a vida depois do divórcio, Sarah e a filha Elissa se mudam para uma pequena cidade. Logo, descobrem o terrível segredo do local: anos antes, uma jovem matou os pais e desapareceu, deixando o irmão, Ryan, com quem Elissa se envolve.(n)</desc>
+    <credits>
+      <director>Mark Tonderai</director>
+      <director>Shane Boucher</director>
+      <actor>Eva Link</actor>
+      <actor>Jon McLaren</actor>
+      <actor>Max Thieriot</actor>
+      <actor>Will Bowes</actor>
+      <actor>Craig Eldridge</actor>
+      <actor>Miroslaw Baszak</actor>
+      <actor>David Loucka</actor>
+      <actor>Krista Bridges</actor>
+      <actor>Allie Macdonald</actor>
+      <actor>Nolan Gerard Funk</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Terror</category>
+    <category lang="pt">Suspense</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/90/11906961_C35DAC60B3821A6C.jpg" />
+    <country lang="pt">USA</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422181400 +0000" stop="20230422195600 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Assassino a Preço Fixo</title>
+    <desc lang="pt">Arthur Bishop, um talentoso assassino de elite recebe a missão de matar seu melhor amigo, Harry McKenna. Após cumpri-la, Arthur reencontra Steve, o filho de Harry. Desejando vingança, Steve recebe a ajuda de Arthur para se tornar um assassino.(n)</desc>
+    <credits>
+      <director>Simon West</director>
+      <director>Jason Hamilton</director>
+      <actor>Mark Isham</actor>
+      <actor>Jeff Chase</actor>
+      <actor>Mini Anden</actor>
+      <actor>Richard Wenk</actor>
+      <actor>Lewis John Carlino</actor>
+      <actor>Donald Sutherland</actor>
+      <actor>Jason Statham</actor>
+      <actor>Ben Foster</actor>
+      <actor>Tony Goldwyn</actor>
+      <actor>T.G. Herrington</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Suspense</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/90/11906750_174D6B65B3FB347C.jpg" />
+    <country lang="pt">USA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230422195600 +0000" stop="20230422222500 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Jogos Vorazes</title>
+    <desc lang="pt">Em um futuro distante, a população da América do Norte se divide em 12 distritos. Todos os anos, cada distrito é forçado a enviar um garoto e uma garota para competir em um jogo mortal e lutar até restar apenas um sobrevivente.(n)</desc>
+    <credits>
+      <director>Gary Ross</director>
+      <actor>Isabelle Fuhrman</actor>
+      <actor>Billy Ray</actor>
+      <actor>James Newton Howard</actor>
+      <actor>Nelson Ascencio</actor>
+      <actor>Paula Malcomson</actor>
+      <actor>Tom Stern</actor>
+      <actor>Willow Shields</actor>
+      <actor>Leven Rambin</actor>
+      <actor>Amandla Stenberg</actor>
+      <actor>Dayo Okeniyi</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Aventura</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/06/12063275_C7FEC797236CED2B.jpg" />
+    <country lang="pt">USA</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422222500 +0000" stop="20230422223000 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Listas : T1 EP28 - Representatividade Trans</title>
+    <sub-title lang="pt">T1 EP28 - Representatividade Trans</sub-title>
+    <desc lang="pt">Veja recomendações de filmes, séries e programas com um tema em comum, sejam eles abrangentes, específicos ou até inusitados.(n)</desc>
+    <category lang="pt">Entretenimento</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/83/11838139_BE1E85103300A7A6.jpg" />
+    <episode-num system="onscreen">S1 E28</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230422223000 +0000" stop="20230423003000 +0000" channel="A&amp;E FHD">
+    <title lang="pt">A Informante</title>
+    <desc lang="pt">A policial Kathy Bolkovac é convidada pelas Nações Unidas para participar da pacificação da Bósnia e acaba descobrindo um escândalo sexual encoberto pela ONU.(n)</desc>
+    <credits>
+      <director>Larysa Kondracki</director>
+      <director>Vlad Vieru</director>
+      <actor>David Hewlett</actor>
+      <actor>Mychael Danna</actor>
+      <actor>Kieran McGuigan</actor>
+      <actor>Eilis Kirwan</actor>
+      <actor>Vanessa Redgrave</actor>
+      <actor>Monica Bellucci</actor>
+      <actor>Rachel Weisz</actor>
+      <actor>Larysa Kondracki</actor>
+      <actor>William Hope</actor>
+      <actor>David Strathairn</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/66/13667776_703480FC4DF251FE.jpg" />
+    <country lang="pt">USA</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423003000 +0000" stop="20230423023900 +0000" channel="A&amp;E FHD">
+    <title lang="pt">O Peso do Passado</title>
+    <desc lang="pt">Erin Bell se infiltra entre bandidos para obter informações, mas a estratégia dá errado e gera uma tragédia que marca a sua vida para sempre.(n)</desc>
+    <credits>
+      <director>Karyn Kusama</director>
+      <director>Eric Jeon</director>
+      <actor>Bradley Whitford</actor>
+      <actor>Jan Hoag</actor>
+      <actor>Tatiana Maslany</actor>
+      <actor>Toby Kebbell</actor>
+      <actor>Theodore Shapiro</actor>
+      <actor>Matt Manfredi</actor>
+      <actor>Phil Hay</actor>
+      <actor>Toby Huss</actor>
+      <actor>Jade Pettyjohn</actor>
+      <actor>Colby French</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/80/11801655_D6F4CDCEEF86F5BB.jpg" />
+    <country lang="pt">USA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230423023900 +0000" stop="20230423044400 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Monster - Desejo Assassino</title>
+    <desc lang="pt">A infância de Aileen Wuornos foi marcada pelo abuso sexual. Na adolescência, ela passou a se prostituir para sobreviver. Ao ser agredida por um cliente, ela acaba matando o indivíduo, e se transforma na primeira assassina em série dos Estados Unidos.(n)</desc>
+    <credits>
+      <director>Patty Jenkins</director>
+      <director>Steven Bernstein</director>
+      <actor>Annie Corley</actor>
+      <actor>Marco St. John</actor>
+      <actor>Pruitt Taylor Vince</actor>
+      <actor>BT</actor>
+      <actor>Scott Wilson</actor>
+      <actor>Charlize Theron</actor>
+      <actor>Christina Ricci</actor>
+      <actor>Lee Tergesen</actor>
+      <actor>Bruce Dern</actor>
+      <actor>Arthur Coburn</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="pt">Drama</category>
+    <category lang="pt">Policial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/81/12812064_F727FAC559E0C2BC.jpg" />
+    <country lang="pt">USA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230423044400 +0000" stop="20230423062800 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Soldados da Fortuna</title>
+    <desc lang="pt">Um ex-soldado é contratado para proteger um grupo de milionários que pagaram uma enorme quantia em dinheiro para experimentar em primeira mão as emoções de excursões militares. Desta vez, a missão não corre da forma que eles haviam planejado.(n)</desc>
+    <credits>
+      <director>Maxim Korostyshevsky</director>
+      <actor>Sarah Ann Schultz</actor>
+      <actor>Robert Crombie</actor>
+      <actor>Joseph LoDuca</actor>
+      <actor>Alexandre Coscas</actor>
+      <actor>Joe Kelbley</actor>
+      <actor>Christian Slater</actor>
+      <actor>Dominic Monaghan</actor>
+      <actor>Sean Bean</actor>
+      <actor>Ving Rhames</actor>
+      <actor>James Cromwell</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Suspense</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/84/12840604_A986723D4B0C7621.jpg" />
+    <country lang="pt">USA</country>
+    <country lang="pt">RUS</country>
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20230423062800 +0000" stop="20230423072200 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Acumuladores Compulsivos : T13 - Terri</title>
+    <sub-title lang="pt">T13 - Terri</sub-title>
+    <desc lang="pt">Terri quer se casar, mas o seu distúrbio de acumulação está atrapalhando o seu relacionamento. A doença a tem levado inclusive a acumular coisas na casa onde trabalha cuidando de um homem idoso. Agora toda a sua vida está na balança.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Reality Show</category>
+    <category lang="pt">Saúde</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/73/14733349_4E85C3A13F7D97FE.jpg" />
+    <episode-num system="onscreen">S13</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423072200 +0000" stop="20230423081100 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Acumuladores Compulsivos : T13 - Terri</title>
+    <sub-title lang="pt">T13 - Terri</sub-title>
+    <desc lang="pt">Terri quer se casar, mas o seu distúrbio de acumulação está atrapalhando o seu relacionamento. A doença a tem levado inclusive a acumular coisas na casa onde trabalha cuidando de um homem idoso. Agora toda a sua vida está na balança.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Reality Show</category>
+    <category lang="pt">Saúde</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/73/14733388_A95D67ABE2C35396.jpg" />
+    <episode-num system="onscreen">S13</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423081100 +0000" stop="20230423090000 +0000" channel="A&amp;E FHD">
+    <title lang="pt">As Primeiras 48 Horas : T21 EP15 - Emboscada no Meio da Noite</title>
+    <sub-title lang="pt">T21 EP15 - Emboscada no Meio da Noite</sub-title>
+    <desc lang="pt">Os detetives de Tulsa investigam o assassinato de um pai de família que foi morto a tiros por um criminoso que se escondeu em um estacionamento ao atacá-lo. Enquanto isso, em Mobile, um idoso morre durante um incêndio suspeito em seu apartamento.(n)</desc>
+    <credits>
+      <director>Peter Tarshis</director>
+      <actor>Dion Graham</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="pt">Policial</category>
+    <category lang="pt">Reality Show</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/83/11833994_BB8CBEA83423C873.jpg" />
+    <episode-num system="onscreen">S21 E15</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423090000 +0000" stop="20230423095100 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Acumuladores Compulsivos : Kate</title>
+    <sub-title lang="pt">Kate</sub-title>
+    <desc lang="pt">Kate costumava colecionar itens de seus clientes para decorar as casas que vendia quando trabalhava como corretora de imóveis. Após perder o marido, a dor a levou a transformar sua casa em um caos e agora ela acumula centenas de multas da prefeitura.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Reality Show</category>
+    <category lang="pt">Saúde</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/78/14781576_CFB9E8259272BEC7.jpg" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423095100 +0000" stop="20230423104000 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Serial Killer - O Começo de Tudo : T1 EP5 - Anthony Sowell - O Estrangulador de Cleveland</title>
+    <sub-title lang="pt">T1 EP5 - Anthony Sowell - O Estrangulador de Cleveland</sub-title>
+    <desc lang="pt">Mulheres negras no bairro de Mt. Pleasant, em Cleveland, estavam desaparecendo. Anthony Sowell encontrou o controle pelo qual ansiava quando dominou sua primeira vítima vulnerável - uma mulher que esperava apenas conhecer uma pessoa bacana.(n)</desc>
+    <date>2022</date>
+    <category lang="pt">Policial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/65/15651399_B1D2B2893A1730F7.jpg" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423104000 +0000" stop="20230423112900 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Serial Killer - O Começo de Tudo : T1 EP4 - Richard Ramirez - O Perseguidor da Noite</title>
+    <sub-title lang="pt">T1 EP4 - Richard Ramirez - O Perseguidor da Noite</sub-title>
+    <desc lang="pt">Richard Ramirez, um dos mais notórios assassinos em série, aterrorizou o sul da Califórnia em meados da década de 1980, onde qualquer um poderia ser alvo do sádico assassino.(n)</desc>
+    <date>2022</date>
+    <category lang="pt">Policial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/65/15651206_86BC7C32C1D62657.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423112900 +0000" stop="20230423115500 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Metrópole Bogotá</title>
+    <desc lang="pt">Denúncia de venda de drogas desencadeia perseguição em rede de esgoto; a detenção de um homem acaba no hospital, quando ele tenta tirar a própria vida; homem com antecedentes psiquiátricos sofre um surto violento.(n)</desc>
+    <date>2021</date>
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/25/13253185_241CC72F779C2776.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423115500 +0000" stop="20230423133600 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Os Caras de Pau</title>
+    <desc lang="pt">O anel Tatu Tatuado de Topázio, da socialite Gracinha de Medeiros, está em exposição em um museu. Ela contrata os atrapalhados seguranças Pedrão e Jorginho para vigiarem a joia, uma herança de família. O anel é roubado e a dupla acusada de furto.(n)</desc>
+    <credits>
+      <director>Felipe Joffily</director>
+      <actor>Christine Fernandes</actor>
+      <actor>Márcio Vito</actor>
+      <actor>Antônio Fragoso</actor>
+      <actor>Ricardo Pereira</actor>
+      <actor>Alexandre Regis</actor>
+      <actor>Paulo Carvalho</actor>
+      <actor>Marcius Melhem</actor>
+      <actor>Miguel Nader</actor>
+      <actor>Marcello Caridade</actor>
+      <actor>Adriano Garib</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="pt">Comédia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/49/12490789_8BED94FC91DC3E52.jpg" />
+    <country lang="pt">BRA</country>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20230423133600 +0000" stop="20230423151300 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Sai de Baixo - O Filme</title>
+    <desc lang="pt">Caco Antibes sai da prisão e planeja mais um golpe ao lado de Vavá, Cassandra, Ribamar e Magda, a família mais famosa do Largo do Arouche.(n)</desc>
+    <credits>
+      <director>Cris D'Amato</director>
+      <director>Mário Jorge Monteiro</director>
+      <actor>Miguel Falabella</actor>
+      <actor>Lúcio Mauro Filho</actor>
+      <actor>Tom Cavalcante</actor>
+      <actor>Marisa Orth</actor>
+      <actor>Ary França</actor>
+      <actor>Carla Daniel</actor>
+      <actor>Aracy Balabanian</actor>
+      <actor>George Sauma</actor>
+      <actor>Cacau Protásio</actor>
+      <actor>Tatá Werneck</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="pt">Comédia</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/14/75/14754886_BEC2A4980BA1FB84.jpg" />
+    <country lang="pt">BRA</country>
+    <rating>
+      <value>+12</value>
+    </rating>
+  </programme>
+  <programme start="20230423151300 +0000" stop="20230423165700 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Soldados da Fortuna</title>
+    <desc lang="pt">Um ex-soldado é contratado para proteger um grupo de milionários que pagaram uma enorme quantia em dinheiro para experimentar em primeira mão as emoções de excursões militares. Desta vez, a missão não corre da forma que eles haviam planejado.(n)</desc>
+    <credits>
+      <director>Maxim Korostyshevsky</director>
+      <actor>Sarah Ann Schultz</actor>
+      <actor>Robert Crombie</actor>
+      <actor>Joseph LoDuca</actor>
+      <actor>Alexandre Coscas</actor>
+      <actor>Joe Kelbley</actor>
+      <actor>Christian Slater</actor>
+      <actor>Dominic Monaghan</actor>
+      <actor>Sean Bean</actor>
+      <actor>Ving Rhames</actor>
+      <actor>James Cromwell</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Suspense</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/84/12840604_A986723D4B0C7621.jpg" />
+    <country lang="pt">USA</country>
+    <country lang="pt">RUS</country>
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20230423165700 +0000" stop="20230423183500 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Amityville - O Despertar</title>
+    <desc lang="pt">Uma jovem jornalista decide fazer uma reportagem para revelar todos os acontecimentos de Amityville, desde 1976. Ao chegar no local, fenômenos de antigamente voltam a acontecer.(n)</desc>
+    <credits>
+      <director>Franck Khalfoun</director>
+      <actor>Taylor Spreitler</actor>
+      <actor>Steven Poster</actor>
+      <actor>Cameron Monaghan</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Kurtwood Smith</actor>
+      <actor>Jennifer Jason Leigh</actor>
+      <actor>Bella Thorne</actor>
+      <actor>Thomas Mann</actor>
+      <actor>Franck Khalfoun</actor>
+      <actor>Mckenna Grace</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="pt">Terror</category>
+    <category lang="pt">Suspense</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/81/11819126_AB13EF13A29ADEF5.jpg" />
+    <country lang="pt">USA</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423183500 +0000" stop="20230423204300 +0000" channel="A&amp;E FHD">
+    <title lang="pt">A Informante</title>
+    <desc lang="pt">A policial Kathy Bolkovac é convidada pelas Nações Unidas para participar da pacificação da Bósnia e acaba descobrindo um escândalo sexual encoberto pela ONU.(n)</desc>
+    <credits>
+      <director>Larysa Kondracki</director>
+      <director>Vlad Vieru</director>
+      <actor>David Hewlett</actor>
+      <actor>Mychael Danna</actor>
+      <actor>Kieran McGuigan</actor>
+      <actor>Eilis Kirwan</actor>
+      <actor>Vanessa Redgrave</actor>
+      <actor>Monica Bellucci</actor>
+      <actor>Rachel Weisz</actor>
+      <actor>Larysa Kondracki</actor>
+      <actor>William Hope</actor>
+      <actor>David Strathairn</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/13/66/13667776_703480FC4DF251FE.jpg" />
+    <country lang="pt">USA</country>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423204300 +0000" stop="20230423221400 +0000" channel="A&amp;E FHD">
+    <title lang="pt">Corra, Lola, Corra</title>
+    <desc lang="pt">Uma mulher descobre que tem apenas 20 minutos para salvar seu namorado de ser morto por um criminoso local. Em sua corrida contra o relógio, as minúsculas decisões que ela toma podem fazer toda a diferença.(n)</desc>
+    <credits>
+      <director>Tom Tykwer</director>
+      <actor>Armin Rohde</actor>
+      <actor>Joachim Król</actor>
+      <actor>Ludger Pistor</actor>
+      <actor>Stanley Adams</actor>
+      <actor>Johnny Klimek</actor>
+      <actor>Reinhold Heil</actor>
+      <actor>Nina Petri</actor>
+      <actor>Franka Potente</actor>
+      <actor>Tom Tykwer</actor>
+      <actor>Herbert Knaup</actor>
+    </credits>
+    <date>1998</date>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Suspense</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/64/15641367_28B1D30F76A987EB.jpg" />
+    <country lang="pt">DEU</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230423221400 +0000" stop="20230424002300 +0000" channel="A&amp;E FHD">
+    <title lang="pt">O Peso do Passado</title>
+    <desc lang="pt">Erin Bell se infiltra entre bandidos para obter informações, mas a estratégia dá errado e gera uma tragédia que marca a sua vida para sempre.(n)</desc>
+    <credits>
+      <director>Eric Jeon</director>
+      <director>Karyn Kusama</director>
+      <actor>Shamier Anderson</actor>
+      <actor>Beau Knapp</actor>
+      <actor>Cuete Yeska</actor>
+      <actor>James Jordan</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Scoot McNairy</actor>
+      <actor>Sebastian Stan</actor>
+      <actor>Natalia Cordova-Buckley</actor>
+      <actor>Zach Villa</actor>
+      <actor>Kelvin Han Yee</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="pt">Ação</category>
+    <category lang="pt">Drama</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/80/11801655_D6F4CDCEEF86F5BB.jpg" />
+    <country lang="pt">USA</country>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230421001000 +0000" stop="20230421010600 +0000" channel="A&amp;E H265">
+    <title lang="en">Bosch</title>
+    <sub-title lang="en">A Superação</sub-title>
+    <desc lang="en">Bosch luta para lidar com as coisas que perdeu e manter a escuridão longe de si e de Maddie; a força-tarefa fica com dois suspeitos; a capitã Grace Billets se atrapalha com política de delegacia e oposição, já não é a melhor amiga de todos.(n)</desc>
+    <credits>
+      <actor role="Harry Bosch">Titus Welliver</actor>
+      <actor role="Jerry Edgar">Jamie Hector</actor>
+      <actor role="Lt. Grace Billets">Amy Aquino</actor>
+      <actor role="Maddie">Madison Lintz</actor>
+      <actor role="Irvin Irving">Lance Reddick</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p15169949_e_h8_aa.jpg" />
+    <episode-num system="onscreen">S4 E5/8</episode-num>
+    <rating>
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme start="20230421010600 +0000" stop="20230421015200 +0000" channel="A&amp;E H265">
+    <title lang="en">Bosch</title>
+    <sub-title lang="en">O Vinho da Juventude</sub-title>
+    <desc lang="en">A busca por Sheehan se intensifica enquanto aumenta a pressão para a solução da morte de Elias; a força-tarefa espera a balística para confirmar suas suspeitas; Edgar e Bosch investigam um projeto paralelo extra-oficial em San Gabriel Valley.(n)</desc>
+    <credits>
+      <actor role="Harry Bosch">Titus Welliver</actor>
+      <actor role="Jerry Edgar">Jamie Hector</actor>
+      <actor role="Lt. Grace Billets">Amy Aquino</actor>
+      <actor role="Maddie">Madison Lintz</actor>
+      <actor role="Irvin Irving">Lance Reddick</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p15169954_e_h8_aa.jpg" />
+    <episode-num system="onscreen">S4 E6/8</episode-num>
+    <rating>
+      <value>A16</value>
+    </rating>
+  </programme>
+  <programme start="20230421015200 +0000" stop="20230421034400 +0000" channel="A&amp;E H265">
+    <title lang="en">Rocky III - O Desafio Supremo</title>
+    <desc lang="en">Depois de ter sido derrotado pelo arrogante Clubber Lang, Rocky Balboa decide reconquistar o título de campeão dos pesos-pesados e se prepara para uma revanche. Para treinar, o lutador pede a ajuda de seu antigo adversário, Apollo Creed.(n)</desc>
+    <credits>
+      <actor role="Rocky Balboa">Sylvester Stallone</actor>
+      <actor role="Clubber Lang">Mr. T</actor>
+      <actor role="Adrian">Talia Shire</actor>
+      <actor role="Apollo Creed">Carl Weathers</actor>
+      <actor role="Paulie">Burt Young</actor>
+      <actor role="Mickey Goldmill">Burgess Meredith</actor>
+      <actor role="Rocky Junior">Ian Fried</actor>
+      <actor role="Thunderlips">Hulk Hogan</actor>
+      <actor role="Al">Al Silvani</actor>
+      <actor role="Duke">Tony Burton</actor>
+      <writer>Sylvester Stallone</writer>
+      <producer>Robert Chartoff</producer>
+      <producer>Irwin Winkler</producer>
+    </credits>
+    <date>1982</date>
+    <category lang="en">Drama</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p5610_v_h10_ag.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230421034400 +0000" stop="20230421055600 +0000" channel="A&amp;E H265">
+    <title lang="en">O Grande Herói</title>
+    <desc lang="en">Durante a guerra no Afeganistão, uma equipe de elite das forças especiais, SEAL, liderada por Marcus Luttrell, tem a missão de capturar o líder talibã Ahmad Shah enquanto luta por suas vidas.(n)</desc>
+    <credits>
+      <actor role="Marcus Luttrell">Mark Wahlberg</actor>
+      <actor role="Mike Murphy">Taylor Kitsch</actor>
+      <actor role="Lt. Cmdr. Erik S. Kristensen">Eric Bana</actor>
+      <actor role="Danny Dietz">Emile Hirsch</actor>
+      <actor role="Matthew Axelson">Ben Foster</actor>
+      <actor role="Taraq">Sammy Sheik</actor>
+      <actor role="Ahmad Shah">Yousuf Azami</actor>
+      <actor role="Gulab">Ali Suliman</actor>
+      <producer>Peter Berg</producer>
+      <producer>Sarah Aubrey</producer>
+      <producer>Randall Emmett</producer>
+      <producer>Norton Herrick</producer>
+      <producer>Barry Spikings</producer>
+      <producer>Akiva Goldsman</producer>
+      <producer>Mark Wahlberg</producer>
+      <producer>Stephen Levinson</producer>
+      <producer>Vitaly Grigoriants</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Guerra</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p10020958_v_h8_as.jpg?w=3840&amp;h=2160" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230421055600 +0000" stop="20230421065000 +0000" channel="A&amp;E H265">
+    <title lang="en">Acumuladores Compulsivos</title>
+    <sub-title lang="en">Margie</sub-title>
+    <desc lang="en">Cheia com cerca de 500 toneladas de desordem, a casa de Margie e Betel apresenta um risco extremo de incêndio. Sua família se recusa a permitir a visita de seus netos devido às condições insalubres e ao ambiente extremamente perigoso. Embora a casa esteja contaminada com resíduos de roedores, Margie não vê perigo. Com dores nas costas que exigirão cirurgia, sua família sabe que a casa não é adequada para a recuperação de Margie.(n)</desc>
+    <credits>
+      <writer>Marcus Goodwin</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Saúde</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p20358836_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E138</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230421065000 +0000" stop="20230421073100 +0000" channel="A&amp;E H265">
+    <title lang="en">Acumuladores Compulsivos</title>
+    <sub-title lang="en">Margie</sub-title>
+    <desc lang="en">Cheia com cerca de 500 toneladas de desordem, a casa de Margie e Betel apresenta um risco extremo de incêndio. Sua família se recusa a permitir a visita de seus netos devido às condições insalubres e ao ambiente extremamente perigoso. Embora a casa esteja contaminada com resíduos de roedores, Margie não vê perigo. Com dores nas costas que exigirão cirurgia, sua família sabe que a casa não é adequada para a recuperação de Margie.(n)</desc>
+    <credits>
+      <writer>Marcus Goodwin</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Saúde</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p20358841_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E139</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230421073100 +0000" stop="20230421075200 +0000" channel="A&amp;E H265">
+    <title lang="en">Apertem os Cintos!</title>
+    <desc lang="en">Um passageiro faz um discurso explosivo e por isso um avião precisa ser evacuado; um homem destrói um pequeno aeroporto; um grupo de viajantes seca suas roupas sujas no ônibus; câmeras de segurança capturam uma tentativa de sequestro no aeroporto.(n)</desc>
+    <credits>
+      <presenter>Robert Hays</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p20382262_e_h10_aa.jpg" />
+    <episode-num system="onscreen">S1 E6/6</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230421075200 +0000" stop="20230421081300 +0000" channel="A&amp;E H265">
+    <title lang="en">Apertem os Cintos!</title>
+    <desc lang="en">Funcionários do aeroporto correm para resgatar um menino curioso que está brincando na esteira de bagagens; um piloto despreocupado tenta introduzir uma garrafa de vodca em seu voo; um passageiro causa um susto quando desmaia após tentar embarcar.(n)</desc>
+    <credits>
+      <presenter>Robert Hays</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p20403763_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230421081300 +0000" stop="20230421090000 +0000" channel="A&amp;E H265">
+    <title lang="en">As Primeiras 48 Horas</title>
+    <sub-title lang="en">Trilha do Diabo</sub-title>
+    <desc lang="en">Os detetives do departamento de homicídios de Tulsa encontram o corpo nu de uma mulher em situação de rua que foi estuprada e estrangulada em um lixão.(n)</desc>
+    <credits>
+      <writer>Elena Sorre</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Legislação</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p17837980_e_h10_aa.jpg" />
+    <episode-num system="onscreen">S21 E8/18</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230421090000 +0000" stop="20230421095200 +0000" channel="A&amp;E H265">
+    <title lang="en">Acumuladores Compulsivos</title>
+    <sub-title lang="en">Debbie</sub-title>
+    <desc lang="en">Debbie trabalhou duro como mãe solteira e enfrentou a solidão quando seu único filho cresceu e se mudou de casa. A perda repentina da mãe de Debbie e os cuidados com seu pai deprimido fizeram com que Debbie tentasse escapar do estresse constante. Comprar em brechós deu conforto a Debbie, mas também desencadeou seu distúrbio de acumulação. Agora Debbie quer construir uma nova vida com o namorado.(n)</desc>
+    <credits>
+      <writer>Marcus Goodwin</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Saúde</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p20358842_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E140</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230421095200 +0000" stop="20230421103700 +0000" channel="A&amp;E H265">
+    <title lang="en">Acumuladores Compulsivos</title>
+    <sub-title lang="en">Debbie</sub-title>
+    <desc lang="en">Debbie trabalhou duro como mãe solteira e enfrentou a solidão quando seu único filho cresceu e se mudou de casa. A perda repentina da mãe de Debbie e os cuidados com seu pai deprimido fizeram com que Debbie tentasse escapar do estresse constante. Comprar em brechós deu conforto a Debbie, mas também desencadeou seu distúrbio de acumulação. Agora Debbie quer construir uma nova vida com o namorado.(n)</desc>
+    <credits>
+      <writer>Marcus Goodwin</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Saúde</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p20358845_e_h10_ab.jpg" />
+    <episode-num system="onscreen">E141</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230421103700 +0000" stop="20230421112600 +0000" channel="A&amp;E H265">
+    <title lang="en">Mente Criminosa</title>
+    <sub-title lang="en">Uma Noite Trágica em Dallas</sub-title>
+    <desc lang="en">Em Dallas, policial branco de folga mata homem negro desarmado na sua própria casa, gerando tensões raciais e exigências de justiça. A mulher alega que agiu em legítima defesa, mas a promotoria tenta convencer o júri de que se tratou de um homicídio.(n)</desc>
+    <credits>
+      <writer>Charles Fitzgerald</writer>
+      <writer>Michael Husain</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Documentário</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p22011034_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E14</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230421112600 +0000" stop="20230421121500 +0000" channel="A&amp;E H265">
+    <title lang="en">60 Dias Infiltrados na Prisão</title>
+    <sub-title lang="en">Vinte e Três e Um</sub-title>
+    <desc lang="en">À medida que os novos participantes do programa entram na penitenciária do condado de Henry, eles vão descobrindo que as condições nas cápsulas de quarentena são muito mais severas do que em suas experiências anteriores na prisão.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Documentário</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p22713215_e_h10_aa.jpg" />
+    <episode-num system="onscreen">S7 E2/2</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230421121500 +0000" stop="20230421134900 +0000" channel="A&amp;E H265">
+    <title lang="en">Ninguém Entra, Ninguém Sai</title>
+    <desc lang="en">Suellen é uma moça romântica, estudiosa e que tem um sonho: se casar com o namorado Edu para construir sua nova família. Quando ela é selecionada para um projeto bizarro, acredita que pode ser a chance para que o casamento aconteça mais rápido. Entretanto, ela descobre que vai ficar trancafiada em um motel barato com alguns outros casais, o que vai fazer ela repensar nos seus planos para o futuro.(n)</desc>
+    <credits>
+      <actor role="Suellen">Letícia Lima</actor>
+      <actor role="Edu">Emiliano D'Avila</actor>
+      <actor role="Alexandre">Rafael Infante</actor>
+      <actor role="Letícia">Danielle Winits</actor>
+      <actor role="Acauã">Tatsu Carvalho</actor>
+      <actor role="Caju">João Côrtes</actor>
+      <actor role="Edilene">Renata Castro Barbosa</actor>
+      <actor role="Francisca">Guta Stresser</actor>
+      <actor role="Jujuba">Gabriel Totoro</actor>
+      <actor role="João">Antônio Pedro</actor>
+      <producer>Cláudia Furiati</producer>
+      <producer>Helena Sroulevich</producer>
+      <producer>Daniel F. Sroulevich</producer>
+      <composer>Marcos Kuzka Cunha</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Comédia</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p13566278_v_h10_ab.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230421134900 +0000" stop="20230421155400 +0000" channel="A&amp;E H265">
+    <title lang="en">Monster - Desejo Assassino</title>
+    <desc lang="en">A infância de Aileen Wuornos foi marcada por abuso sexual e uso de drogas. Na adolescência, ela passou a se prostituir para sobreviver. Quando se mudou para a Flórida, ela conheceu Selby Wall, com que viveu um romance intenso. Certa noite, Aileen foi agredida por um cliente e acabou matando o indivíduo. Este crime deu início a uma série de mortes, fazendo com que ela ficasse conhecida como a primeira assassina em série dos Estados Unidos.(n)</desc>
+    <credits>
+      <actor role="Aileen Wuornos">Charlize Theron</actor>
+      <actor role="Selby Wall">Christina Ricci</actor>
+      <actor role="Thomas">Bruce Dern</actor>
+      <actor role="Horton/Last &quot;John&quot;">Scott Wilson</actor>
+      <actor role="Gene/Stuttering &quot;John&quot;">Pruitt Taylor Vince</actor>
+      <actor role="Vincent Corey">Lee Tergesen</actor>
+      <actor role="Donna Tentler">Annie Corley</actor>
+      <actor role="Eva /Undercover &quot;John&quot;">Marco St. John</actor>
+      <writer>Patty Jenkins</writer>
+      <producer>Mark Damon</producer>
+      <producer>Clark Peterson</producer>
+      <producer>Charlize Theron</producer>
+      <producer>Donald Kushner</producer>
+      <producer>Brad Wyman</producer>
+      <composer>BT</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Biografia</category>
+    <category lang="en">Drama criminal</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p33624_v_h10_ah.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230421155400 +0000" stop="20230421175400 +0000" channel="A&amp;E H265">
+    <title lang="en">Mente Criminosa</title>
+    <desc lang="en">Um agente da CIA morre durante uma operação secreta. Para descobrir seu paradeiro, a agência busca uma cirurgia experimental que transfere memórias. A cobaia é um condenado à morte, que precisa acabar com uma conspiração internacional.(n)</desc>
+    <credits>
+      <actor role="Jerico Stewart">Kevin Costner</actor>
+      <actor role="Jill Pope">Gal Gadot</actor>
+      <actor role="Quaker Wells">Gary Oldman</actor>
+      <actor role="Bill Pope">Ryan Reynolds</actor>
+      <actor role="Dr. Franks">Tommy Lee Jones</actor>
+      <actor role="Hagbardaka Heimbahl">Jordi Molla</actor>
+      <actor role="Jan Stroop">Michael Pitt</actor>
+      <actor role="Marta Lynch">Alice Eve</actor>
+      <actor role="Esteban Ruiza">Amaury Nolasco</actor>
+      <actor role="Emma Pope">Lara Decaro</actor>
+      <producer>JC Spink</producer>
+      <producer>Jake Weiner</producer>
+      <producer>Matt O'Toole</producer>
+      <producer>Mark Gill</producer>
+      <producer>Christa Campbell</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Ação</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p11952545_v_h10_ab.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230421175400 +0000" stop="20230421194400 +0000" channel="A&amp;E H265">
+    <title lang="en">A Última Casa da Rua</title>
+    <desc lang="en">Para recomeçar a vida depois do divórcio, Sarah e a filha Elissa se mudam para uma pequena cidade. Logo, descobrem o terrível segredo do local: anos antes, uma jovem matou os pais e desapareceu, deixando o irmão, Ryan, com quem Elissa se envolve.(n)</desc>
+    <credits>
+      <actor role="Elissa">Jennifer Lawrence</actor>
+      <actor role="Ryan">Max Thieriot</actor>
+      <actor role="Sarah">Elisabeth Shue</actor>
+      <actor role="Weaver">Gil Bellows</actor>
+      <actor role="Carrie Anne">Eva Link</actor>
+      <actor role="Tyler">Nolan Gerard Funk</actor>
+      <actor role="Jillian">Allie MacDonald</actor>
+      <actor role="Penn State Carrie Anne">Jordan Hayes</actor>
+      <actor role="Mary Jacobson">Krista Bridges</actor>
+      <actor role="Ben Reynolds">James Thomas</actor>
+      <producer>Aaron Ryder</producer>
+      <producer>Peter Block</producer>
+      <producer>Hal Lieberman</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Terror</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p8890173_v_h8_al.jpg?w=3840&amp;h=2160" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230421194400 +0000" stop="20230421214900 +0000" channel="A&amp;E H265">
+    <title lang="en">Monster - Desejo Assassino</title>
+    <desc lang="en">A infância de Aileen Wuornos foi marcada por abuso sexual e uso de drogas. Na adolescência, ela passou a se prostituir para sobreviver. Quando se mudou para a Flórida, ela conheceu Selby Wall, com que viveu um romance intenso. Certa noite, Aileen foi agredida por um cliente e acabou matando o indivíduo. Este crime deu início a uma série de mortes, fazendo com que ela ficasse conhecida como a primeira assassina em série dos Estados Unidos.(n)</desc>
+    <credits>
+      <actor role="Aileen Wuornos">Charlize Theron</actor>
+      <actor role="Selby Wall">Christina Ricci</actor>
+      <actor role="Thomas">Bruce Dern</actor>
+      <actor role="Horton/Last &quot;John&quot;">Scott Wilson</actor>
+      <actor role="Gene/Stuttering &quot;John&quot;">Pruitt Taylor Vince</actor>
+      <actor role="Vincent Corey">Lee Tergesen</actor>
+      <actor role="Donna Tentler">Annie Corley</actor>
+      <actor role="Eva /Undercover &quot;John&quot;">Marco St. John</actor>
+      <writer>Patty Jenkins</writer>
+      <producer>Mark Damon</producer>
+      <producer>Clark Peterson</producer>
+      <producer>Charlize Theron</producer>
+      <producer>Donald Kushner</producer>
+      <producer>Brad Wyman</producer>
+      <composer>BT</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Biografia</category>
+    <category lang="en">Drama criminal</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p33624_v_h10_ah.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230421214900 +0000" stop="20230421215400 +0000" channel="A&amp;E H265">
+    <title lang="en">Listas</title>
+    <sub-title lang="en">Bruce Lee</sub-title>
+    <desc lang="en">Veja recomendações de filmes, séries e programas com um tema em comum, sejam eles abrangentes, específicos ou até inusitados.(n)</desc>
+    <category lang="en">Entretenimento</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p19299346_b_h10_aa.jpg?w=1920&amp;h=1080" />
+    <episode-num system="onscreen">E27</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230421215400 +0000" stop="20230422002300 +0000" channel="A&amp;E H265">
+    <title lang="en">Jogos Vorazes</title>
+    <desc lang="en">Na região antigamente conhecida como América do Norte, a Capital de Panem controla 12 distritos e os força a escolher um garoto e uma garota, conhecidos como tributos, para competir em um evento anual televisionado. Todos os cidadãos assistem aos temidos jogos, no qual os jovens lutam até a morte, de modo que apenas um saia vitorioso. A jovem Katniss Everdeen, do Distrito 12, confia na habilidade de caça e na destreza com o arco, além dos instintos aguçados, nesta competição mortal.(n)</desc>
+    <credits>
+      <actor role="Katniss Everdeen">Jennifer Lawrence</actor>
+      <actor role="Peeta Mellark">Josh Hutcherson</actor>
+      <actor role="Gale Hawthorne">Liam Hemsworth</actor>
+      <actor role="Haymitch Abernathy">Woody Harrelson</actor>
+      <actor role="Effie Trinket">Elizabeth Banks</actor>
+      <actor role="Cinna">Lenny Kravitz</actor>
+      <actor role="Caesar Flickerman">Stanley Tucci</actor>
+      <actor role="President Snow">Donald Sutherland</actor>
+      <actor role="Seneca Crane">Wes Bentley</actor>
+      <actor role="Claudius Templesmith">Toby Jones</actor>
+      <producer>Nina Jacobson</producer>
+      <producer>Jon Kilik</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Ação</category>
+    <category lang="en">Aventura</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p8648012_v_h10_ac.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422002300 +0000" stop="20230422024700 +0000" channel="A&amp;E H265">
+    <title lang="en">Corações de Ferro</title>
+    <desc lang="en">Durante o final da Segunda Guerra Mundial, o sargento Don Wardaddy lidera um grupo de apenas cinco soldados norte-americanos encarregado de aniquilar os nazistas. Em um tanque de guerra Sherman, os homens enfrentam uma missão mortal. Apesar da desvantagem numérica, falta de armas e um soldado inexperiente, Wardaddy e seus homens se movimentam em um ataque espetacular no coração da Alemanha nazista.(n)</desc>
+    <credits>
+      <actor role="Don &quot;Wardaddy&quot; Collier">Brad Pitt</actor>
+      <actor role="Boyd &quot;Bible&quot; Swan">Shia LaBeouf</actor>
+      <actor role="Norman Ellison">Logan Lerman</actor>
+      <actor role="Trini &quot;Gordo&quot; Garcia">Michael Peña</actor>
+      <actor role="Grady &quot;Coon-Ass&quot; Travis">Jon Bernthal</actor>
+      <actor role="Capt. Waggoner">Jason Isaacs</actor>
+      <actor role="Sgt. Davis">Brad William Henke</actor>
+      <actor role="Sgt. Binkowski">Jim Parrack</actor>
+      <actor role="Lt. Parker">Xavier Samuel</actor>
+      <actor role="Sgt. Miles">Scott Eastwood</actor>
+      <producer>Bill Block</producer>
+      <producer>David Ayer</producer>
+      <producer>Ethan Smith</producer>
+      <producer>John Lesher</producer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Drama Histórico</category>
+    <category lang="en">Guerra</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p10731391_v_h8_ak.jpg?w=3840&amp;h=2160" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230422024700 +0000" stop="20230422042200 +0000" channel="A&amp;E H265">
+    <title lang="en">Locke</title>
+    <desc lang="en">A vida do brilhante Ivan Locke muda completamente quando recebe um telefonema ameaçando a segurança de sua família e sua carreira. Ele embarca em uma corrida contra o tempo, em que só tem 90 minutos.(n)</desc>
+    <credits>
+      <actor role="Ivan Locke">Tom Hardy</actor>
+      <actor role="Katrina">Ruth Wilson</actor>
+      <actor role="Donal">Andrew Scott</actor>
+      <actor role="Eddie">Tom Holland</actor>
+      <actor role="Bethan">Olivia Colman</actor>
+      <actor role="Sister Margaret">Alice Lowe</actor>
+      <actor role="Gareth">Ben Daniels</actor>
+      <actor role="Sean">Bill Milner</actor>
+      <producer>Paul Webster</producer>
+      <producer>Guy Heeley</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Drama</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p10455677_v_h8_ac.jpg?w=3840&amp;h=2160" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422042200 +0000" stop="20230422060400 +0000" channel="A&amp;E H265">
+    <title lang="en">Assassino a Preço Fixo</title>
+    <desc lang="en">Arthur Bishop, um talentoso assassino de elite recebe a missão de matar seu melhor amigo, Harry McKenna. Após cumpri-la, Arthur reencontra Steve, o filho de Harry. Desejando vingança, Steve recebe a ajuda de Arthur para se tornar um assassino.(n)</desc>
+    <credits>
+      <actor role="Arthur Bishop">Jason Statham</actor>
+      <actor role="Steve">Ben Foster</actor>
+      <actor role="Harry">Donald Sutherland</actor>
+      <actor role="Dean">Tony Goldwyn</actor>
+      <actor role="Burke">Jeff Chase</actor>
+      <actor role="Sarah">Mini Anden</actor>
+      <actor role="Jorge Lara">James Logan</actor>
+      <actor role="Lara's Guard">Eddie Fernandez</actor>
+      <producer>David Winkler</producer>
+      <producer>Bill Chartoff</producer>
+      <producer>René Besson</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Ação</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p8257653_v_h8_at.jpg?w=3840&amp;h=2160" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230422060400 +0000" stop="20230422065600 +0000" channel="A&amp;E H265">
+    <title lang="en">Acumuladores Compulsivos</title>
+    <sub-title lang="en">Debbie</sub-title>
+    <desc lang="en">Debbie trabalhou duro como mãe solteira e enfrentou a solidão quando seu único filho cresceu e se mudou de casa. A perda repentina da mãe de Debbie e os cuidados com seu pai deprimido fizeram com que Debbie tentasse escapar do estresse constante. Comprar em brechós deu conforto a Debbie, mas também desencadeou seu distúrbio de acumulação. Agora Debbie quer construir uma nova vida com o namorado.(n)</desc>
+    <credits>
+      <writer>Marcus Goodwin</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Saúde</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p20358842_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E140</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230422065600 +0000" stop="20230422070100 +0000" channel="A&amp;E H265">
+    <title lang="en">Listas</title>
+    <sub-title lang="en">Três Filmes de Tubarão</sub-title>
+    <desc lang="en">Veja recomendações de filmes, séries e programas com um tema em comum, sejam eles abrangentes, específicos ou até inusitados.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Entretenimento</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p19400013_e_h10_aa.jpg" />
+    <episode-num system="onscreen">S1 E19/24</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230422070100 +0000" stop="20230422074600 +0000" channel="A&amp;E H265">
+    <title lang="en">Acumuladores Compulsivos</title>
+    <sub-title lang="en">Debbie</sub-title>
+    <desc lang="en">Debbie trabalhou duro como mãe solteira e enfrentou a solidão quando seu único filho cresceu e se mudou de casa. A perda repentina da mãe de Debbie e os cuidados com seu pai deprimido fizeram com que Debbie tentasse escapar do estresse constante. Comprar em brechós deu conforto a Debbie, mas também desencadeou seu distúrbio de acumulação. Agora Debbie quer construir uma nova vida com o namorado.(n)</desc>
+    <credits>
+      <writer>Marcus Goodwin</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Saúde</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p20358845_e_h10_ab.jpg" />
+    <episode-num system="onscreen">E141</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230422074600 +0000" stop="20230422080800 +0000" channel="A&amp;E H265">
+    <title lang="en">Apertem os Cintos!</title>
+    <desc lang="en">Um tornado aterrissa em St. Louis e arrasa o seu pequeno aeroporto; um grupo de passageiros rebeldes tenta abrir as portas das cabines de diferentes aviões; um saco que solta uma fumaça suspeita é deixado no aeroporto.(n)</desc>
+    <credits>
+      <presenter>Robert Hays</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p20403768_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230422080800 +0000" stop="20230422081300 +0000" channel="A&amp;E H265">
+    <title lang="en">Listas</title>
+    <sub-title lang="en">Três Vezes Christian Bale</sub-title>
+    <desc lang="en">Veja recomendações de filmes, séries e programas com um tema em comum, sejam eles abrangentes, específicos ou até inusitados.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Entretenimento</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p19299346_b_h10_aa.jpg" />
+    <episode-num system="onscreen">S1 E9/24</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230422081300 +0000" stop="20230422090000 +0000" channel="A&amp;E H265">
+    <title lang="en">As Primeiras 48 Horas</title>
+    <sub-title lang="en">Irmãos ao Chão</sub-title>
+    <desc lang="en">Dois irmãos são mortos a tiros enquanto vigiavam a equipe de limpeza do turno noturno. Para poder descobrir a identidade do assassino, os detetives de Tulsa têm que mover céus e terras para encontrar o motivo do crime.(n)</desc>
+    <credits>
+      <writer>Elena Sorre</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Legislação</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p17975873_e_h10_aa.jpg" />
+    <episode-num system="onscreen">S21 E13/18</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230422090000 +0000" stop="20230422095200 +0000" channel="A&amp;E H265">
+    <title lang="en">Acumuladores Compulsivos</title>
+    <sub-title lang="en">Carmen</sub-title>
+    <desc lang="en">Depois da perda do seu marido e do seu emprego, Carmen desenvolveu um transtorno de acumulação e ficou viciada em compras. Melissa, a sua filha, teme que a sua vida esteja ficando fora de controle visto que ela parou de se comunicar com sua família.(n)</desc>
+    <credits>
+      <writer>Marcus Goodwin</writer>
+    </credits>
+    <category lang="en">Reality</category>
+    <category lang="en">Saúde</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p22512787_e_h10_aa.jpg?w=1920&amp;h=1080" />
+    <episode-num system="onscreen">E142</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230422095200 +0000" stop="20230422104000 +0000" channel="A&amp;E H265">
+    <title lang="en">Casos Arquivados</title>
+    <sub-title lang="en">Fantasmas de Sexta-Feira à Noite</sub-title>
+    <desc lang="en">Os corpos de cinco pessoas sequestradas de um restaurante em 1983 são encontrados em um campo de petróleo. As pessoas acreditavam que o principal suspeito era um homem local bem relacionado, até que evidências revelam os verdadeiros assassinos.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Documentário</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p21523763_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230422104000 +0000" stop="20230422112700 +0000" channel="A&amp;E H265">
+    <title lang="en">Casos Arquivados</title>
+    <sub-title lang="en">Sobrevivente</sub-title>
+    <desc lang="en">No início de 1984, Vanessa Bennett, de três anos, torna-se a única sobrevivente do brutal assassinato de sua família. Os Investigadores suspeitam de um serial killer, mas décadas se passam e um exame de DNA aponta para um homem.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Documentário</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p22011018_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E27</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230422112700 +0000" stop="20230422113200 +0000" channel="A&amp;E H265">
+    <title lang="en">Listas</title>
+    <sub-title lang="en">Estrelado e Dirigido por Clint Eastwood</sub-title>
+    <desc lang="en">Veja recomendações de filmes, séries e programas com um tema em comum, sejam eles abrangentes, específicos ou até inusitados.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Entretenimento</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p19299346_b_h10_aa.jpg" />
+    <episode-num system="onscreen">S1 E16/24</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230422113200 +0000" stop="20230422130100 +0000" channel="A&amp;E H265">
+    <title lang="en">Gosto se Discute</title>
+    <desc lang="en">Um chef perde o paladar quando precisa fazer um novo cardápio para conquistar a jovem e bela gerente de seu restaurante.(n)</desc>
+    <credits>
+      <actor role="Augusto">Cássio Gabus Mendes</actor>
+      <actor role="Cristina">Kéfera Buchmann</actor>
+      <actor role="Patrick">Gabriel Godoy</actor>
+      <actor>Mariana Ximenes</actor>
+      <actor>Paulo Gustavo</actor>
+      <actor role="Romualdo">Paulo Miklos</actor>
+      <actor role="Josenildo">Robson Nunes</actor>
+      <actor>Rodrigo López</actor>
+      <actor>Ronaldo Reis</actor>
+      <actor role="Sandra">Sílvia Lourenço</actor>
+      <writer>André Pellenz</writer>
+      <producer>André Pellenz</producer>
+      <producer>Cássio Gabus Mendes</producer>
+      <producer>Lara Guaranys</producer>
+      <producer>Marcus Baldini</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Comédia Dramática</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p14440241_v_h10_aa.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230422130100 +0000" stop="20230422144700 +0000" channel="A&amp;E H265">
+    <title lang="en">Entre Idas e Vindas</title>
+    <desc lang="en">Quatro operadoras de telemarketing fazem uma viagem e encontram pai e filho pedindo carona na estrada. O que seria uma simples carona acaba se transformando em uma viagem cheia de aventuras e transformações pessoais.(n)</desc>
+    <credits>
+      <actor role="Amanda">Ingrid Guimarães</actor>
+      <actor role="Afonso (as Fabio Assunção)">Fábio Assunção</actor>
+      <actor role="Sandra">Alice Braga</actor>
+      <actor role="Krisse">Rosanne Mulholland</actor>
+      <actor role="Cillie">Caroline Abras</actor>
+      <actor role="Benedito">João Assunção</actor>
+      <actor>Eucir de Souza</actor>
+      <actor role="Morena Balsa">Camila Márdila</actor>
+      <actor role="Angela">Marisol Ribeiro</actor>
+      <actor role="Balsa Attendant (as Sérgio Thadeu Iglesias 'Boi')">Sergio Iglesias</actor>
+      <writer>Cláudia Jouvin</writer>
+      <writer>José Eduardo Belmonte</writer>
+      <writer>João Gabriel Mancuso Belmonte</writer>
+      <producer>José Eduardo Belmonte</producer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Comédia Dramática</category>
+    <category lang="en">Romance</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p13021802_v_h8_ac.jpg?w=3840&amp;h=2160" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230422144700 +0000" stop="20230422162400 +0000" channel="A&amp;E H265">
+    <title lang="en">Locke</title>
+    <desc lang="en">A vida do brilhante Ivan Locke muda completamente quando recebe um telefonema ameaçando a segurança de sua família e sua carreira. Ele embarca em uma corrida contra o tempo, em que só tem 90 minutos.(n)</desc>
+    <credits>
+      <actor role="Ivan Locke">Tom Hardy</actor>
+      <actor role="Katrina">Ruth Wilson</actor>
+      <actor role="Donal">Andrew Scott</actor>
+      <actor role="Eddie">Tom Holland</actor>
+      <actor role="Bethan">Olivia Colman</actor>
+      <actor role="Sister Margaret">Alice Lowe</actor>
+      <actor role="Gareth">Ben Daniels</actor>
+      <actor role="Sean">Bill Milner</actor>
+      <producer>Paul Webster</producer>
+      <producer>Guy Heeley</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Drama</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p10455677_v_h8_ac.jpg?w=3840&amp;h=2160" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422162400 +0000" stop="20230422181400 +0000" channel="A&amp;E H265">
+    <title lang="en">A Última Casa da Rua</title>
+    <desc lang="en">Para recomeçar a vida depois do divórcio, Sarah e a filha Elissa se mudam para uma pequena cidade. Logo, descobrem o terrível segredo do local: anos antes, uma jovem matou os pais e desapareceu, deixando o irmão, Ryan, com quem Elissa se envolve.(n)</desc>
+    <credits>
+      <actor role="Elissa">Jennifer Lawrence</actor>
+      <actor role="Ryan">Max Thieriot</actor>
+      <actor role="Sarah">Elisabeth Shue</actor>
+      <actor role="Weaver">Gil Bellows</actor>
+      <actor role="Carrie Anne">Eva Link</actor>
+      <actor role="Tyler">Nolan Gerard Funk</actor>
+      <actor role="Jillian">Allie MacDonald</actor>
+      <actor role="Penn State Carrie Anne">Jordan Hayes</actor>
+      <actor role="Mary Jacobson">Krista Bridges</actor>
+      <actor role="Ben Reynolds">James Thomas</actor>
+      <producer>Aaron Ryder</producer>
+      <producer>Peter Block</producer>
+      <producer>Hal Lieberman</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Terror</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p8890173_v_h8_al.jpg?w=3840&amp;h=2160" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422181400 +0000" stop="20230422195600 +0000" channel="A&amp;E H265">
+    <title lang="en">Assassino a Preço Fixo</title>
+    <desc lang="en">Arthur Bishop, um talentoso assassino de elite recebe a missão de matar seu melhor amigo, Harry McKenna. Após cumpri-la, Arthur reencontra Steve, o filho de Harry. Desejando vingança, Steve recebe a ajuda de Arthur para se tornar um assassino.(n)</desc>
+    <credits>
+      <actor role="Arthur Bishop">Jason Statham</actor>
+      <actor role="Steve">Ben Foster</actor>
+      <actor role="Harry">Donald Sutherland</actor>
+      <actor role="Dean">Tony Goldwyn</actor>
+      <actor role="Burke">Jeff Chase</actor>
+      <actor role="Sarah">Mini Anden</actor>
+      <actor role="Jorge Lara">James Logan</actor>
+      <actor role="Lara's Guard">Eddie Fernandez</actor>
+      <producer>David Winkler</producer>
+      <producer>Bill Chartoff</producer>
+      <producer>René Besson</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Ação</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p8257653_v_h8_at.jpg?w=3840&amp;h=2160" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230422195600 +0000" stop="20230422222500 +0000" channel="A&amp;E H265">
+    <title lang="en">Jogos Vorazes</title>
+    <desc lang="en">Na região antigamente conhecida como América do Norte, a Capital de Panem controla 12 distritos e os força a escolher um garoto e uma garota, conhecidos como tributos, para competir em um evento anual televisionado. Todos os cidadãos assistem aos temidos jogos, no qual os jovens lutam até a morte, de modo que apenas um saia vitorioso. A jovem Katniss Everdeen, do Distrito 12, confia na habilidade de caça e na destreza com o arco, além dos instintos aguçados, nesta competição mortal.(n)</desc>
+    <credits>
+      <actor role="Katniss Everdeen">Jennifer Lawrence</actor>
+      <actor role="Peeta Mellark">Josh Hutcherson</actor>
+      <actor role="Gale Hawthorne">Liam Hemsworth</actor>
+      <actor role="Haymitch Abernathy">Woody Harrelson</actor>
+      <actor role="Effie Trinket">Elizabeth Banks</actor>
+      <actor role="Cinna">Lenny Kravitz</actor>
+      <actor role="Caesar Flickerman">Stanley Tucci</actor>
+      <actor role="President Snow">Donald Sutherland</actor>
+      <actor role="Seneca Crane">Wes Bentley</actor>
+      <actor role="Claudius Templesmith">Toby Jones</actor>
+      <producer>Nina Jacobson</producer>
+      <producer>Jon Kilik</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Ação</category>
+    <category lang="en">Aventura</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p8648012_v_h10_ac.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230422222500 +0000" stop="20230422223000 +0000" channel="A&amp;E H265">
+    <title lang="en">Listas</title>
+    <sub-title lang="en">Representatividade Trans</sub-title>
+    <desc lang="en">Veja recomendações de filmes, séries e programas com um tema em comum, sejam eles abrangentes, específicos ou até inusitados.(n)</desc>
+    <category lang="en">Entretenimento</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p19299346_b_h10_aa.jpg?w=1920&amp;h=1080" />
+    <episode-num system="onscreen">E28</episode-num>
+    <rating>
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20230422223000 +0000" stop="20230423003000 +0000" channel="A&amp;E H265">
+    <title lang="en">A Informante</title>
+    <desc lang="en">A policial Kathy Bolkovac é convidada pelas Nações Unidas para participar da pacificação da Bósnia e acaba descobrindo um escândalo sexual encoberto pela ONU.(n)</desc>
+    <credits>
+      <actor role="Kathryn Bolkovac">Rachel Weisz</actor>
+      <actor role="Laura Levin">Monica Bellucci</actor>
+      <actor role="Madeleine Rees">Vanessa Redgrave</actor>
+      <actor role="Nick Phillips">Benedict Cumberbatch</actor>
+      <actor role="Peter Ward">David Strathairn</actor>
+      <actor role="Bill Hynes">Liam Cunningham</actor>
+      <actor role="Fred Murray">David Hewlett</actor>
+      <actor role="John Blakely">William Hope</actor>
+      <producer>Amy Kaufman</producer>
+      <producer>Christina Piovesan</producer>
+      <producer>Celine Rattray</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Drama</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p8574488_v_h10_ad.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423003000 +0000" stop="20230423023900 +0000" channel="A&amp;E H265">
+    <title lang="en">O Peso do Passado</title>
+    <desc lang="en">Erin Bell é uma detetive da polícia norte-americana que aceita participar de um plano arriscado, infiltrando-se entre bandidos para obter informações. A estratégia dá errado, gerando uma tragédia que marca a sua vida para sempre. Anos mais tarde, ela reencontra pistas da gangue de antigamente, e volta a perseguir os responsáveis por seu drama pessoal.(n)</desc>
+    <credits>
+      <actor role="Erin Bell">Nicole Kidman</actor>
+      <actor role="Silas">Toby Kebbell</actor>
+      <actor role="Petra">Tatiana Maslany</actor>
+      <actor role="Chris">Sebastian Stan</actor>
+      <actor role="Ethan">Scoot McNairy</actor>
+      <actor role="DiFranco">Bradley Whitford</actor>
+      <actor role="Gil Lawson">Toby Huss</actor>
+      <actor role="Toby">James Jordan</actor>
+      <actor role="Jay">Beau Knapp</actor>
+      <actor role="Shelby">Jade Pettyjohn</actor>
+      <producer>Fred Berger</producer>
+      <producer>Phil Hay</producer>
+      <producer>Matt Manfredi</producer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Ação</category>
+    <category lang="en">Drama criminal</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p15839499_v_h8_an.jpg?w=3840&amp;h=2160" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230423023900 +0000" stop="20230423044400 +0000" channel="A&amp;E H265">
+    <title lang="en">Monster - Desejo Assassino</title>
+    <desc lang="en">A infância de Aileen Wuornos foi marcada por abuso sexual e uso de drogas. Na adolescência, ela passou a se prostituir para sobreviver. Quando se mudou para a Flórida, ela conheceu Selby Wall, com que viveu um romance intenso. Certa noite, Aileen foi agredida por um cliente e acabou matando o indivíduo. Este crime deu início a uma série de mortes, fazendo com que ela ficasse conhecida como a primeira assassina em série dos Estados Unidos.(n)</desc>
+    <credits>
+      <actor role="Aileen Wuornos">Charlize Theron</actor>
+      <actor role="Selby Wall">Christina Ricci</actor>
+      <actor role="Thomas">Bruce Dern</actor>
+      <actor role="Horton/Last &quot;John&quot;">Scott Wilson</actor>
+      <actor role="Gene/Stuttering &quot;John&quot;">Pruitt Taylor Vince</actor>
+      <actor role="Vincent Corey">Lee Tergesen</actor>
+      <actor role="Donna Tentler">Annie Corley</actor>
+      <actor role="Eva /Undercover &quot;John&quot;">Marco St. John</actor>
+      <writer>Patty Jenkins</writer>
+      <producer>Mark Damon</producer>
+      <producer>Clark Peterson</producer>
+      <producer>Charlize Theron</producer>
+      <producer>Donald Kushner</producer>
+      <producer>Brad Wyman</producer>
+      <composer>BT</composer>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Biografia</category>
+    <category lang="en">Drama criminal</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p33624_v_h10_ah.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20230423044400 +0000" stop="20230423062800 +0000" channel="A&amp;E H265">
+    <title lang="en">Soldados da Fortuna</title>
+    <desc lang="en">O capitão Craig McKenzie, um ex-soldado das Forças Especiais dos Estados Unidos, é contratado para proteger um grupo de milionários que pagaram uma enorme quantia em dinheiro para experimentar em primeira mão as emoções de excursões militares. No entanto, desta vez, a missão não corre da forma que eles haviam planejado, expondo-os a um perigo real e obrigando o grupo de militares honorários à lutar para sobreviver.(n)</desc>
+    <credits>
+      <actor role="Craig McKenzie">Christian Slater</actor>
+      <actor role="Dimidov">Sean Bean</actor>
+      <actor role="Grimaud">Ving Rhames</actor>
+      <actor role="Sin">Dominic Monaghan</actor>
+      <actor role="Haussman">James Cromwell</actor>
+      <actor role="Mason">Colm Meaney</actor>
+      <actor role="Magda">Sarah Ann Schultz</actor>
+      <actor role="Charles H Vanderbeer">Charlie Bewley</actor>
+      <producer>Robert Crombie</producer>
+      <producer>Jeff Most</producer>
+      <producer>Natalya Smirnova</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Ação</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p9312460_v_h10_ac.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20230423062800 +0000" stop="20230423072200 +0000" channel="A&amp;E H265">
+    <title lang="en">Acumuladores Compulsivos</title>
+    <sub-title lang="en">Terri</sub-title>
+    <desc lang="en">Terri quer se casar, mas o seu distúrbio de acumulação está atrapalhando o seu relacionamento. A doença a tem levado inclusive a acumular coisas na casa onde trabalha cuidando de um homem idoso. Agora toda a sua vida está na balança.(n)</desc>
+    <credits>
+      <writer>Marcus Goodwin</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Saúde</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p22541107_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E134</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230423072200 +0000" stop="20230423081100 +0000" channel="A&amp;E H265">
+    <title lang="en">Acumuladores Compulsivos</title>
+    <sub-title lang="en">Terri</sub-title>
+    <desc lang="en">Terri quer se casar, mas o seu distúrbio de acumulação está atrapalhando o seu relacionamento. A doença a tem levado inclusive a acumular coisas na casa onde trabalha cuidando de um homem idoso. Agora toda a sua vida está na balança.(n)</desc>
+    <credits>
+      <writer>Marcus Goodwin</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Saúde</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p22541111_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E135</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230423081100 +0000" stop="20230423090000 +0000" channel="A&amp;E H265">
+    <title lang="en">As Primeiras 48 Horas</title>
+    <sub-title lang="en">Emboscada no Meio da Noite</sub-title>
+    <desc lang="en">Os detetives de Tulsa investigam o assassinato de um pai de família que foi morto a tiros por um criminoso que se escondeu em um estacionamento ao atacá-lo. Enquanto isso, em Mobile, um idoso morre durante um incêndio suspeito em seu apartamento.(n)</desc>
+    <credits>
+      <writer>Elena Sorre</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Legislação</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p17976171_e_h10_aa.jpg" />
+    <episode-num system="onscreen">S21 E15/18</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230423090000 +0000" stop="20230423095100 +0000" channel="A&amp;E H265">
+    <title lang="en">Acumuladores Compulsivos</title>
+    <sub-title lang="en">Kate</sub-title>
+    <desc lang="en">Kate costumava colecionar itens de seus clientes para decorar as casas que vendia quando trabalhava como corretora de imóveis. Após perder o marido, a dor a levou a transformar sua casa em um caos e agora ela acumula centenas de multas da prefeitura.(n)</desc>
+    <credits>
+      <writer>Marcus Goodwin</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Saúde</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p22678098_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E144</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230423095100 +0000" stop="20230423104000 +0000" channel="A&amp;E H265">
+    <title lang="en">Serial Killer - O Começo de Tudo</title>
+    <sub-title lang="en">Anthony Sowell - O Estrangulador de Cleveland</sub-title>
+    <desc lang="en">Mulheres negras no bairro de Mt. Pleasant, em Cleveland, estavam desaparecendo. Anthony Sowell encontrou o controle pelo qual ansiava quando dominou sua primeira vítima vulnerável - uma mulher que esperava apenas conhecer uma pessoa bacana.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Documentário</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p22416168_e_h10_aa.jpg" />
+    <episode-num system="onscreen">S1 E5/6</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230423104000 +0000" stop="20230423112900 +0000" channel="A&amp;E H265">
+    <title lang="en">Serial Killer - O Começo de Tudo</title>
+    <sub-title lang="en">Richard Ramirez - O Perseguidor da Noite</sub-title>
+    <desc lang="en">Richard Ramirez, um dos mais notórios assassinos em série, aterrorizou o sul da Califórnia em meados da década de 1980, onde qualquer um poderia ser alvo do sádico assassino.(n)</desc>
+    <date>2022</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Documentário</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p22416163_e_h10_aa.jpg" />
+    <episode-num system="onscreen">S1 E4/6</episode-num>
+    <rating>
+      <value>A14</value>
+    </rating>
+  </programme>
+  <programme start="20230423112900 +0000" stop="20230423115500 +0000" channel="A&amp;E H265">
+    <title lang="en">Metrópole Bogotá</title>
+    <desc lang="en">Denúncia de venda de drogas desencadeia perseguição em rede de esgoto; a detenção de um homem acaba no hospital, quando ele tenta tirar a própria vida; homem com antecedentes psiquiátricos sofre um surto violento; um motociclista é pego no bafômetro, mas descobre-se algo mais.(n)</desc>
+    <date>2021</date>
+    <category lang="en">Documentário</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p20016160_e_h10_aa.jpg" />
+    <episode-num system="onscreen">S1 E2/2</episode-num>
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423115500 +0000" stop="20230423133600 +0000" channel="A&amp;E H265">
+    <title lang="en">Os Caras de Pau</title>
+    <desc lang="en">O anel Tatu Tatuado de Topázio, da socialite Gracinha de Medeiros, está em exposição em um museu. Ela, então, contrata os atrapalhados seguranças Pedrão e Jorginho para vigiarem a joia, uma herança de família. O anel é roubado e a dupla acusada de furto. Para provar que são inocentes, eles terão que enfrentar mafiosos portugueses e uma quadrilha de ninjas.(n)</desc>
+    <credits>
+      <actor role="Leandro Hassum">Marcius Melhem</actor>
+      <actor role="Jorginho">Leandro Hassum</actor>
+      <actor role="Gracinha de Medeiros">Christine Fernandes</actor>
+      <actor role="Museum Director">Márcio Vito</actor>
+      <actor role="Delegate">Adriano Garib</actor>
+      <actor role="Manuel Capone">André Mattos</actor>
+      <actor role="Mobster 1">Augusto Madeira</actor>
+      <actor role="Mobster 2">Antônio Fragoso</actor>
+      <actor role="Mobster 3">Alexandre Regis</actor>
+      <actor role="Mobster 4">Marcello Caridade</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Comédia</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p11629020_v_h10_ad.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20230423133600 +0000" stop="20230423151300 +0000" channel="A&amp;E H265">
+    <title lang="en">Sai de Baixo - O Filme</title>
+    <desc lang="en">Caco Antibes sai da prisão e planeja mais um golpe ao lado de Vavá, Cassandra, Ribamar e Magda, a família mais famosa do Largo do Arouche.(n)</desc>
+    <credits>
+      <actor role="Caco Antibes">Miguel Falabella</actor>
+      <actor role="Cassandra Mathias Sayão">Marisa Orth</actor>
+      <actor role="Vanderley Mathias">Aracy Balabanian</actor>
+      <actor role="Ribamar / Dona Jaula">Tom Cavalcante</actor>
+      <actor role="Caquinho Antibes">Rafael Canedo</actor>
+      <actor role="Cibalena">Cacau Protásio</actor>
+      <actor role="Shayene">Ingrid Guimarães</actor>
+      <actor role="Sunday">Katiuscia Canoro</actor>
+      <actor role="Tony">George Sauma</actor>
+      <actor role="Banqueta / Angelina">Lúcio Mauro Filho</actor>
+      <writer>Miguel Falabella</writer>
+      <producer>Daniel Filho</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Comédia</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p16450834_v_h10_ab.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20230423151300 +0000" stop="20230423165700 +0000" channel="A&amp;E H265">
+    <title lang="en">Soldados da Fortuna</title>
+    <desc lang="en">O capitão Craig McKenzie, um ex-soldado das Forças Especiais dos Estados Unidos, é contratado para proteger um grupo de milionários que pagaram uma enorme quantia em dinheiro para experimentar em primeira mão as emoções de excursões militares. No entanto, desta vez, a missão não corre da forma que eles haviam planejado, expondo-os a um perigo real e obrigando o grupo de militares honorários à lutar para sobreviver.(n)</desc>
+    <credits>
+      <actor role="Craig McKenzie">Christian Slater</actor>
+      <actor role="Dimidov">Sean Bean</actor>
+      <actor role="Grimaud">Ving Rhames</actor>
+      <actor role="Sin">Dominic Monaghan</actor>
+      <actor role="Haussman">James Cromwell</actor>
+      <actor role="Mason">Colm Meaney</actor>
+      <actor role="Magda">Sarah Ann Schultz</actor>
+      <actor role="Charles H Vanderbeer">Charlie Bewley</actor>
+      <producer>Robert Crombie</producer>
+      <producer>Jeff Most</producer>
+      <producer>Natalya Smirnova</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Ação</category>
+    <category lang="en">Suspense</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p9312460_v_h10_ac.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20230423165700 +0000" stop="20230423183500 +0000" channel="A&amp;E H265">
+    <title lang="en">Amityville - O Despertar</title>
+    <desc lang="en">Uma jovem jornalista decide fazer uma reportagem para revelar todos os acontecimentos de Amityville, desde 1976. Ela chega ao local acompanhada de padres, outros jornalistas e de investigadores de atividades paranormais. No entanto, os fenômenos de antigamente voltam a acontecer.(n)</desc>
+    <credits>
+      <actor role="Joan">Jennifer Jason Leigh</actor>
+      <actor role="Belle">Bella Thorne</actor>
+      <actor role="James">Cameron Monaghan</actor>
+      <actor role="Terrence">Thomas Mann</actor>
+      <actor role="Candice">Jennifer Morrison</actor>
+      <actor role="Dr. Milton">Kurtwood Smith</actor>
+      <actor role="Marissa">Taylor Spreitler</actor>
+      <actor role="Juliet">Mckenna Grace</actor>
+      <producer>Jason Blum</producer>
+      <producer>Daniel Farrands</producer>
+      <producer>Casey La Scala</producer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Suspense</category>
+    <category lang="en">Terror</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p11792560_v_h8_ac.jpg?w=3840&amp;h=2160" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20230423183500 +0000" stop="20230423204300 +0000" channel="A&amp;E H265">
+    <title lang="en">A Informante</title>
+    <desc lang="en">A policial Kathy Bolkovac é convidada pelas Nações Unidas para participar da pacificação da Bósnia e acaba descobrindo um escândalo sexual encoberto pela ONU.(n)</desc>
+    <credits>
+      <actor role="Kathryn Bolkovac">Rachel Weisz</actor>
+      <actor role="Laura Levin">Monica Bellucci</actor>
+      <actor role="Madeleine Rees">Vanessa Redgrave</actor>
+      <actor role="Nick Phillips">Benedict Cumberbatch</actor>
+      <actor role="Peter Ward">David Strathairn</actor>
+      <actor role="Bill Hynes">Liam Cunningham</actor>
+      <actor role="Fred Murray">David Hewlett</actor>
+      <actor role="John Blakely">William Hope</actor>
+      <producer>Amy Kaufman</producer>
+      <producer>Christina Piovesan</producer>
+      <producer>Celine Rattray</producer>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Drama</category>
+    <icon src="https://newbanner.online.go.oi.com.br/assets/p8574488_v_h10_ad.jpg?w=1920&amp;h=1080" />
+    <rating>
+      <value>14</value>
+    </rating>
+  </programme>
 </tv>
