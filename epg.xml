@@ -2,8 +2,7 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
-    <icon src="https://www.net.com.br/imagens/logo/a&amp;e_hd-1197_95x39.png" />
-    <url>http://www.netcombo.com.br</url>
+    <url>http://www.clarotv.com.br.EK</url>
   </channel>
   <channel id="A&amp;E FHD">
     <display-name lang="pt">A&amp;E FHD</display-name>
@@ -14,7 +13,7 @@
     <icon src="https://newbanner.online.go.oi.com.br/assets/s77795_h3_ba.png" />
     <url>http://www.oi.com.br</url>
   </channel>
-  <programme start="20230421004400 +0200" stop="20230421025600 +0200" channel="A&amp;E">
+  <programme start="20230421004400 -0300" stop="20230421025600 -0300" channel="A&amp;E">
     <title lang="pt">O Grande Herói</title>
     <desc lang="pt">Marcus Luttrell, um Navy Seal, e sua equipe embarcaram em uma missão para capturar ou matar o notório líder do Taleban Ahmad Shah no final de junho de 2005.(n)</desc>
     <credits>
@@ -28,7 +27,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20230421025600 +0200" stop="20230421035000 +0200" channel="A&amp;E">
+  <programme start="20230421025600 -0300" stop="20230421035000 -0300" channel="A&amp;E">
     <title lang="pt">Acumuladores Compulsivos</title>
     <desc lang="pt">Série sobre acumuladores usando exemplo de pessoas reais.(n)</desc>
     <credits>
@@ -41,7 +40,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230421035000 +0200" stop="20230421043100 +0200" channel="A&amp;E">
+  <programme start="20230421035000 -0300" stop="20230421043100 -0300" channel="A&amp;E">
     <title lang="pt">Acumuladores Compulsivos</title>
     <desc lang="pt">Série sobre acumuladores usando exemplo de pessoas reais.(n)</desc>
     <credits>
@@ -54,7 +53,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230421043100 +0200" stop="20230421045200 +0200" channel="A&amp;E">
+  <programme start="20230421043100 -0300" stop="20230421045200 -0300" channel="A&amp;E">
     <title lang="pt">Apertem Os Cintos!</title>
     <desc lang="pt">Um passageiro faz um discurso explosivo e por conta disso um avião inteiro precisa ser evacuado. Depois, um homem destrói um pequeno aeroporto.(n)</desc>
     <credits>
@@ -66,7 +65,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230421045200 +0200" stop="20230421051300 +0200" channel="A&amp;E">
+  <programme start="20230421045200 -0300" stop="20230421051300 -0300" channel="A&amp;E">
     <title lang="pt">Apertem Os Cintos!</title>
     <desc lang="pt">Funcionários do aeroporto correm para resgatar um menino curioso que está brincando na esteira de bagagens. Um piloto despreocupado tenta introduzir uma garrafa de vodca em seu voo.(n)</desc>
     <credits>
@@ -78,7 +77,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230421051300 +0200" stop="20230421060000 +0200" channel="A&amp;E">
+  <programme start="20230421051300 -0300" stop="20230421060000 -0300" channel="A&amp;E">
     <title lang="pt">As Primeiras 48 Horas</title>
     <desc lang="pt">Os detetives do departamento de homicídios de Tulsa encontram o corpo nu de uma mulher de rua que foi estuprada e estrangulada em um lixão.(n)</desc>
     <credits>
@@ -93,7 +92,7 @@
       <value>5</value>
     </star-rating>
   </programme>
-  <programme start="20230421060000 +0200" stop="20230421065200 +0200" channel="A&amp;E">
+  <programme start="20230421060000 -0300" stop="20230421065200 -0300" channel="A&amp;E">
     <title lang="pt">Acumuladores Compulsivos</title>
     <desc lang="pt">Série sobre acumuladores usando exemplo de pessoas reais.(n)</desc>
     <credits>
@@ -106,7 +105,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230421065200 +0200" stop="20230421073700 +0200" channel="A&amp;E">
+  <programme start="20230421065200 -0300" stop="20230421073700 -0300" channel="A&amp;E">
     <title lang="pt">Acumuladores Compulsivos</title>
     <desc lang="pt">Série sobre acumuladores usando exemplo de pessoas reais.(n)</desc>
     <credits>
@@ -119,7 +118,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230421073700 +0200" stop="20230421082600 +0200" channel="A&amp;E">
+  <programme start="20230421073700 -0300" stop="20230421082600 -0300" channel="A&amp;E">
     <title lang="pt">Mente Criminosa</title>
     <desc lang="pt">Em Dallas, um policial branco de folga mata um homem negro desarmado na sua própria casa, gerando tensões raciais e exigências de justiça.(n)</desc>
     <credits>
@@ -132,7 +131,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230421082600 +0200" stop="20230421091500 +0200" channel="A&amp;E">
+  <programme start="20230421082600 -0300" stop="20230421091500 -0300" channel="A&amp;E">
     <title lang="pt">60 Dias Infiltrados Na Prisão</title>
     <desc lang="pt">À medida que os novos participantes do programa entram na Penitenciária do Condado de Henry, eles vão descobrindo que as condições nas cápsulas de quarentena são muito mais severas do que em suas experiências anteriores.(n)</desc>
     <credits>
@@ -147,7 +146,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20230421091500 +0200" stop="20230421104900 +0200" channel="A&amp;E">
+  <programme start="20230421091500 -0300" stop="20230421104900 -0300" channel="A&amp;E">
     <title lang="pt">Ninguém Entra Ninguém Sai</title>
     <desc lang="pt">Suellen (Letícia Lima), uma moça romântica e estudiosa, tem um sonho: pretende casar-se com seu namorado, Edu (Emiliano D'Ávila), e construir sua nova família.(n)</desc>
     <credits>
@@ -159,7 +158,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20230421104900 +0200" stop="20230421125400 +0200" channel="A&amp;E">
+  <programme start="20230421104900 -0300" stop="20230421125400 -0300" channel="A&amp;E">
     <title lang="pt">Monster</title>
     <sub-title lang="pt">Desejo Assassino</sub-title>
     <desc lang="pt">Aileen se prostitui para sustentar a namorada, até que um de seus clientes se torna mais violento e ela é obrigada a cometer o primeiro crime de uma série de outros que a levarão à própria destruição.(n)</desc>
@@ -179,9 +178,9 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20230421125400 +0200" stop="20230421145400 +0200" channel="A&amp;E">
+  <programme start="20230421125400 -0300" stop="20230421145400 -0300" channel="A&amp;E">
     <title lang="pt">Mente Criminosa</title>
-    <desc lang="pt">Bill Pope (Ryan Reynolds) é um agente da CIA em uma missão em Londres rastreando um hacker sombrio apelidado de.(n)</desc>
+    <desc lang="pt">Bill Pope (Ryan Reynolds) é um agente da CIA em uma missão em Londres rastreando um hacker sombrio apelidado de \.(n)</desc>
     <credits>
       <director>Ariel Vromen</director>
       <actor>Kevin Costner</actor>
@@ -192,7 +191,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20230421145400 +0200" stop="20230421164400 +0200" channel="A&amp;E">
+  <programme start="20230421145400 -0300" stop="20230421164400 -0300" channel="A&amp;E">
     <title lang="pt">A Última Casa Da Rua</title>
     <desc lang="pt">Mãe e filha  se mudam para uma nova cidade, e vão morar ao lado de uma casa com um passado terrível. Anos atrás, em um incidente conhecido, uma garota psicótica assassinou seus pais.(n)</desc>
     <credits>
@@ -206,7 +205,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230421164400 +0200" stop="20230421184900 +0200" channel="A&amp;E">
+  <programme start="20230421164400 -0300" stop="20230421184900 -0300" channel="A&amp;E">
     <title lang="pt">Monster</title>
     <sub-title lang="pt">Desejo Assassino</sub-title>
     <desc lang="pt">Aileen se prostitui para sustentar a namorada, até que um de seus clientes se torna mais violento e ela é obrigada a cometer o primeiro crime de uma série de outros que a levarão à própria destruição.(n)</desc>
@@ -226,7 +225,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20230421184900 +0200" stop="20230421185400 +0200" channel="A&amp;E">
+  <programme start="20230421184900 -0300" stop="20230421185400 -0300" channel="A&amp;E">
     <title lang="pt">Listas</title>
     <desc lang="pt">O programa “Listas” recomenda filmes e/ou séries e programas com um tema em comum, podendo variar desde temas abrangentes como “5 Comédias dos Anos 80”, até assuntos inusitados.(n)</desc>
     <category lang="pt">Diversos</category>
@@ -234,7 +233,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20230421185400 +0200" stop="20230421212300 +0200" channel="A&amp;E">
+  <programme start="20230421185400 -0300" stop="20230421212300 -0300" channel="A&amp;E">
     <title lang="pt">Jogos Vorazes</title>
     <desc lang="pt">Em um futuro distópico, a nação totalitária de Panem é dividida em 12 distritos e o Capitólio. A cada ano, dois jovens representantes de cada distrito são selecionados por sorteio para participar dos Jogos Vorazes.(n)</desc>
     <credits>
@@ -254,7 +253,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20230421212300 +0200" stop="20230421234700 +0200" channel="A&amp;E">
+  <programme start="20230421212300 -0300" stop="20230421234700 -0300" channel="A&amp;E">
     <title lang="pt">Corações De Ferro</title>
     <desc lang="pt">Abril de 1945. Wardaddy, um experiente sargento do exército, comanda um tanque Sherman junto à tripulação de cinco homens, incluindo um novato.(n)</desc>
     <credits>
@@ -268,7 +267,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20230421234700 +0200" stop="20230422012200 +0200" channel="A&amp;E">
+  <programme start="20230421234700 -0300" stop="20230422012200 -0300" channel="A&amp;E">
     <title lang="pt">Locke</title>
     <desc lang="pt">Homem de família dedicado e supervisor de construção de sucesso, Ivan Locke recebe uma ligação na noite anterior ao maior desafio de sua carreira que desencadeia uma série de eventos que ameaçam sua própria existência.(n)</desc>
     <credits>
@@ -288,9 +287,9 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20230422012200 +0200" stop="20230422030400 +0200" channel="A&amp;E">
+  <programme start="20230422012200 -0300" stop="20230422030400 -0300" channel="A&amp;E">
     <title lang="pt">Assassino A Preço Fixo</title>
-    <desc lang="pt">Arthur Bishop é.(n)</desc>
+    <desc lang="pt">Arthur Bishop é \.(n)</desc>
     <credits>
       <director>Simon West</director>
       <actor>Jason Statham</actor>
@@ -308,7 +307,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20230422030400 +0200" stop="20230422035600 +0200" channel="A&amp;E">
+  <programme start="20230422030400 -0300" stop="20230422035600 -0300" channel="A&amp;E">
     <title lang="pt">Acumuladores Compulsivos</title>
     <desc lang="pt">Série sobre acumuladores usando exemplo de pessoas reais.(n)</desc>
     <credits>
@@ -321,7 +320,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230422035600 +0200" stop="20230422040100 +0200" channel="A&amp;E">
+  <programme start="20230422035600 -0300" stop="20230422040100 -0300" channel="A&amp;E">
     <title lang="pt">Listas</title>
     <desc lang="pt">O programa “Listas” recomenda filmes e/ou séries e programas com um tema em comum, podendo variar desde temas abrangentes como “5 Comédias dos Anos 80”, até assuntos inusitados.(n)</desc>
     <category lang="pt">Diversos</category>
@@ -329,7 +328,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20230422040100 +0200" stop="20230422044600 +0200" channel="A&amp;E">
+  <programme start="20230422040100 -0300" stop="20230422044600 -0300" channel="A&amp;E">
     <title lang="pt">Acumuladores Compulsivos</title>
     <desc lang="pt">Série sobre acumuladores usando exemplo de pessoas reais.(n)</desc>
     <credits>
@@ -342,7 +341,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230422044600 +0200" stop="20230422050800 +0200" channel="A&amp;E">
+  <programme start="20230422044600 -0300" stop="20230422050800 -0300" channel="A&amp;E">
     <title lang="pt">Apertem Os Cintos!</title>
     <desc lang="pt">Um tornado aterrissa em St. Louis e arrasa o seu pequeno aeroporto. Depois, um grupo de passageiros rebeldes tenta abrir as portas das cabines de diferentes aviões.(n)</desc>
     <credits>
@@ -354,7 +353,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230422050800 +0200" stop="20230422051300 +0200" channel="A&amp;E">
+  <programme start="20230422050800 -0300" stop="20230422051300 -0300" channel="A&amp;E">
     <title lang="pt">Listas</title>
     <desc lang="pt">O programa “Listas” recomenda filmes e/ou séries e programas com um tema em comum, podendo variar desde temas abrangentes como “5 Comédias dos Anos 80”, até assuntos inusitados.(n)</desc>
     <category lang="pt">Diversos</category>
@@ -362,7 +361,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20230422051300 +0200" stop="20230422060000 +0200" channel="A&amp;E">
+  <programme start="20230422051300 -0300" stop="20230422060000 -0300" channel="A&amp;E">
     <title lang="pt">As Primeiras 48 Horas</title>
     <desc lang="pt">Dois irmãos são mortos a tiros enquanto vigiavam a equipe de limpeza do turno noturno. Para poder descobrir a identidade do assassino, os detetives de Tulsa terão que mover céus e terras para encontrar o motivo do crime.(n)</desc>
     <credits>
@@ -377,7 +376,7 @@
       <value>5</value>
     </star-rating>
   </programme>
-  <programme start="20230422060000 +0200" stop="20230422065200 +0200" channel="A&amp;E">
+  <programme start="20230422060000 -0300" stop="20230422065200 -0300" channel="A&amp;E">
     <title lang="pt">Acumuladores Compulsivos</title>
     <desc lang="pt">Depois da perda do seu marido e do seu emprego, Carmen desenvolveu um transtorno de acumulação e ficou viciada em compras online.(n)</desc>
     <credits>
@@ -389,7 +388,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230422065200 +0200" stop="20230422074000 +0200" channel="A&amp;E">
+  <programme start="20230422065200 -0300" stop="20230422074000 -0300" channel="A&amp;E">
     <title lang="pt">Casos Arquivados</title>
     <desc lang="pt">No final de 1983, os corpos de cinco pessoas sequestradas de um restaurante local de fast food são encontrados brutalmente assassinados em um campo de petróleo.(n)</desc>
     <credits>
@@ -406,7 +405,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20230422074000 +0200" stop="20230422082700 +0200" channel="A&amp;E">
+  <programme start="20230422074000 -0300" stop="20230422082700 -0300" channel="A&amp;E">
     <title lang="pt">Casos Arquivados</title>
     <desc lang="pt">No início de 1984, Vanessa Bennett, de três anos, torna-se a única sobrevivente do brutal assassinato de sua família. Investigadores iniciais suspeitam que um serial killer esteja à solta.(n)</desc>
     <credits>
@@ -421,7 +420,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20230422082700 +0200" stop="20230422083200 +0200" channel="A&amp;E">
+  <programme start="20230422082700 -0300" stop="20230422083200 -0300" channel="A&amp;E">
     <title lang="pt">Listas</title>
     <desc lang="pt">O programa “Listas” recomenda filmes e/ou séries e programas com um tema em comum, podendo variar desde temas abrangentes como “5 Comédias dos Anos 80”, até assuntos inusitados.(n)</desc>
     <category lang="pt">Diversos</category>
@@ -429,7 +428,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20230422083200 +0200" stop="20230422100100 +0200" channel="A&amp;E">
+  <programme start="20230422083200 -0300" stop="20230422100100 -0300" channel="A&amp;E">
     <title lang="pt">Gosto Se Discute</title>
     <desc lang="pt">Augusto é chef de um restaurante consagrado que já viveu dias melhores. A gerente Cristina então chega para colocar ordem na casa, mas tudo fica comprometido já que o cozinheiro descobre estar sem paladar.(n)</desc>
     <credits>
@@ -445,7 +444,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20230422100100 +0200" stop="20230422114700 +0200" channel="A&amp;E">
+  <programme start="20230422100100 -0300" stop="20230422114700 -0300" channel="A&amp;E">
     <title lang="pt">Entre Idas E Vindas</title>
     <desc lang="pt">Amanda, Sandra, Cillie e Krisse, quatro amigas que trabalham no departamento de telemarketing de uma empresa, embarcam em um motorhome para fazer uma viagem de férias pelo litoral sul de São Paulo.(n)</desc>
     <credits>
@@ -458,7 +457,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20230422114700 +0200" stop="20230422132400 +0200" channel="A&amp;E">
+  <programme start="20230422114700 -0300" stop="20230422132400 -0300" channel="A&amp;E">
     <title lang="pt">Locke</title>
     <desc lang="pt">Homem de família dedicado e supervisor de construção de sucesso, Ivan Locke recebe uma ligação na noite anterior ao maior desafio de sua carreira que desencadeia uma série de eventos que ameaçam sua própria existência.(n)</desc>
     <credits>
@@ -478,7 +477,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20230422132400 +0200" stop="20230422151400 +0200" channel="A&amp;E">
+  <programme start="20230422132400 -0300" stop="20230422151400 -0300" channel="A&amp;E">
     <title lang="pt">A Última Casa Da Rua</title>
     <desc lang="pt">Mãe e filha  se mudam para uma nova cidade, e vão morar ao lado de uma casa com um passado terrível. Anos atrás, em um incidente conhecido, uma garota psicótica assassinou seus pais.(n)</desc>
     <credits>
@@ -492,9 +491,9 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230422151400 +0200" stop="20230422165600 +0200" channel="A&amp;E">
+  <programme start="20230422151400 -0300" stop="20230422165600 -0300" channel="A&amp;E">
     <title lang="pt">Assassino A Preço Fixo</title>
-    <desc lang="pt">Arthur Bishop é.(n)</desc>
+    <desc lang="pt">Arthur Bishop é \.(n)</desc>
     <credits>
       <director>Simon West</director>
       <actor>Jason Statham</actor>
@@ -512,7 +511,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20230422165600 +0200" stop="20230422192500 +0200" channel="A&amp;E">
+  <programme start="20230422165600 -0300" stop="20230422192500 -0300" channel="A&amp;E">
     <title lang="pt">Jogos Vorazes</title>
     <desc lang="pt">Em um futuro distópico, a nação totalitária de Panem é dividida em 12 distritos e o Capitólio. A cada ano, dois jovens representantes de cada distrito são selecionados por sorteio para participar dos Jogos Vorazes.(n)</desc>
     <credits>
@@ -532,7 +531,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20230422192500 +0200" stop="20230422193000 +0200" channel="A&amp;E">
+  <programme start="20230422192500 -0300" stop="20230422193000 -0300" channel="A&amp;E">
     <title lang="pt">Listas</title>
     <desc lang="pt">O programa “Listas” recomenda filmes e/ou séries e programas com um tema em comum, podendo variar desde temas abrangentes como “5 Comédias dos Anos 80”, até assuntos inusitados.(n)</desc>
     <category lang="pt">Diversos</category>
@@ -540,7 +539,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20230422193000 +0200" stop="20230422213000 +0200" channel="A&amp;E">
+  <programme start="20230422193000 -0300" stop="20230422213000 -0300" channel="A&amp;E">
     <title lang="pt">A Informante</title>
     <desc lang="pt">As experiências de Kathryn Bolkovac, uma oficial de polícia de Nebraska, que trabalhou nas forças de paz na Bósnia no período pós-guerra, e que foi marginalizada pelas Nações Unidas para encobrir um escândalo sexual.(n)</desc>
     <credits>
@@ -553,7 +552,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20230422213000 +0200" stop="20230422233900 +0200" channel="A&amp;E">
+  <programme start="20230422213000 -0300" stop="20230422233900 -0300" channel="A&amp;E">
     <title lang="pt">O Peso do Passado</title>
     <desc lang="pt">A vencedora do Oscar Nicole Kidman interpreta Erin Bell, uma detective de L.A. com um passado traumático em procura de vingança e redenção.(n)</desc>
     <credits>
@@ -572,7 +571,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20230422233900 +0200" stop="20230423014400 +0200" channel="A&amp;E">
+  <programme start="20230422233900 -0300" stop="20230423014400 -0300" channel="A&amp;E">
     <title lang="pt">Monster</title>
     <sub-title lang="pt">Desejo Assassino</sub-title>
     <desc lang="pt">Aileen se prostitui para sustentar a namorada, até que um de seus clientes se torna mais violento e ela é obrigada a cometer o primeiro crime de uma série de outros que a levarão à própria destruição.(n)</desc>
@@ -592,7 +591,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20230423014400 +0200" stop="20230423032800 +0200" channel="A&amp;E">
+  <programme start="20230423014400 -0300" stop="20230423032800 -0300" channel="A&amp;E">
     <title lang="pt">Soldados Da Fortuna</title>
     <desc lang="pt">O governo americano cria um programa em que milionários com sede de adrenalina pagam uma pequena fortuna para fazerem parte de uma verdadeira operação militar. No entanto, o plano não sai como esperado.(n)</desc>
     <credits>
@@ -609,7 +608,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20230423032800 +0200" stop="20230423042200 +0200" channel="A&amp;E">
+  <programme start="20230423032800 -0300" stop="20230423042200 -0300" channel="A&amp;E">
     <title lang="pt">Acumuladores Compulsivos</title>
     <desc lang="pt">Terri quer se casar, mas o seu distúrbio de acumulação está atrapalhando o seu relacionamento. A doença a tem levado inclusive a acumular coisas na casa onde trabalha cuidando de um homem idoso.(n)</desc>
     <credits>
@@ -621,7 +620,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230423042200 +0200" stop="20230423051100 +0200" channel="A&amp;E">
+  <programme start="20230423042200 -0300" stop="20230423051100 -0300" channel="A&amp;E">
     <title lang="pt">Acumuladores Compulsivos</title>
     <desc lang="pt">Terri quer se casar, mas o seu distúrbio de acumulação está atrapalhando o seu relacionamento. A doença a tem levado inclusive a acumular coisas na casa onde trabalha cuidando de um homem idoso.(n)</desc>
     <credits>
@@ -633,7 +632,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230423051100 +0200" stop="20230423060000 +0200" channel="A&amp;E">
+  <programme start="20230423051100 -0300" stop="20230423060000 -0300" channel="A&amp;E">
     <title lang="pt">As Primeiras 48 Horas</title>
     <desc lang="pt">Os detetives de Tulsa investigam o assassinato de um pai de família que foi morto a tiros por um criminoso que se escondeu em um estacionamento ao atacá-lo.(n)</desc>
     <credits>
@@ -648,7 +647,7 @@
       <value>5</value>
     </star-rating>
   </programme>
-  <programme start="20230423060000 +0200" stop="20230423065100 +0200" channel="A&amp;E">
+  <programme start="20230423060000 -0300" stop="20230423065100 -0300" channel="A&amp;E">
     <title lang="pt">Acumuladores Compulsivos</title>
     <desc lang="pt">Quando trabalhava como corretora de imóveis, Kate costumava colecionar itens de seus clientes para decorar as casas que vendia.(n)</desc>
     <credits>
@@ -660,7 +659,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230423065100 +0200" stop="20230423074000 +0200" channel="A&amp;E">
+  <programme start="20230423065100 -0300" stop="20230423074000 -0300" channel="A&amp;E">
     <title lang="pt">Serial Killer: O Começo De Tudo</title>
     <desc lang="pt">Mulheres afro-americanas no bairro Mt. Pleasant de Cleveland estavam desaparecendo. Suas famílias estavam desesperadas por ajuda, mas ninguém parecia saber o que estava acontecendo com eles, ninguém, exceto Anthony Sowell.(n)</desc>
     <credits>
@@ -672,7 +671,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230423074000 +0200" stop="20230423082900 +0200" channel="A&amp;E">
+  <programme start="20230423074000 -0300" stop="20230423082900 -0300" channel="A&amp;E">
     <title lang="pt">Serial Killer: O Começo De Tudo</title>
     <desc lang="pt">Richard Ramirez, um dos mais notórios assassinos em série, aterrorizou o sul da Califórnia em meados da década de 1980, onde qualquer um poderia ser alvo do assassino sádico.(n)</desc>
     <credits>
@@ -684,7 +683,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230423082900 +0200" stop="20230423085500 +0200" channel="A&amp;E">
+  <programme start="20230423082900 -0300" stop="20230423085500 -0300" channel="A&amp;E">
     <title lang="pt">Metrópole Bogotá</title>
     <desc lang="pt">Uma denúncia de venda de drogas desencadeia uma perseguição em uma rede de esgoto. A detenção de um homem acaba no hospital, quando ele tenta tirar a própria vida.(n)</desc>
     <credits>
@@ -696,7 +695,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20230423085500 +0200" stop="20230423103600 +0200" channel="A&amp;E">
+  <programme start="20230423085500 -0300" stop="20230423103600 -0300" channel="A&amp;E">
     <title lang="pt">Os Caras de Pau</title>
     <desc lang="pt">Pedrão e Jorginho (Marcius Melhem e Leandro Hassum) são seguranças contratados de um importante museu e acabam envolvidos em uma grande confusão após serem acusados do roubo do anel mais valioso do mundo.(n)</desc>
     <credits>
@@ -708,7 +707,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20230423103600 +0200" stop="20230423121300 +0200" channel="A&amp;E">
+  <programme start="20230423103600 -0300" stop="20230423121300 -0300" channel="A&amp;E">
     <title lang="pt">Sai de Baixo</title>
     <desc lang="pt">Caco Antibes sai da prisão e planeja mais um golpe ao lado de Vavá, Cassandra, Ribamar e Magda, a família mais famosa do Largo do Arouche.(n)</desc>
     <credits>
@@ -725,7 +724,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20230423121300 +0200" stop="20230423135700 +0200" channel="A&amp;E">
+  <programme start="20230423121300 -0300" stop="20230423135700 -0300" channel="A&amp;E">
     <title lang="pt">Soldados Da Fortuna</title>
     <desc lang="pt">O governo americano cria um programa em que milionários com sede de adrenalina pagam uma pequena fortuna para fazerem parte de uma verdadeira operação militar. No entanto, o plano não sai como esperado.(n)</desc>
     <credits>
@@ -742,7 +741,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20230423135700 +0200" stop="20230423153500 +0200" channel="A&amp;E">
+  <programme start="20230423135700 -0300" stop="20230423153500 -0300" channel="A&amp;E">
     <title lang="pt">Amityville: O Despertar</title>
     <desc lang="pt">Uma mãe solteira desesperada decide se mudar junto com os seus três filhos à infame casa mal-assombrada de Amitville. Planeja usar os poderes obscuros do lugar para despertar uma das crianças de um coma.(n)</desc>
     <credits>
@@ -761,7 +760,7 @@
       <value>2</value>
     </star-rating>
   </programme>
-  <programme start="20230423153500 +0200" stop="20230423174300 +0200" channel="A&amp;E">
+  <programme start="20230423153500 -0300" stop="20230423174300 -0300" channel="A&amp;E">
     <title lang="pt">A Informante</title>
     <desc lang="pt">As experiências de Kathryn Bolkovac, uma oficial de polícia de Nebraska, que trabalhou nas forças de paz na Bósnia no período pós-guerra, e que foi marginalizada pelas Nações Unidas para encobrir um escândalo sexual.(n)</desc>
     <credits>
@@ -774,7 +773,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20230423174300 +0200" stop="20230423191400 +0200" channel="A&amp;E">
+  <programme start="20230423174300 -0300" stop="20230423191400 -0300" channel="A&amp;E">
     <title lang="pt">Corra, Lola, Corra</title>
     <desc lang="pt">Um arrepiante suspense pós MTV, um passeio de montanha-russa, CORRA LOLA, CORRA é a elogiada sensação internacional sobre dois amantes pouco convencionais que têm apenas alguns minutos para mudar o curso de suas vidas.(n)</desc>
     <credits>
@@ -794,7 +793,7 @@
       <value>4</value>
     </star-rating>
   </programme>
-  <programme start="20230423191400 +0200" stop="20230423212300 +0200" channel="A&amp;E">
+  <programme start="20230423191400 -0300" stop="20230423212300 -0300" channel="A&amp;E">
     <title lang="pt">O Peso do Passado</title>
     <desc lang="pt">A vencedora do Oscar Nicole Kidman interpreta Erin Bell, uma detective de L.A. com um passado traumático em procura de vingança e redenção.(n)</desc>
     <credits>
@@ -813,7 +812,7 @@
       <value>3</value>
     </star-rating>
   </programme>
-  <programme start="20230423212300 +0200" stop="20230423233500 +0200" channel="A&amp;E">
+  <programme start="20230423212300 -0300" stop="20230423233500 -0300" channel="A&amp;E">
     <title lang="pt">O Grande Herói</title>
     <desc lang="pt">Marcus Luttrell, um Navy Seal, e sua equipe embarcaram em uma missão para capturar ou matar o notório líder do Taleban Ahmad Shah no final de junho de 2005.(n)</desc>
     <credits>
@@ -827,7 +826,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20230423233500 +0200" stop="20230423234000 +0200" channel="A&amp;E">
+  <programme start="20230423233500 -0300" stop="20230423234000 -0300" channel="A&amp;E">
     <title lang="pt">Listas</title>
     <desc lang="pt">O programa “Listas” recomenda filmes e/ou séries e programas com um tema em comum, podendo variar desde temas abrangentes como “5 Comédias dos Anos 80”, até assuntos inusitados.(n)</desc>
     <category lang="pt">Diversos</category>
@@ -835,9 +834,9 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20230423234000 +0200" stop="20230424014000 +0200" channel="A&amp;E">
+  <programme start="20230423234000 -0300" stop="20230424014000 -0300" channel="A&amp;E">
     <title lang="pt">Mente Criminosa</title>
-    <desc lang="pt">Bill Pope (Ryan Reynolds) é um agente da CIA em uma missão em Londres rastreando um hacker sombrio apelidado de.(n)</desc>
+    <desc lang="pt">Bill Pope (Ryan Reynolds) é um agente da CIA em uma missão em Londres rastreando um hacker sombrio apelidado de \.(n)</desc>
     <credits>
       <director>Ariel Vromen</director>
       <actor>Kevin Costner</actor>
